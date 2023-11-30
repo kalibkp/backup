@@ -5,4 +5,4 @@ cat pma.txt |sort |uniq >> a
 cat a |sort |uniq > pma.txt
 git add .
 git commit -m "update"
-git push origin master
+git push -u origin main
