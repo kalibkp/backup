@@ -9890,3 +9890,1471 @@ Loaded Bin: armcores: 4
 
 185.40.106.84:admin:3b2jlsN4rfffKHF-> oldpass: admin->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
 Loaded Bin: x86_64cores: 
+179.246.53.40:admin:uEtPvOzIGf67kpN-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+50.218.57.64:fa:FkxrQgtjASMFQXk-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #126 SMP Mon Feb 22 17:04:18 CST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+113.250.183.200:root:3sHhH1jKC1aCkag-> oldpass: 1qaz@WSX->Linux iZ2zeb3bg6vqv79npqfukfZ 3.10.0-1127.19.1.el7.x86_64 #1 SMP Tue Aug 25 17:23:54 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+177.116.87.37:root:clUdHiFGwogvrZl-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+81.71.44.225:root:IYjvHwOKsEm0VZm-> oldpass: root123456->Linux e2dd7c9afbcf 3.10.0-1160.76.1.el7.x86_64 #1 SMP Wed Aug 10 16:21:17 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+223.212.48.17:admin:JcrkoilkdUsawCU-> oldpass: 123456->Linux R8000-A531 2.6.36.4brcmarm #1 SMP PREEMPT Tue Sep 25 23:05:44 CST 2018 armv7l Merlin-Koolshare
+Loaded Bin: armcores: 2
+
+120.159.209.4:admin:lp8XOTLFgrKu7j1-> oldpass: admin->Linux meye-9b29f3e5 4.19.83 #1 Sat Jun 6 14:23:22 UTC 2020 armv6l GNU/Linux
+Loaded Bin: armcores: 2
+
+179.246.7.87:root:VRHfFdzjyrpmoSH-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+109.183.141.210:root:8IiFTDzS87IcVkL-> oldpass: admin123->Linux IgniteNet 3.18.29 #2 Wed Jun 12 10:35:41 EEST 2019 rlx GNU/Linux
+Loaded Bin: unknowncores: 1
+
+78.188.120.229:user:JPvoABVsvW1uwA5-> oldpass: user->Linux VMG1312-B10D 3.4.11 #2 SMP PREEMPT Tue Jul 12 14:48:03 CST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+125.69.151.51:admin:KdZaK1o6DWLJr7C-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+93.114.246.215:root:bwbmg7rjwecd6pP-> oldpass: test123->Linux test 5.4.0 #1 SMP Wed Jul 12 12:00:44 MSK 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 72
+
+3.94.29.229:root:VIA1YsT8x6VSaPL-> oldpass: root->Linux ip-10-7-2-190.ec2.internal 5.10.199-190.747.amzn2.x86_64 #1 SMP Sat Nov 4 16:55:14 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+121.202.207.239:root:rORBbmne5UCZmwB-> oldpass: root->Linux USR-G809 3.10.14 #57 Thu Jun 10 20:39:06 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+175.215.240.177:admin:KncoEIJeUDfACx5-> oldpass: admin->Linux RT-AC68U-6858 2.6.36.4brcmarm #1 SMP PREEMPT Thu Dec 2 00:38:26 CST 2021 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+50.218.197.78:pi:dKqCGHuwRmLhe6J-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.171.32.231:pi:hWxC0aEyQCbvnMC-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.218.197.78:fa:svIBDidifZGQ2Ux-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.171.32.231:fa:W2YqxkRLYq0ZLCM-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+125.56.6.181:admin:w4OUItGswBLXytO-> oldpass: admin->Linux Miyashita 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+67.197.28.243:admin:UcNDgYma67cMo9K-> oldpass: admin1234->Linux RT-AC1900P-8F38 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+97.150.71.43:admin:v7mxRuY9pAwKSHu-> oldpass: admin->Linux Infinite-V6 3.4.113 #3 SMP Tue Mar 22 15:45:57 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+115.224.77.92:admin:m4tp6ljUnWnLrul-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+88.248.181.237:admin:aDc9gEwrAbpmSj6-> oldpass: admin->Linux kat-2Akoridor 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+217.122.5.235:admin:6TwvwKmORezntz0-> oldpass: admin->Linux NAS-Iwan 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+92.25.87.94:craft:SnDuskqUs91FCbe-> oldpass: craft->Linux QT200-CMWARW-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+179.246.23.38:root:Pz4HT2t0CHcyGMd-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+40.84.7.23:postgres:eDMkEjXO8TE5Dmq-> oldpass: postgres->Linux moss-sonarqube 4.18.0-526.el8.x86_64 #1 SMP Sat Nov 18 00:54:11 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+75.191.144.11:kubernetes:tDnQwxRUAslnlvx-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+61.138.165.126:user:mrshHyGRnoPjkbX-> oldpass: user->Linux host 4.14.53-rt34 #1 SMP PREEMPT RT Thu Apr 13 16:51:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+191.10.150.70:root:ZWImBTePXXnn4Mt-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+189.94.205.137:admin:sjOmrPohmigMM04-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+218.156.108.222:fa:wyxESzHm8D18p5y-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+59.1.81.253:fa:egRkIx9UmDSvdgK-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+217.122.5.235:admin:2jbbENOfbISV3Yp-> oldpass: admin->Linux NAS-Iwan 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+177.199.4.253:admin:PERnt6s3EABSID8-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+115.23.23.89:pi:wrs2yRvVArO7HST-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+115.23.23.89:fa:g4ZLL15I73aD7yR-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+191.204.11.155:root:2TylOf49y4UrZQE-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+212.231.227.253:admin:CbKpSPHR5AwDkBz-> oldpass: admin->Linux NAS 3.4.6 #1 Sat Jun 29 09:33:57 CST 2019 armv5tel unknown
+Loaded Bin: armcores:       0
+
+115.224.77.92:admin:eNqKC1x7sgaz3zT-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+115.23.23.89:pi:N73K2aoM3gn5IK9-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+115.23.23.89:fa:0AePi9iQZ4bSx5I-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+45.158.22.58:root:vjJRJKDRJIzTLTT-> oldpass: 123456->Linux TECHNOVM4321OVN24VO2 5.10.0-26-cloud-amd64 #1 SMP Debian 5.10.197-1 (2023-09-29) x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+123.210.133.127:root:MyOBL8VTDDgYAa8-> oldpass: admin123->Linux TRBC-LCT-01 3.10.0-uc0 #1 Fri Jan 31 08:30:14 UTC 2020 armv7l unknown
+Loaded Bin: armcores: 1
+
+45.137.155.250:root:OUgOxJkzpy5SqTa-> oldpass: Root1234->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+45.137.155.250:root:tatBSDGa7blEIZk-> oldpass: Admin1234->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+45.137.155.250:root:sOj1PIHuBdY7zy8-> oldpass: Test1234->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+78.144.65.112:admin:1qrg3oxc53HoSMl-> oldpass: admin->Linux QT200-LSCRO2-2 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+115.224.77.92:admin:kA6NUtBdl6rNizs-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+35.229.185.69:test:VqRYzbrZpdtDTQn-> oldpass: test->Linux prod-vdi01 4.18.0-477.27.1.el8_8.x86_64 #1 SMP Wed Sep 20 15:55:39 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+41.111.183.160:root:PvkJcym5WutdRDf-> oldpass: root->Linux localhost.localdomain 4.18.0-477.10.1.el8_8.x86_64 #1 SMP Tue May 16 07:35:04 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+125.105.126.143:pi:iHQQsxj9ykSYeHm-> oldpass: 123456->Linux raspberrypi 5.15.84-v7l+ #1613 SMP Thu Jan 5 12:01:26 GMT 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+1.240.149.105:admin:O0UtLbLIFn0ViRC-> oldpass: admin->Linux RT-AC68U-96D0 2.6.36.4brcmarm #1 SMP PREEMPT Sun Jul 24 17:39:39 EDT 2022 armv7l ASUSWRT-Merlin
+Loaded Bin: armcores: 2
+
+78.144.65.112:craft:v3ZuYaaV4T9nX3C-> oldpass: craft->Linux QT200-LSCRO2-2 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+116.109.7.124:admin:nrOS2k9nGnbFy98-> oldpass: admin->Linux ubnt 3.10.107-UBNT #1 SMP Fri Feb 21 10:42:32 UTC 2020 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+103.178.74.27:admin:xh4jhVHQJUJZw5d-> oldpass: admin->Linux localhost 2.6.37+ #17 Tue Feb 25 12:46:16 CST 2020 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+14.88.228.202:root:QccWTkrPNOVGaAR-> oldpass: root->Linux tcc9010stb-ktsoftap-rev02 4.4.120-tcc #1 SMP PREEMPT Tue Oct 17 14:48:51 KST 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.173.140.147:pi:4FXHQZsZ1Y9hnVr-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.173.140.147:fa:08PkanBTY76RUEk-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+123.180.147.205:admin:RGv7EskhaW2F1pb-> oldpass: 123456->Linux DS918Plus 4.4.59+ #25426 SMP PREEMPT Tue May 12 04:54:55 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 2
+
+1.240.149.105:admin:wpfgkuE08AyQgDR-> oldpass: admin->Linux RT-AC68U-96D0 2.6.36.4brcmarm #1 SMP PREEMPT Sun Jul 24 17:39:39 EDT 2022 armv7l ASUSWRT-Merlin
+Loaded Bin: armcores: 2
+
+123.159.119.75:admin:EeP3Ec3tWMFmGc4-> oldpass: 123456->Linux RT-AC86U-6DF0 4.1.27 #2 SMP PREEMPT Sun Mar 27 06:43:40 CST 2022 aarch64 ASUSWRT-Merlin-KoolShare
+Loaded Bin: arm64cores: 2
+
+59.125.129.43:user:zW8ejWDfkdzFRlP-> oldpass: user->Linux PFC200V3-58E6F4 5.15.86-rt56-w04.01.07 #1 PREEMPT_RT Wed Mar 22 17:38:46 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+59.2.248.106:fa:0F78YXZlGCGevfh-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+59.183.52.174:admin:4HdWPPd0HkIvOEg-> oldpass: Admin123->Linux RTK_GW 4.4.140 #37 SMP Mon Jun 20 11:35:14 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+211.223.41.90:pi:kxm7f2Eov8nGn9C-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+211.223.41.90:fa:FBmheVmMViULUPa-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+131.150.212.177:root:NRDt8c6zw9HxYua-> oldpass: admin1234->Linux Gargoyle 5.10.176 #0 Thu Apr 27 20:28:15 2023 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+78.188.126.69:user:mR7EBa2zVZxetIG-> oldpass: user->Linux VMG1312-B10D 3.4.11 #2 SMP PREEMPT Tue Jul 12 14:48:03 CST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+115.23.23.91:pi:Mxqnpg7a2EH4iwa-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+115.23.23.91:fa:oPDn4ecAkaSsAje-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+200.25.22.96:nagiosuser:7X5N4J5EuXtJ7Dr-> oldpass: nagiosuser->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+200.25.22.96:postgres:uYHF475xAlozpja-> oldpass: postgres->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+123.180.147.205:admin:vW4K0wjedJdZIPs-> oldpass: 123456->Linux DS918Plus 4.4.59+ #25426 SMP PREEMPT Tue May 12 04:54:55 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 2
+
+5.25.60.89:root:FJlEMUjWZXYQtwF-> oldpass: 123456->Linux PBOC 4.9.113 #6 SMP PREEMPT Fri Sep 15 10:04:19 CST 2023 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 4
+
+200.25.22.96:root:MCQh5AeedhNhLnY-> oldpass: root->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+61.147.104.40:pi:9dklf0x31MQrw1o-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+61.147.104.40:fa:nognCEATW9CWWj0-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+125.56.6.181:admin:j850Byckk8Qve4G-> oldpass: admin->Linux Miyashita 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+192.25.2.24:root:m8dySrCLxTvwmEV-> oldpass: root->Linux mqsrv-24 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+102.35.148.163:admin:Yrx0nJIP5gRVZq1-> oldpass: admin->Linux KevinMNAS2 3.4.6 #1 Wed Jun 21 14:07:21 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+217.122.5.235:admin:hhUxDFUxpu190wA-> oldpass: admin->Linux NAS-Iwan 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+118.41.204.48:pi:e9PiInKYLoLjHYS-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+118.41.204.48:fa:1CLd3kwANMbduXa-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+173.45.201.148:admin:RYqwEloBrdSvEQq-> oldpass: admin->Linux UBNT 2.6.32.33 #1 Mon May 19 19:08:29 PDT 2014 mips unknown
+Loaded Bin: mipscores: 1
+
+109.193.119.238:admin:UdXK2lX7Glw5eQp-> oldpass: admin->Linux NASD15818 3.4.6 #1 Thu Jun 23 11:30:52 CST 2022 armv5tel unknown
+Loaded Bin: armcores:       0
+
+118.218.209.149:pi:yieTVXlszrzqWED-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+192.25.2.24:root:02FRT6TTuts0qMi-> oldpass: 123456->Linux ftpserver-24 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+59.9.11.251:fa:S8Fj98ZZNG1SptK-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+193.160.10.163:root:vmcoLHvYbzhUIZJ-> oldpass: 1->Linux zgemmah9s 4.4.35 #1 SMP Tue Feb 18 23:44:49 UTC 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+115.224.77.92:admin:wxgmicIgZm984Ts-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+191.23.183.42:admin:AJomQmuBqm9WtXM-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+50.173.106.92:pi:U7pEG0pGulbAMqD-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+179.160.34.56:admin:KhX7RB4O7zFGEyW-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+179.229.236.138:admin:OjDa98xMdLkcpoa-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+50.173.182.90:pi:GdwClviISW4qnK8-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.173.182.90:fa:RMgSV8BfCvjgKoq-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+175.206.96.178:fa:3Mg4FwbwVseYSZ0-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+179.246.21.27:root:zuhZZQfGwoLFlG6-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+195.174.40.9:admin:QGxez3eI1iuiHgo-> oldpass: admin->Linux raspberrypi 5.10.52-v8+ #1441 SMP PREEMPT Tue Aug 3 18:14:03 BST 2021 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 4
+
+179.168.221.218:admin:XMeV6BIF8Nrx5tg-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+191.11.141.250:admin:MqLVRcHAngg8R4x-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+36.93.168.187:admin:oswfmgrQMdnMiGL-> oldpass: admin->Linux SMAKSTIGNATIUSLOYOLAAP1 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+220.77.245.227:pi:MUHf3uN4Tm0ZM2s-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+220.77.245.227:fa:ZFKVoHJkqHXGUbA-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+80.70.108.205:user:MjFuNEWjTAnKf7b-> oldpass: user->Linux TAU-8 2.6.33.5 #36 Wed Dec 9 10:56:55 NOVT 2015 armv6l unknown
+Loaded Bin: armcores: 1
+
+50.206.111.90:pi:jlaKoyk6Pp4EI6a-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+179.243.138.211:admin:cWbIIOR25gU6Mic-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+211.128.96.206:pi:2ukadHmwvlzeMx0-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+211.128.96.206:fa:W5rWn9u9Kx5MRC1-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+211.224.41.185:fa:GOoCphtidZlJr5r-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+177.116.127.177:admin:hM0ZYDmME68Zyk4-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+152.252.93.15:admin:Z64i4Q3tvFw3lSW-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+50.168.72.118:pi:Hz4CWvWnISByjqm-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.168.72.118:fa:8gemFHU8JgdOXj7-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+114.221.140.49:admin:wp5tHycHik5p9n8-> oldpass: admin->Linux MI-4A-100M 3.4.113 #1 Wed Jun 29 11:29:07 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+175.203.245.102:fa:MQIuF6jvBKoMXy5-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+112.54.91.123:admin:J14uxS1o7LwiRk9-> oldpass: admin->Linux NEWIFI-D2 3.4.113 #1 SMP Sat Oct 20 19:12:56 CST 2018 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+51.195.202.243:default:l85C1HYsOBxTXs4-> oldpass: default->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+51.195.202.243:root:11Mwdqdlo9ltqrh-> oldpass: root->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+51.195.202.243:root:QHX9t8RUVkpb0PA-> oldpass: Root123->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+31.23.75.101:admin:EeTtaz0FqH4HmYI-> oldpass: admin->Linux AirRouter HP 2.6.32.68 #1 Mon Nov 30 17:50:13 EET 2015 mips unknown
+Loaded Bin: mipscores: 1
+
+219.155.75.65:admin:dV7Kw80dNDUR3rv-> oldpass: admin->Linux NEWIFI3 3.4.113 #2 SMP Sat Jul 10 20:35:20 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+92.16.16.239:craft:uRhtuEXtVV8cFNL-> oldpass: craft->Linux QT200-EMSTTEL-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+50.172.75.123:pi:0LYPFxDeDPYuOFa-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+45.134.222.193:root:JY8hJr10unUjGoS-> oldpass: root->Linux root 5.4.0-29-generic #33-Ubuntu SMP Wed Apr 29 14:32:27 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+14.199.121.6:admin:CAAOAssHgtbxDPe-> oldpass: admin->Linux QNAP-TP212P 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+63.45.209.97:admin:6Zr1TmEfQfWRRkS-> oldpass: admin->Linux PowerXpert-00-20-85-E8-00-27 2.6.39 #1 PREEMPT Wed Mar 8 06:46:03 EST 2017 ppc GNU/Linux
+Loaded Bin: ppccores: 1
+
+37.27.23.41:root:L9yhR1Bzilcj27K-> oldpass: root123->Linux vbGy4JA7 5.4.0-167-generic #184-Ubuntu SMP Tue Oct 31 09:24:51 UTC 2023 aarch64 aarch64 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+123.233.144.134:admin:3U4ELnopomgbrr9-> oldpass: 123456->Linux RT-AC68U-9A38 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jul 21 14:08:11 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+179.114.33.40:admin:7b6Hl8kNeOFEvon-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+59.4.55.162:pi:vwRbujXlzrJJ36j-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+59.4.55.162:fa:Zp8ZU4fP5uX0K0d-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+63.41.70.202:root:OhkO6GcQGnras9P-> oldpass: root->Linux S-01020103-2900-00126 3.14.79-rt85 #1 SMP PREEMPT RT Mon Apr 24 13:04:46 CEST 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+50.170.149.217:fa:OXfjdNP0fZsJkay-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+212.231.227.253:admin:f1tyopCavIVqpfu-> oldpass: admin->Linux NAS 3.4.6 #1 Sat Jun 29 09:33:57 CST 2019 armv5tel unknown
+Loaded Bin: armcores:       0
+
+61.138.165.126:user:AZswYAmpu43ut1L-> oldpass: user->Linux host 4.14.53-rt34 #1 SMP PREEMPT RT Thu Apr 13 16:51:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+106.179.60.245:admin:gbYyiPagnZqTqw0-> oldpass: admin->Linux NASE35994 3.4.6 #1 Wed Jun 21 16:38:08 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+123.158.208.69:admin:agBhwsWFc13JJRK-> oldpass: 123456->Linux DiskStation 4.4.59+ #23824 SMP PREEMPT Tue Feb 12 16:52:55 CST 2019 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+121.202.198.67:root:RwBGnduYR1lQEKm-> oldpass: root->Linux USR-G809 3.10.14 #57 Thu Jun 10 20:39:06 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+115.224.77.92:admin:WK5LQuhjtBH4ams-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+57.134.77.138:admin:ofyjtDVC7HML4F2-> oldpass: admin->Linux Access Alix vers Mario 5800 2.6.32.71 #1 Wed Jul 3 11:48:21 EEST 2019 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+211.224.41.185:pi:8qyOrWnPjqdK57K-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+211.224.41.185:fa:v9NfaS1oSJJJmvI-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+217.68.180.95:user:xD2rm9NDUThxk69-> oldpass: user->Linux 0030DE5C0D99 5.15.71-rt51-w04.01.02 #1 PREEMPT_RT Tue Nov 22 06:18:06 UTC 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+45.137.155.250:craft:g689Ti9I1OxHdOl-> oldpass: 123456->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+118.41.204.68:fa:vRN0Ne3T1aTh3KV-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+92.16.16.239:craft:pX9RVo6Xc2jUbZU-> oldpass: craft->Linux QT200-EMSTTEL-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+183.213.25.118:user:xN1z1qqP0ybUKEm-> oldpass: user->kernel_t1024-3.12.37-2017112201 m1h2_slot1 3.12.37-rt51+ #7 SMP Wed Nov 22 12:05:53 CST 2017 ppc GNU/Linux
+Loaded Bin: ppccores: 2
+
+50.173.106.118:pi:nyy4Qf5Wfq49QNW-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.168.72.112:pi:yxqfbsRKAg2FErx-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.168.72.112:fa:8bLyCVMfmrf9qvq-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+166.142.36.26:admin:SnautuAABhQCgnj-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-06 17:11:09]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-06 17:11:12]
+
+194.59.247.124:root:oNhPaiQGmE33ePb-> oldpass: 123456->Linux vm1901126.stark-industries.solutions 5.15.0-89-generic #99-Ubuntu SMP Mon Oct 30 20:42:41 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+172.20.179.8:root:v5QCTaZLbaSYauS-> oldpass: 1qaz@WSX->Linux iZqsqa827aw4yfZ 5.15.0-71-generic #78-Ubuntu SMP Tue Apr 18 09:00:29 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+118.41.204.91:pi:BcYzXFeI7jwO1np-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+118.41.204.91:fa:G0qBGUQv065NdCk-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+107.1.93.220:pi:3N9Js1kiLkvjejl-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+107.1.93.220:fa:Xr6f5GSELiv8pHu-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+87.197.152.52:admin:SPlcT4ms73cfYCW-> oldpass: admin->Linux a0d7b954-ssh 6.1.58-haos-raspi #1 SMP PREEMPT Mon Dec  4 15:50:50 UTC 2023 aarch64 Linux
+Loaded Bin: arm64cores: 4
+
+187.116.208.143:admin:Me8wBRri9JSvJJn-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+45.135.150.145:test:PNcVxQnepiVySA5-> oldpass: test1234->Linux AMID05099E52E27 3.14.17-ami #1 Thu Aug 26 10:02:50 CST 2021 armv6l GNU/Linux
+Loaded Bin: armcores: 2
+
+147.192.223.242:admin:tDgkTqxZ4mFcW8u-> oldpass: admin->Linux TS-220 3.4.6 #1 Wed Jun 21 14:07:31 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+185.119.196.195:root:1laD9pQIaSw17KD-> oldpass: 123456->Linux myzed.com 5.15.0-89-generic #99-Ubuntu SMP Mon Oct 30 20:42:41 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+1.208.117.93:root:lUCoTajBaNwcXpS-> oldpass: test1234->Linux os 3.2.0 #26 Wed Feb 26 16:06:51 CST 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+117.195.104.172:admin:I8pvhL0Hs3G92HH-> oldpass: admin1234->Linux localhost.localdomain 4.1.25+ #16 SMP PREEMPT Wed Jun 15 11:04:57 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+115.224.77.92:admin:XYWAbcC2qVKEIRN-> oldpass: 123456->Linux DiskStation 4.4.59+ #25426 SMP PREEMPT Mon Dec 14 18:48:50 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+46.24.40.190:root:Rkaq1PJI7LU0lS5-> oldpass: root->Linux localhost 4.1.25 #2 SMP PREEMPT Tue May 24 17:23:10 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+166.169.118.198:admin:Qo2SQtiYueSGSed-> oldpass: admin->Linux V5-Lite 3.4.113 #15 SMP Tue Jun 13 19:10:25 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+47.202.112.92:pi:LIGQcrsb9kvjCV6-> oldpass: 123456->Linux raspberrypi 6.1.55-v8+ #1686 SMP PREEMPT Thu Oct  5 15:47:38 BST 2023 aarch64 GNU/Linux
+Loaded Bin: 686cores: 4
+
+50.173.106.120:root:AQOhh6ZOSwL3acg-> oldpass: root->Linux localhost 4.1.25 #2 SMP PREEMPT Tue May 24 17:23:10 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+177.160.74.188:root:HkF1MOIOOrKHkx3-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+59.1.81.253:fa:cUk5MjA4JkvUCzH-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+59.2.250.144:fa:HRydptz4bfxzxEU-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+47.243.54.40:admin:INgcP64uhb1lvNt-> oldpass: admin->Linux iZj6cbkgy5jhq8x6cl8t4pZ 4.18.0-348.7.1.el8_5.x86_64 #1 SMP Wed Dec 22 13:25:12 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+191.14.62.172:admin:mO19sY03WRltK1w-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+142.184.192.200:root:X7E9O05bXhQaaGG-> oldpass: root->Linux mynetwork 4.1.52-5.02L.07 #1 SMP PREEMPT Wed Jul 5 12:45:56 CEST 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+78.188.120.229:user:dtAHrpXiO4MfB12-> oldpass: user->Linux VMG1312-B10D 3.4.11 #2 SMP PREEMPT Tue Jul 12 14:48:03 CST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+179.148.135.189:root:SsPuL16Hysp17Be-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+177.199.4.253:admin:OXiC37LNkGItzh3-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+50.168.163.179:root:m3xCymWtzbHvJD5-> oldpass: root->Linux localhost 4.1.25 #2 SMP PREEMPT Tue May 24 17:23:10 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+177.60.181.1:admin:Q0CUWNnqerMMhvQ-> oldpass: admin->Linux PBOC 2.6.36 #1 Mon Nov 23 11:24:43 CST 2020 mips unknown
+Loaded Bin: mipscores: 1
+
+177.118.205.76:admin:S9tWXpMsX4n0Bkm-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+123.97.82.109:admin:2S3srD3JKqfU09D-> oldpass: admin->Linux NEWIFI3 3.4.113 #1 SMP Thu Apr 22 23:20:08 PDT 2021 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+49.222.71.61:admin:uPhmhFgdnG6Hnp4-> oldpass: admin->Linux K2P 3.4.113 #1 SMP Sun Jul 26 21:57:23 PDT 2020 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+5.35.222.130:root:jtYl4HPZV09qJGh-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:admin:19uPSW9vZxln7j7-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:pi:GyXST2isPJOdkmX-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:fa:N2sNhNKPOEeYRDJ-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:craft:tm8U8AcJGBcM4qc-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:resetroot:edN3QVlvByFzpWo-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:resetcraft:1iVuBpHk3OIPTTp-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:resetadmin:cpaYyBLhAM8aup0-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+5.35.222.130:user:IHZq7m4cafDlB8E-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+51.195.202.243:kubernetes:KhTMc75lUHGqWQs-> oldpass: kubernetes->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+51.195.202.243:apelmoes:Rcfdxzu7ZZ7SYwH-> oldpass: 123456->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+51.195.202.243:devops:vn7j1L8ZoABGYRt-> oldpass: devops->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+51.195.202.243:nagios:Hp3nYdJ2uyAhjZa-> oldpass: nagios->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+218.150.6.100:fa:s0j0sQoazIOVyVz-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+177.118.198.18:root:VJ7gYPmY5PEXZ3i-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+1.203.111.21:admin:extBeEvuVITKecn-> oldpass: 123456->Linux R6400-551C 2.6.36.4brcmarm #1 SMP PREEMPT Tue Sep 25 20:08:19 CST 2018 armv7l Merlin-Koolshare
+Loaded Bin: armcores: 2
+
+109.34.162.7:user:Gsb5rmA1EeioCQF-> oldpass: user->Linux PFC100-5E3CC2 5.15.71-rt51-w04.01.02 #1 PREEMPT_RT Tue Nov 22 05:55:43 UTC 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+115.187.186.122:user:RPf1BS2pnH2wq7K-> oldpass: user->Linux localhost 3.14.18 #1 SMP PREEMPT Tue May 24 15:39:21 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+179.150.92.231:root:BvPuZNlqHPyfYxv-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+116.204.66.183:admin:bFGyjy4elcJhpGz-> oldpass: 123456->Linux ubuntu 3.10.0-862.14.4.el7.x86_64 #1 SMP Wed Sep 26 15:12:11 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 8
+
+103.54.45.81:root:PcKC4GT0op2JSch-> oldpass: root->Linux SRV-1453 3.10.0-957.el7.x86_64 #1 SMP Thu Nov 8 23:39:32 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 8
+
+103.210.31.94:postgres:SPPtwKSuMddPQcD-> oldpass: postgres->Linux buildroot 3.19.0-xilinx #9 SMP PREEMPT Tue Oct 2 17:58:39 IST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+107.126.213.235:admin:VIU1UAvyJmIBpyc-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-11-10 06:37:30]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-11-10 06:37:31]
+
+50.217.226.40:fa:QGRVxh28JYckz5l-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+106.59.112.69:admin:1fmYqiWbGIAXySK-> oldpass: admin->Linux RM2100 4.4.198 #1 SMP Fri Feb 25 20:28:41 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+179.112.118.97:root:nWpv4HJTYNSlHSP-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+113.229.57.156:admin:IcMKKRKw9itX89Q-> oldpass: admin->Linux MI-R3G 4.4.198 #1 SMP Fri Feb 25 21:14:09 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+111.67.196.188:root:4JHS8aHcvjmTFqj-> oldpass: Root1234->Linux localhost.localdomain 3.10.0-957.el7.x86_64 #1 SMP Thu Nov 8 23:39:32 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+175.156.78.163:admin:3KWag7CiqmfCJS0-> oldpass: admin123->Linux RT-AX55-8248 4.1.52 #2 SMP PREEMPT Wed Apr 21 01:30:31 CST 2021 armv7l
+Loaded Bin: armcores: 4
+
+166.153.203.132:root:vLrGkPaPPZ0BrAo-> oldpass: root->Linux S-01020103-2900-00134 3.14.79-rt85 #1 SMP PREEMPT RT Mon Apr 24 13:04:46 CEST 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+191.14.127.51:admin:hh79mQJdmLs9Ulu-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+191.10.156.139:root:dzS1JqiF94q35W9-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+166.169.117.100:admin:JPxUtEq3G3GzSza-> oldpass: admin->Linux Advanced-Modem 3.4.113 #1 SMP Tue May 30 02:08:13 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+34.116.231.21:root:ezciifHvgH1VCci-> oldpass: root->Linux instance-2 6.2.0-1019-gcp #21~22.04.1-Ubuntu SMP Thu Nov 16 18:18:34 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 8
+
+50.218.196.42:pi:GambVp63FZCrst5-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+122.233.238.238:root:h14CFYfvlqTK97k-> oldpass: 123456->Linux DS918 4.4.302+ #64570 SMP Thu Jul 20 00:07:29 CST 2023 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+50.172.23.10:pi:ARcc4RHYKy8nYYD-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+221.217.164.176:admin:v3jE0Gi5n9EoTCK-> oldpass: admin->Linux RM2100 3.4.113 #1 SMP Thu Jul 30 17:18:09 UTC 2020 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+177.118.39.165:root:5stLipt8RtFgNQq-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+50.169.62.107:fa:86hRvxPbfBwxLcg-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+217.122.5.235:admin:NKWhkclBwOioNEQ-> oldpass: admin->Linux NAS-Iwan 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+13.81.0.217:postgres:OjMt9AH0FFII8pP-> oldpass: postgres->Linux ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:56 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+177.60.181.1:admin:QRE4GwcsFkSpros-> oldpass: admin->Linux PBOC 2.6.36 #1 Mon Nov 23 11:24:43 CST 2020 mips unknown
+Loaded Bin: mipscores: 1
+
+218.203.203.69:user:5S7dqGTmFgDfIq0-> oldpass: user->Linux host 4.14.53-rt34 #1 SMP PREEMPT RT Thu Apr 13 16:51:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+61.137.183.202:admin:24by7mnOKGNWgNB-> oldpass: admin->Linux localhost 2.6.37+ #118 Fri Apr 27 17:19:28 CST 2018 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+112.93.122.0:admin:vPafmKipy3yDZnH-> oldpass: 123456->Linux R6400-FC80 2.6.36.4brcmarm #1 SMP PREEMPT Tue Sep 25 20:08:19 CST 2018 armv7l Merlin-Koolshare
+Loaded Bin: armcores: 2
+
+59.125.129.43:user:J8g4e42JMpq9NRf-> oldpass: user->Linux PFC200V3-58E6F4 5.15.86-rt56-w04.01.07 #1 PREEMPT_RT Wed Mar 22 17:38:46 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+166.142.36.20:admin:SYv4rZhmpjP2DUf-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-06 20:15:36]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-06 20:15:39]
+
+101.132.193.158:root:WQycOq8RAd7MC4i-> oldpass: 1->Linux Liuzigang 5.15.0-86-generic #96-Ubuntu SMP Wed Sep 20 08:23:49 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+51.195.202.243:root:gV8YsNf9d5Za6j8-> oldpass: 1->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+51.195.202.243:admin:xUqwns6JVt5nCts-> oldpass: admin123->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+217.122.5.235:admin:aOIR9d8toQOdRzA-> oldpass: admin->Linux NAS-Iwan 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+123.117.252.200:admin:W4yNYjlFIg36jKc-> oldpass: 123456->Linux RT-AC86U-C530 4.1.27 #2 SMP PREEMPT Tue May 2 19:43:29 CST 2023 aarch64 ASUSWRT-Merlin-KoolShare
+Loaded Bin: arm64cores: 2
+
+218.29.153.178:admin:tPh3UaSLezWlqZb-> oldpass: admin->Linux localhost 2.6.37+ #8 Mon Mar 16 20:56:52 CST 2020 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+106.179.60.245:admin:7xqqxSMEYPqegaG-> oldpass: admin->Linux NASE35994 3.4.6 #1 Wed Jun 21 16:38:08 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+8.213.134.192:admin:Kn5nG9xR8H39UGy-> oldpass: 123456->Linux ubuntu 3.10.0-862.14.4.el7.x86_64 #1 SMP Wed Sep 26 15:12:11 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 8
+
+46.43.8.212:root:8njjyyfhrzotNQl-> oldpass: root->Linux mqsrv-212 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+132.232.101.26:root:3bndUHRWPWz2KgZ-> oldpass: Root123->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+166.142.36.20:admin:xwyjPm1yAXn1ZVy-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-06 20:41:50]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-06 20:41:53]
+
+1.14.31.228:root:1D1D3keIIhKcXyx-> oldpass: root1234->Linux VM-2-22-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.31.228:root:rRITaTcabNCqNGO-> oldpass: Admin123->Linux VM-2-22-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.31.228:root:BIaj0lUkSTK8gav-> oldpass: 1qaz2wsx->Linux VM-2-22-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+49.85.222.47:admin:JJ8UBLxnnhLJ5My-> oldpass: admin->Linux K2P 4.4.198 #1 SMP Wed Sep 27 13:23:19 UTC 2023 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+50.170.90.34:pi:7LhMGWmTaN3oiGf-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.170.90.34:fa:KWGc1aMjh78wgcE-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+1.14.64.236:root:4TTYmUJfCtztTbh-> oldpass: @@@!3a3!4@!XTKH->Linux VM-0-94-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+213.182.101.73:minecraft:fpfY2jWlYKtF8UI-> oldpass: minecraft->Linux pveMinecraft 5.15.85-1-pve #1 SMP PVE 5.15.85-1 (2023-02-01T00:00Z) x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+187.115.181.36:admin:YniXaFZ6wL5AOZw-> oldpass: admin->Linux CTA_G1LAB_OBB_TOR_1 4.19.168-rt30-yocto-preempt-rt #1 SMP PREEMPT RT Tue Jul 25 17:46:27 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+1.203.111.21:admin:rrf2q6V6VMLy8Rd-> oldpass: 123456->Linux R6400-551C 2.6.36.4brcmarm #1 SMP PREEMPT Tue Sep 25 20:08:19 CST 2018 armv7l Merlin-Koolshare
+Loaded Bin: armcores: 2
+
+200.25.27.120:root:ZhUcqIAKQiHxOuw-> oldpass: root->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+1.89.24.59:admin:nqNfcTmu0a38Iih-> oldpass: admin->Linux RT-AC54U 3.4.113 #4 Mon Jun 4 03:05:01 CST 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+177.171.16.92:root:R2UqzErfkvWFT0s-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+61.76.64.199:fa:neXKn5GSBi9ElFu-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+87.197.152.52:admin:C1Hsrn4f5KA69fG-> oldpass: admin->Linux a0d7b954-ssh 6.1.58-haos-raspi #1 SMP PREEMPT Mon Dec  4 15:50:50 UTC 2023 aarch64 Linux
+Loaded Bin: arm64cores: 4
+
+179.80.62.152:root:QQTtmZi53ElgJhY-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+47.206.245.22:default:U3PV0I26i7q7nQc-> oldpass: 123456->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+177.198.6.168:admin:pljRWyfr4CaMmxJ-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+47.206.245.22:root:E2ZPBo6TjynRaqy-> oldpass: Root1234->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.22:root:HxWLcWBTfpAfH98-> oldpass: Admin1234->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.22:root:sC9JJtvf5UyrzBK-> oldpass: 123->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+50.175.83.204:pi:HQggAwRId0Vv6b6-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+202.187.232.75:admin:sMUQLhmGeHHgIk7-> oldpass: admin->Linux ATP2TB-NAS 3.4.6 #1 Thu Jun 12 05:03:03 CST 2014 armv5tel unknown
+Loaded Bin: armcores:       0
+
+27.155.196.203:admin:pUcAirQFxNwPqYj-> oldpass: 123456->Linux DailyAlexa 4.4.59+ #25426 SMP PREEMPT Tue May 12 04:54:55 CST 2020 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+220.179.231.168:admin:mKqIAZWbG2O2h1g-> oldpass: admin->Linux localhost 2.6.37+ #7 Thu Nov 8 09:11:54 CST 2018 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+221.203.76.173:admin:Rs4j7FIyGLtjRES-> oldpass: admin->Linux localhost 2.6.37+ #118 Fri Apr 27 17:19:28 CST 2018 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+179.145.195.57:root:El0JS1SmpSBTr5t-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+18.221.233.135:ansible:Z9Cyp3GDK20ESlr-> oldpass: ansible->Linux ip-172-31-24-78 6.2.0-1016-aws #16~22.04.1-Ubuntu SMP Sun Nov  5 20:08:16 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+118.41.204.2:pi:aOsYPXT5rUH5FHK-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+118.41.204.2:fa:drDPCU8KPCVRJzo-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+78.188.120.229:user:keRcg3YYHZoQHDD-> oldpass: user->Linux VMG1312-B10D 3.4.11 #2 SMP PREEMPT Tue Jul 12 14:48:03 CST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+50.200.12.84:pi:mdNJGeMXDw2iM34-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+80.70.108.205:user:rcZMZAdUEPtrqou-> oldpass: user->Linux TAU-8 2.6.33.5 #36 Wed Dec 9 10:56:55 NOVT 2015 armv6l unknown
+Loaded Bin: armcores: 1
+
+183.100.192.15:root:kY8yJqzTzHd4JC4-> oldpass: root->Linux GL-MT300N-V2 4.4.92 #0 Tue Oct 17 17:46:20 2017 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+183.100.192.15:root:n2825tDjb6EHjIL-> oldpass: 123456->Linux GL-MT300N-V2 4.4.92 #0 Tue Oct 17 17:46:20 2017 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+14.199.121.6:admin:2PVfKK5x2nLxtDI-> oldpass: admin->Linux QNAP-TP212P 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+203.192.216.162:admin:M69z3cyPLrRxPl3-> oldpass: admin->Linux localhost 2.6.37+ #39 Tue Jan 18 12:00:32 CST 2022 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+183.242.75.18:root:qYJA4Fz3FMxKJic-> oldpass: 123456->Linux zhengtu 2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+180.111.176.175:admin:vjZWQJG1jmweFSX-> oldpass: admin->Linux RT-AC68U-4508 2.6.36.4brcmarm #1 SMP PREEMPT Sat Feb 8 13:46:29 EST 2020 armv7l ASUSWRT-Merlin
+Loaded Bin: armcores: 2
+
+1.14.111.117:root:BvNk7Po7QLdfHgZ-> oldpass: root->Linux VM-4-74-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+175.203.245.102:fa:wPFP9HUescW45ab-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+132.232.113.241:root:ImXb4wYa46V06K8-> oldpass: Root1234->Linux VM-4-44-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+49.85.222.47:admin:GZHmwP8pa3AbzD9-> oldpass: admin->Linux K2P 4.4.198 #1 SMP Wed Sep 27 13:23:19 UTC 2023 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+217.68.180.95:user:SNWvAFF7TgNg0zd-> oldpass: user->Linux 0030DE5C0D99 5.15.71-rt51-w04.01.02 #1 PREEMPT_RT Tue Nov 22 06:18:06 UTC 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+43.133.80.14:root:I0TYiPWiDcdouJP-> oldpass: root->Linux VM-0-9-centos 3.10.0-1160.99.1.el7.x86_64 #1 SMP Wed Sep 13 14:19:20 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+132.232.101.26:root:90DxVtXx7mBZWwr-> oldpass: Root123->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+63.47.126.104:admin:npIShVYv6hcT3PM-> oldpass: admin->Linux Advanced-Modem-INT 3.4.113 #34 SMP Fri Jul 14 17:15:24 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+50.237.207.186:fa:sl5nCaz0XByfVB3-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #126 SMP Mon Feb 22 17:04:18 CST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+132.232.101.26:root:OZABw3q4h4lmNqW-> oldpass: 1->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+50.206.111.89:pi:Dd71EmheDQVG1vk-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.206.111.89:fa:aESv8Y3yH3ppANZ-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+132.232.101.26:root:KwW3DnHa2tbExM5-> oldpass: Root123456->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+132.232.101.26:root:oTP3qKVMIGEdSoS-> oldpass: Admin1234->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+132.232.101.26:root:5NrD2Mv9e69vLeG-> oldpass: admin1234->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+132.232.101.26:root:Vrq2L8uVESzOOZC-> oldpass: test123->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+187.89.131.102:root:BCOLdRafzTGNJ0m-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+13.41.55.250:ansible:cs3ZY7XNW9ztp1c-> oldpass: 123456->Linux ip-172-31-44-146.eu-west-2.compute.internal 5.10.201-191.748.amzn2.x86_64 #1 SMP Mon Nov 27 18:28:14 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+132.232.101.26:root:rh4E99zM8KyWNcZ-> oldpass: Test123->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+220.93.167.144:fa:1LlrHDjgTRM9aG3-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+211.223.41.90:pi:oUrigYz7ev9gHYY-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+211.223.41.90:fa:ywoEMXf8zCR5yVg-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+92.25.227.215:craft:3EW5Blm6SSrbRPa-> oldpass: craft->Linux QT200-EABCY2-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+219.86.145.173:user:60R2YHlz2frwJjH-> oldpass: user->Linux SM5500-42 2.6.36-s5pv310 #42 SMP PREEMPT Thu Oct 13 17:38:39 SGT 2016 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+116.23.227.152:admin:kZoDxx6nbHs5Xp0-> oldpass: 123456->Linux bohong 4.4.59+ #25426 SMP PREEMPT Tue May 12 04:54:54 CST 2020 x86_64 GNU/Linux synology_geminilake_920+
+Loaded Bin: x86_64cores: 4
+
+191.202.164.119:root:F0SWlsBYyS13Pas-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+13.113.39.194:ansible:xJBC8K61vLEWo3M-> oldpass: 123456->Linux ip-172-31-10-239.ap-northeast-1.compute.internal 5.10.201-191.748.amzn2.x86_64 #1 SMP Mon Nov 27 18:28:14 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+59.125.129.43:user:FbYjfrYCwmMtIFD-> oldpass: user->Linux PFC200V3-58E6F4 5.15.86-rt56-w04.01.07 #1 PREEMPT_RT Wed Mar 22 17:38:46 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+50.217.226.41:pi:S4DFnEDw6pYMmsn-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.217.226.41:fa:mWzsW0Bj4s4jxFB-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+121.202.192.234:root:TF1mM89anTN8u5P-> oldpass: root->Linux USR-G809 3.10.14 #57 Thu Jun 10 20:39:06 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+103.74.70.189:admin:I9LwcQXOPrj8R6c-> oldpass: admin->Linux localhost 2.6.37+ #19 Sat Mar 20 14:47:25 CST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+223.171.159.218:postgres:9sE3PK2ZUhkXHYh-> oldpass: postgres->Linux everest 4.1.15-2.1.0+g3b4ebd1 #1 SMP PREEMPT Mon Sep 5 16:37:22 KST 2022 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+79.144.201.224:root:Doxd9lyMhcYrPvW-> oldpass: root1234->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+92.117.215.96:pi:pVEbjyx8Y5QrILX-> oldpass: pi->Linux pi 6.1.21-v7+ #1642 SMP Mon Apr  3 17:20:52 BST 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+111.22.80.78:root:spi8ChM0rwDGxDW-> oldpass: 123456->Linux ubuntu 4.4.0-87-generic #110-Ubuntu SMP Tue Jul 18 12:55:35 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 16
+
+50.170.149.223:fa:3IQkSvsv34oaZGJ-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+187.87.83.94:admin:q5znedJwpAifxNM-> oldpass: admin->Linux ag5-falamansa 2.6.32.71 #1 Tue Apr 25 16:48:45 EEST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+46.77.64.81:root:2y4jqoU4X1vxQgH-> oldpass: root1234->Linux mt_2050 5.4.81-linux4sam-2020.10 #1 Tue Dec 21 11:40:32 CET 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+92.15.137.115:craft:s4TDkQZhOPwYMmh-> oldpass: craft->Linux QT200-LWACT-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+59.2.248.106:fa:ZrvedD0gZGFEWwP-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+177.199.1.54:admin:nLBQCVsMyXlavou-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+118.41.204.91:pi:bHdgGoVtNv6T9Z7-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+46.43.8.212:root:70pKkQSWOrDW57l-> oldpass: root->Linux www 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+118.241.46.49:admin:5cvHWeAgTIFhVnQ-> oldpass: admin->Linux QNAPNAS 3.2.26 #2 SMP Thu Nov 24 05:35:11 CST 2022 armv7l unknown
+Loaded Bin: armcores:       2
+
+118.41.204.91:fa:BO4ni7sMyOwUhWL-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+132.232.101.26:root:18doS6Ly5Qq6m6x-> oldpass: root123456->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.32.254:root:4OE5loWZ146dJp2-> oldpass: Root->Linux VM-2-150-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.32.254:root:Ig6PNi0R1kWHD0D-> oldpass: root123->Linux VM-2-150-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.32.254:root:4eZM53pzdk85tzJ-> oldpass: Root123->Linux VM-2-150-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+132.232.101.26:root:9cbzom4hLOCPgHR-> oldpass: Root123456->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.32.254:root:R8dQlTDiZhnO5vk-> oldpass: root1->Linux VM-2-150-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+132.232.101.26:root:n3IfrziBBiE8hYe-> oldpass: Admin1234->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+1.14.32.254:root:3euFJjxrp6xCa1N-> oldpass: 1qaz2wsx->Linux VM-2-150-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+132.232.101.26:root:1OvEYIyo1ZI4gEX-> oldpass: 123->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+14.161.50.162:admin:TLJvBgRFbYYVRFB-> oldpass: Admin1234->Linux ubnt 3.10.107-UBNT #1 SMP Fri Feb 21 11:10:12 UTC 2020 mips64 GNU/Linux
+Loaded Bin: mips64cores: 4
+
+46.43.8.212:root:gCgnJQVTd3EoDtw-> oldpass: 123456->Linux ftpserver-212 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+122.233.238.238:root:rQnkI58KvAj3bmk-> oldpass: 123456->Linux DS918 4.4.302+ #69057 SMP Mon Nov 13 14:21:00 CST 2023 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+132.232.101.26:root:G95E8waiu7Z7Bl6-> oldpass: Test123->Linux VM-2-116-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+121.188.124.205:user:93B2qTZVxFTs64X-> oldpass: user->Linux OP_MUFD 3.0.35-2666-gbdde708 #22 SMP PREEMPT Thu Jan 28 12:42:12 KST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+166.142.36.23:admin:4BIBnvebzVHGRoo-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-07 01:22:52]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2023-12-07 01:22:53]
+
+180.111.176.175:admin:g46EIZnBNYElpCB-> oldpass: admin->Linux RT-AC68U-4508 2.6.36.4brcmarm #1 SMP PREEMPT Sat Feb 8 13:46:29 EST 2020 armv7l ASUSWRT-Merlin
+Loaded Bin: armcores: 2
+
+119.129.58.161:root:qpgV7CcewJpPKrR-> oldpass: root->Linux USR-G806 3.10.14 #975 Mon Sep 10 11:04:10 CST 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+1.203.111.21:admin:ESpq8Kcr70nAy0W-> oldpass: 123456->Linux R6400-551C 2.6.36.4brcmarm #1 SMP PREEMPT Tue Sep 25 20:08:19 CST 2018 armv7l Merlin-Koolshare
+Loaded Bin: armcores: 2
+
+115.23.23.89:pi:uUbAHPOJQHSTphS-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+115.23.23.89:fa:UquOHNjlkt8TYaG-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+121.202.152.72:root:BpEIEHW3KzCxRi1-> oldpass: root->Linux USR-G809 3.10.14 #57 Thu Jun 10 20:39:06 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+152.246.243.254:admin:KAAZgq7LJNMMsXE-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Fri Aug 14 10:49:20 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+54.37.18.197:root:oAnWyjxgVwtNjeJ-> oldpass: root->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+54.37.18.197:root:qUzHdreYWDHmrEc-> oldpass: 1->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+179.246.58.228:admin:cjvhx5BVqwZQWve-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+179.164.248.54:root:RuvypDw5SVR0Zqz-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+43.136.167.147:root:QtPJmZGMcmvCLD9-> oldpass: root1->Linux VM-3-243-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+43.136.167.147:root:mwYcNRX20Moiiou-> oldpass: 1qaz@WSX->Linux VM-3-243-ubuntu 4.4.0-210-generic #242-Ubuntu SMP Fri Apr 16 09:57:00 UTC 2021 i686 athlon i686 GNU/Linux
+Loaded Bin: 686cores: 2
+
+61.76.64.199:fa:bpKS7szVrlpl1J4-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+3.108.250.36:nagios:X6FojfNESdE3XBg-> oldpass: nagios->Linux kmaster 4.15.0-1021-aws #21-Ubuntu SMP Tue Aug 28 10:23:07 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+46.24.40.190:fa:6toS29qymCdDekv-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+92.24.237.204:craft:u1KSRV9RbB1xhpG-> oldpass: craft->Linux QT200-LSTHDT-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+46.24.40.190:pi:jLBdMslNK2GJsHd-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+46.24.40.190:fa:wJbJwplfGCZm1tE-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+82.156.34.252:postgres:L64GU9ddwoxC2lF-> oldpass: postgres->Linux VM-8-5-centos 3.10.0-1160.99.1.el7.x86_64 #1 SMP Wed Sep 13 14:19:20 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+177.198.17.224:root:F66ptg9tKcLkRBp-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+79.77.98.125:craft:RgeS3hX1ncAQdbQ-> oldpass: craft->Linux QT200-CMCEN-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+50.202.75.26:pi:yvLRFp706Kf3FpC-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.202.75.26:fa:BaCXo3xS3PVabIO-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+200.25.27.120:pi:QeFDfyqlrdMQF8Q-> oldpass: 123456->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+200.25.27.120:craft:JqVN269TJyPYQTL-> oldpass: craft->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+200.25.27.120:user:3v9KRpQsKCpqWCL-> oldpass: user->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+139.216.65.58:user:SEUytDfmxGQFfC4-> oldpass: user->Linux localhost 3.14.18 #1 SMP PREEMPT Thu Jul 1 16:48:17 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+92.20.175.46:craft:6dM0C6Q8yLrpLlw-> oldpass: craft->Linux QT200-NIAT-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+47.206.245.22:test:1SYwQ9FHNzGbPY7-> oldpass: Test1234->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.22:ansible:mN1d2HDjVQFmzwZ-> oldpass: 123456->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+81.71.44.225:root:B5K3mUR4f6yBdQH-> oldpass: root123456->Linux f50446313907 3.10.0-1160.76.1.el7.x86_64 #1 SMP Wed Aug 10 16:21:17 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+212.110.189.238:root:axWd3R3Y9BZZ9ON-> oldpass: root->Linux dbsrv-238 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+202.133.214.125:admin:gEpJ0d0zzL0giZr-> oldpass: admin->Linux AS1102T-9603 4.9.119 #1 SMP PREEMPT Tue Feb 7 03:16:18 CST 2023 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 4
+
+177.60.181.1:admin:k4CQ9Xekv7zmIAG-> oldpass: admin->Linux PBOC 2.6.36 #1 Mon Nov 23 11:24:43 CST 2020 mips unknown
+Loaded Bin: mipscores: 1
+
+179.150.77.202:root:vZv38DLvYPxjCbg-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+51.79.173.125:admin:ru4gmzPcQ7814VC-> oldpass: admin->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+35.201.195.235:root:BCVhugptvMvRRDP-> oldpass: 1->Linux k8s-node2 3.10.0-1160.102.1.el7.x86_64 #1 SMP Tue Oct 17 15:42:21 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+212.110.189.238:root:KG0vE4UBq9lTCQO-> oldpass: 123456->Linux ftpserver-238 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+36.35.24.94:admin:SFdgw1AcgYlswtu-> oldpass: admin->Linux DXPI 3.4.113 #76 SMP PREEMPT Tue Mar 17 15:53:15 CST 2020 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+200.25.45.110:default:pJR4gMxI15pbI72-> oldpass: 123456->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+200.25.45.110:root:t7KL9cm5cBbZ54p-> oldpass: Root123456->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+191.202.142.243:root:u3X5ItdaB93yzB1-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+50.204.219.224:pi:gQb1FIq8FV5OimU-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+50.204.219.224:fa:K4623VhCTXSoZIS-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+213.146.102.179:root:DPStcXMhUJm3sZL-> oldpass: 123->Linux vusolose 3.13.5 #1 SMP Tue Jul 15 00:30:01 UTC 2014 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+123.182.165.232:admin:tK9TfysJsOXlWWj-> oldpass: 123456->Linux DS3617xs 3.10.105 #25426 SMP Tue May 12 04:53:17 CST 2020 x86_64 GNU/Linux synology_broadwell_3617xs
+Loaded Bin: x86_64cores: 4
+
+8.213.134.192:admin:UhaORrQbggOUX4g-> oldpass: 123456->Linux ubuntu 3.10.0-862.14.4.el7.x86_64 #1 SMP Wed Sep 26 15:12:11 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 8
+
+177.196.50.29:root:t9UhTvvZKYqbp78-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+211.203.41.204:admin:plMMuJlIypUed0x-> oldpass: admin->Linux RT-AC68U-9690 2.6.36.4brcmarm #1 SMP PREEMPT Fri Apr 30 17:01:57 EDT 2021 armv7l ASUSWRT-Merlin
+Loaded Bin: armcores: 2
+
+46.43.8.212:root:1Fo9ESWYNDaqdk4-> oldpass: root->Linux dbsrv-212 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+115.58.240.85:admin:dDBPssx8uCymxSX-> oldpass: admin->Linux K2 3.4.113 #15 Sat Oct 20 00:22:49 CST 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+142.184.192.200:root:sikEtj6GTvTfENs-> oldpass: root->Linux mynetwork 4.1.52-5.02L.07 #1 SMP PREEMPT Wed Jul 5 12:45:56 CEST 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+179.91.17.175:root:6cuSXhuPnWC92Xw-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+217.122.5.235:admin:dy0qZgUdtcAw2Tr-> oldpass: admin->Linux NAS-Iwan 3.4.6 #1 Wed Jun 21 15:49:04 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+51.195.202.243:root:XtOhyezLGZsU1DY-> oldpass: Root1234->Linux 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 
+46.43.8.212:root:Rsm3w9g3PGowhu0-> oldpass: 123456->Linux www 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+109.37.160.240:user:x48bjoOFaQpubty-> oldpass: user->Linux PFC100-5E3CA3 5.15.71-rt51-w04.01.02 #1 PREEMPT_RT Tue Nov 22 05:55:43 UTC 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+79.77.108.29:craft:cOI4uB4Om0rdvLX-> oldpass: craft->Linux QT200-CMHALE-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+72.250.23.208:root:ZQhLVaGI8hHgxx3-> oldpass: root123456->Linux OutdoorRouter 4.9.152 #0 Wed Jan 30 12:21:02 2019 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+177.163.231.197:root:LixrG17eHH8LJly-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+61.76.64.199:fa:6dFrlHMQSVu0XMm-> oldpass: fa->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+75.191.144.11:kubernetes:BhZShkOModyDZfC-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+75.191.144.11:apelmoes:PrfFxONgt4BiD6H-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+75.191.144.11:tomc:GgZYotpmDrSxjM3-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+75.191.144.11:default:xLJgYuKxd4WT9BG-> oldpass: 123456->Linux
+Loaded Bin: unknowncores: 
+112.196.38.157:postgres:aFTLleDYffhJxn6-> oldpass: postgres->Linux buildroot 3.19.0-xilinx #9 SMP PREEMPT Tue Oct 2 17:58:39 IST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+87.197.152.52:admin:CXkAUM8GKWbZjJU-> oldpass: admin->Linux a0d7b954-ssh 6.1.58-haos-raspi #1 SMP PREEMPT Mon Dec  4 15:50:50 UTC 2023 aarch64 Linux
+Loaded Bin: arm64cores: 4
+
+50.175.83.202:pi:HPymawMciKSVZhW-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+84.43.19.106:admin:MYcD04nszKgcd27-> oldpass: admin->Linux QT200-LCAIM5-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
