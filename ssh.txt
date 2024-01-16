@@ -51660,3 +51660,1194 @@ Loaded Bin: armcores: 0
 113.253.219.16:admin:KSCtEV2RAwyvwDp-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
 Loaded Bin: armcores: 4
 
+72.183.132.57:admin:xv3zT1JHeCqBK0X-> oldpass: admin->Linux RT-AC87R 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+218.149.235.152:pi:1PFbH6yaN6vvNfC-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+193.242.176.225:admin:iBPyx96u1rpK5xj-> oldpass: admin->Linux RT-AC68U-F0E8 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jan 18 09:08:55 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+158.222.176.174:admin:HMDqgQPqFWkrqAH-> oldpass: admin->Linux RT-AC5300-2E40 2.6.36.4brcmarm #1 SMP PREEMPT Sat Jun 5 08:04:35 CST 2021 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+119.246.177.31:admin:ERv9vbB8KOZ8pPu-> oldpass: admin->Linux RT-AC68U-9DC8 2.6.36.4brcmarm #1 SMP PREEMPT Thu Jul 14 10:59:34 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+198.59.178.74:ubnt:FnMHKYzg9eobylv-> oldpass: ubnt->Linux John Richardson 3.14.65 #1 SMP PREEMPT RT Thu Oct 12 15:10:08 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+110.235.68.224:admin:DawyaSN1YCxcX2Z-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+91.92.191.64:root:OWW6703zew9n1Mf-> oldpass: 123456->Linux virgo 3.10.100 #13 SMP PREEMPT Tue Jun 14 17:23:47 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+82.31.78.250:admin:4YEmrg7LOwZDuX4-> oldpass: admin->Linux RT-AC66U_B1-9CC8 2.6.36.4brcmarm #1 SMP PREEMPT Thu Jul 14 10:59:34 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+97.150.194.95:admin:Pq1n8Cc8n7lg8aM-> oldpass: admin->Linux PBOC 3.4.113 #25 SMP Tue Jun 28 18:48:13 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+10.170.49.31:admin:YDt3FXyx6FBCEqO-> oldpass: admin->Linux  2.6.32.60 #1 Wed Oct 1 16:43:27 EEST 2014 mips unknown
+Loaded Bin: mipscores: 1
+
+70.113.133.191:admin:aVkCcyu5yn8SXHi-> oldpass: admin->Linux RT-AX58U-EF40 4.1.52 #2 SMP PREEMPT Tue Apr 19 12:35:05 CST 2022 armv7l
+Loaded Bin: armcores: 3
+
+208.180.206.214:ubnt:PVRVtovCL9o0Mcq-> oldpass: ubnt->Linux USW-Lite-8-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+74.194.229.171:admin:1MJqrnXGBKqsAbp-> oldpass: admin->Linux GT-AC5300-4A20 4.1.27 #2 SMP PREEMPT Mon Mar 28 10:35:06 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+81.174.134.90:admin:uPc2PuBenXm61FN-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+98.187.99.1:admin:tMvgA3NNFYU1DJv-> oldpass: admin->Linux RT-AC3200 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 18:09:07 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+14.198.94.53:admin:d5E6o2XP4GRBCLg-> oldpass: admin->Linux RT-AC66U_B1-5EB0 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 12:03:37 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+62.21.6.21:admin:p42Hor9976beOSD-> oldpass: admin->Linux RT-AC5300-59E0 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jan 18 12:00:42 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+154.124.186.146:ubnt:7U7blAdivrgZMrb-> oldpass: ubnt->Linux GTSVPN 4.9.79-UBNT #1 SMP Thu Jun 15 11:34:36 UTC 2023 mips64 GNU/Linux
+Loaded Bin: mips64cores: 4
+
+185.210.85.113:ubnt:lIUgL7FQjeIEoUV-> oldpass: ubnt->Linux ubnt 4.9.79-UBNT #1 SMP Thu Jun 15 11:34:52 UTC 2023 mips64 GNU/Linux
+Loaded Bin: mips64cores: 2
+
+223.19.83.178:admin:VqrCdcdt1qN6IvL-> oldpass: admin->Linux RT-AC68U-A258 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 12:03:37 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+81.94.83.47:admin:CSsQ6pQeEGbAieU-> oldpass: admin->Linux GT-AC5300-1340 4.1.27 #2 SMP PREEMPT Mon Mar 28 10:35:06 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+96.51.45.153:admin:3YMCMAWEF9iDC4f-> oldpass: admin->Linux RT-AC3100-E870 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:56:44 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+81.8.187.243:admin:L1TXKSWEFrgNx77-> oldpass: admin->Linux RT-AC68U-D820 2.6.36.4brcmarm #1 SMP PREEMPT Thu Jul 14 10:59:34 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+61.130.176.67:admin:Xr8mNXDSr31t72R-> oldpass: admin->Linux localhost 2.6.37+ #68 Fri Apr 10 15:44:47 CST 2020 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+109.87.154.69:admin:ySnldpjOUt2LDHR-> oldpass: admin->Linux RT-AC66U_B1-E838 2.6.36.4brcmarm #1 SMP PREEMPT Fri Nov 15 11:54:23 CST 2019 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+213.89.73.46:ubnt:PXqi6ByQe2fWBLh-> oldpass: ubnt->Linux UBNT 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+34.230.5.84:ansible:TycjLVyxnUyYEhu-> oldpass: ansible->Linux ACN 6.2.0-1017-aws #17~22.04.1-Ubuntu SMP Fri Nov 17 21:07:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+58.176.109.93:admin:ebveLTnbytlvlfB-> oldpass: admin->Linux RT-AC68U-FAF0 2.6.36.4brcmarm #1 SMP PREEMPT Fri Apr 24 10:40:35 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+209.146.46.84:ubnt:xJkUu9CCsp9sPyP-> oldpass: ubnt->Linux APOUTDOORSDN001AIRASUK 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+81.226.15.143:admin:jrq8aw0ELS2cxAm-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+76.82.106.218:admin:0YmavIwwpmyXODl-> oldpass: admin->Linux RT-AC87R 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+74.141.171.206:admin:G04sZEJCG7UOD5s-> oldpass: admin->Linux RT-AC3100-D050 2.6.36.4brcmarm #1 SMP PREEMPT Tue Nov 7 12:15:44 CST 2023 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+118.218.209.149:pi:BDWLA88rS4sTW7s-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+92.110.122.248:admin:GP0lFav3qnYyu6w-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+5.26.137.64:user:5exFatosRUltMSQ-> oldpass: user->Linux CC100-55EFF4 5.15.107-rt62-w04.01.11 #1 SMP PREEMPT_RT Thu Jun 22 20:08:03 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+166.142.36.35:admin:CMTivH56EMkcpSz-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-15 20:34:04]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-15 20:34:09]
+
+75.81.144.193:admin:K0cmw77iXoxgLqb-> oldpass: admin->Linux RT-AC5300-5CA0 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+77.21.245.140:admin:AAqN6AfgzoXMod5-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+223.17.30.146:admin:tizHjLoNkWqLI25-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+223.17.30.146:admin:9TvHKRCOWYStiEx-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+208.180.206.214:ubnt:vpcKNXdmnRnLNGv-> oldpass: ubnt->Linux USW-Lite-8-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+72.206.36.247:admin:X1cWh4YLg6da7Gz-> oldpass: admin->Linux RT-AC5300-59C0 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+173.89.112.209:admin:nX3I9iedDGhRjEu-> oldpass: admin->Linux RT-AC86U-1168 4.1.27 #2 SMP PREEMPT Sat Aug 8 02:29:24 CST 2020 aarch64
+Loaded Bin: arm64cores: 2
+
+68.145.15.116:admin:oJ5NgCT2HRNnobl-> oldpass: admin->Linux RT-AC3100-1BE0 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:56:44 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+196.202.214.87:ubnt:Oopqy5ZRsqfjXUW-> oldpass: ubnt->Linux EdgeRouter-X-5-Port 4.14.54-UBNT #1 SMP Tue May 11 13:23:28 UTC 2021 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+24.234.138.29:admin:0fuU2CuskRc97QA-> oldpass: admin->Linux RT-AC3100 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 11 20:30:35 CST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+202.86.179.2:admin:uma7k0B8bf4cwDZ-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+119.246.114.74:admin:ecp4XECeqnEZ7ro-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Thu Sep 26 19:46:17 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+47.37.95.155:admin:HTybASQetMESnAY-> oldpass: admin->Linux GT-AC5300 4.1.27 #2 SMP PREEMPT Fri May 10 19:27:09 CST 2019 aarch64
+Loaded Bin: arm64cores: 4
+
+121.32.204.107:admin:0pxbPC3utLTaaxa-> oldpass: admin->Linux Router 3.10.14 #2 SMP Fri Oct 19 18:02:45 CST 2018 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+98.15.46.15:admin:cfG06hn5cMik9Iy-> oldpass: admin->Linux GT-AX11000-9AB0 4.1.51 #4 SMP PREEMPT Wed Oct 27 18:10:51 CST 2021 aarch64
+Loaded Bin: arm64cores: 4
+
+104.250.245.55:ubnt:O5w48IEXfjGWDlQ-> oldpass: ubnt->Linux USW-16-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+90.146.202.4:admin:T86EFOnjuEO3PDV-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+86.115.57.130:admin:JTvoIzcDkZJ5Sry-> oldpass: admin->Linux RT-AC5300-1B50 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+212.33.68.250:admin:3aQQY3ShTaFYY8i-> oldpass: admin->Linux RT-AC68U-3270 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+185.69.247.53:root:u5EtYORxyeXbd4q-> oldpass: 1234->Linux Zyxel_LTE_Router 3.10.14 #1 Fri May 28 10:24:26 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+114.100.124.209:admin:v07G7cARuvLkJ8T-> oldpass: admin->Linux K2P 4.4.198 #1 SMP Fri Feb 18 11:30:38 UTC 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+221.127.29.212:admin:tXbwew3jnG4zmnf-> oldpass: admin->Linux RT-AC68U-F8A8 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+211.148.127.140:root:4rlyumxHlhHl8mN-> oldpass: 123456->Linux SMFNAS 4.4.180+ #42661 SMP Fri Apr 1 15:33:06 CST 2022 x86_64 GNU/Linux synology_apollolake_918+
+Loaded Bin: x86_64cores: 4
+
+59.148.144.149:admin:uCxnDfT8a1DAOI5-> oldpass: admin->Linux RT-AC68U-6E20 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+137.25.54.210:admin:OdvMIeor60KfzTQ-> oldpass: admin->Linux RT-AC3100-D088 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:56:44 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+59.18.185.249:admin:IumxpBtZS3UMADd-> oldpass: admin->Linux RT-AC88U 2.6.36.4brcmarm #1 SMP PREEMPT Thu Sep 19 11:00:46 CST 2019 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+180.108.225.219:admin:2vFGiu6psWQKrUv-> oldpass: admin->Linux RM2100 3.4.113 #1 SMP Thu Jul 29 01:06:12 PDT 2021 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+175.209.72.87:admin:ii3s37dG4fHPKQ3-> oldpass: admin->Linux RT-AC68U 2.6.36.4brcmarm #1 SMP PREEMPT Mon Nov 26 15:15:30 CST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+50.172.39.98:pi:rMIUIM1qPL1BYgH-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+45.48.128.147:admin:FbeSVzeIR5yBk8K-> oldpass: admin->Linux RT-AC86U 4.1.27 #2 SMP PREEMPT Tue Sep 11 20:52:20 CST 2018 aarch64
+Loaded Bin: arm64cores: 2
+
+222.121.103.3:admin:dycVkCl4yUsgodO-> oldpass: admin->Linux RT-AC68U 2.6.36.4brcmarm #1 SMP PREEMPT Tue Aug 13 17:27:55 CST 2019 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+10.170.49.22:admin:HgIkTNCX0CdZd7n-> oldpass: admin->Linux  2.6.32.60 #1 Wed Oct 1 16:43:27 EEST 2014 mips unknown
+Loaded Bin: mipscores: 1
+
+82.5.34.23:admin:BfjVbNCU3YPLCdO-> oldpass: admin->Linux RT-AX88U-7548 4.1.51 #12 SMP PREEMPT Fri Jan 10 12:20:45 CST 2020 aarch64
+Loaded Bin: arm64cores: 4
+
+219.77.219.132:admin:8VFJfXDrV0FIgdc-> oldpass: admin->Linux RT-AX88U-C930 4.1.51 #4 SMP PREEMPT Sun Feb 5 03:28:36 CST 2023 aarch64
+Loaded Bin: arm64cores: 4
+
+202.187.22.0:admin:S97B9U1gok2dY4t-> oldpass: admin->Linux 3.18.24 #2 Fri Oct 20 10:41:37 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+119.246.177.31:admin:TC4lHjbCvDredFg-> oldpass: admin->Linux RT-AC68U-9DC8 2.6.36.4brcmarm #1 SMP PREEMPT Thu Jul 14 10:59:34 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+202.187.22.0:ansible:ETuhLnJKXWeWQg5-> oldpass: ansible->Linux 3.18.24 #2 Fri Oct 20 10:41:37 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+202.187.22.0:pi:ivVJzuP4KWumhxl-> oldpass: pi->Linux 3.18.24 #2 Fri Oct 20 10:41:37 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+210.6.74.183:admin:MIylYrhcVsc7XdM-> oldpass: admin->Linux RT-AX58U-E740 4.1.52 #2 SMP PREEMPT Sat Jul 9 04:47:04 CST 2022 armv7l
+Loaded Bin: armcores: 3
+
+174.100.211.145:admin:I9Ppdi4nGAe1M6B-> oldpass: admin->Linux RT-AX88U-7400 4.1.51 #4 SMP PREEMPT Tue Apr 19 19:40:18 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+189.136.198.238:ubnt:mBo5P6LsNfE2OJX-> oldpass: ubnt->Linux CAM 02 2.6.28 #1 PREEMPT Tue Mar 1 02:39:21 UTC 2016 armv5tel GNU/Linux
+Loaded Bin: armcores: 0
+
+108.185.170.218:admin:290OI8y6D0trqYE-> oldpass: admin->Linux RT-AC5300-9EE0 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+65.28.96.254:admin:mKGEVNo0ZLHRdes-> oldpass: admin->Linux RT-AC3100-C928 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jan 18 11:20:25 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+60.27.101.153:admin:g11hXMe0UBroNoz-> oldpass: admin->Linux RM2100 4.4.198 #1 SMP Mon Dec 19 09:58:20 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+50.170.166.226:ubnt:nrhAR8sD2A1pIEH-> oldpass: ubnt->Linux EdgeRouter-6P 4.9.79-UBNT #1 SMP Thu Jun 30 07:03:20 UTC 2022 mips64 GNU/Linux
+Loaded Bin: mips64cores: 4
+
+213.64.172.64:admin:huexjcwUhWpnYmU-> oldpass: admin->Linux RT-AC3200 2.6.36.4brcmarm #1 SMP PREEMPT Sat Mar 26 23:50:29 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+98.4.185.160:admin:Fmkj7pMhpSYbb9u-> oldpass: admin->Linux RT-AC3100-C338 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:56:44 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+124.220.189.161:root:xNoAkH97ya6LO52-> oldpass: P@ssw0rd->Linux VM-16-14-centos 3.10.0-1160.99.1.el7.x86_64 #1 SMP Wed Sep 13 14:19:20 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+124.244.13.108:admin:8T3Z4Qwqi7AVrw4-> oldpass: admin->Linux RT-AX56U-7358 4.1.52 #2 SMP PREEMPT Thu Jan 28 17:36:21 CST 2021 armv7l
+Loaded Bin: armcores: 4
+
+166.142.36.27:admin:lSumEGgQMfILj16-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-15 22:04:32]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-15 22:04:34]
+
+158.222.176.174:admin:suzqlAxXtoXDwid-> oldpass: admin->Linux RT-AC5300-2E40 2.6.36.4brcmarm #1 SMP PREEMPT Sat Jun 5 08:04:35 CST 2021 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+10.170.3.128:admin:Of6lIrNpVcmJ77F-> oldpass: admin->Linux  2.6.32.60 #1 Wed Oct 1 16:43:27 EEST 2014 mips unknown
+Loaded Bin: mipscores: 1
+
+188.6.186.218:admin:CBlwV3QxVXufI2W-> oldpass: admin->Linux server 3.4.6 #1 Wed Jun 21 16:29:42 CST 2023 armv5tel unknown
+Loaded Bin: armcores:       0
+
+24.231.186.55:admin:bQJHdHCYcwaPF9D-> oldpass: admin->Linux RT-AC66U_B1-8518 2.6.36.4brcmarm #1 SMP PREEMPT Tue Oct 20 11:53:01 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+94.254.36.150:admin:kMOLHn7k0WZfWWO-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+94.254.36.150:admin:FRATnzl5DC79T58-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+70.113.133.191:admin:kjEkf7gsNmYs1Ee-> oldpass: admin->Linux RT-AX58U-EF40 4.1.52 #2 SMP PREEMPT Tue Apr 19 12:35:05 CST 2022 armv7l
+Loaded Bin: armcores: 3
+
+79.114.160.13:admin:VohI0duoky6AObh-> oldpass: admin->Linux RT-AX88U-1AD0 4.1.51 #4 SMP PREEMPT Tue Dec 17 15:20:39 CST 2019 aarch64
+Loaded Bin: arm64cores: 4
+
+98.14.145.247:ubnt:tDAiQttWFMGImFl-> oldpass: ubnt->Linux USW-Lite-8-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+118.241.46.49:admin:v0zmeHjP1I3aDaD-> oldpass: admin->Linux QNAPNAS 3.2.26 #2 SMP Thu Nov 24 05:35:11 CST 2022 armv7l unknown
+Loaded Bin: armcores:       2
+
+50.172.39.98:pi:bdzixk5UHSun7nO-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+118.41.204.68:pi:FVDNPSe9k5volyZ-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+61.244.47.246:admin:nPkbGpWXxzagulA-> oldpass: admin->Linux RT-AC88U-5B48 2.6.36.4brcmarm #1 SMP PREEMPT Tue Nov 7 11:48:52 CST 2023 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+69.202.247.4:admin:yJYNjk5vSaGm51Z-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+81.172.178.199:admin:RYl0ohs9ExO6dhz-> oldpass: admin->Linux RT-AC88U-F9B8 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:09:13 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+222.80.28.11:admin:1wxYuWWQ08qyOZF-> oldpass: admin->Linux localhost 2.6.37+ #95 Tue Apr 23 16:25:19 CST 2019 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+35.234.57.64:root:1wYW7ffgKOAkf7L-> oldpass: 123->Linux instance-1 3.10.0-1160.102.1.el7.x86_64 #1 SMP Tue Oct 17 15:42:21 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 8
+
+90.161.249.122:admin:JRnt3EFWC9i5MGS-> oldpass: admin->Linux GT-AC5300-8F00 4.1.27 #2 SMP PREEMPT Mon Mar 28 10:35:06 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+37.233.70.106:admin:qWRdn3C7kCw0CFG-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+94.190.210.136:admin:8YnqSGRhGkD4kZq-> oldpass: admin->Linux RT-AX88U-5508 4.1.51 #4 SMP PREEMPT Wed Aug 24 12:11:12 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+74.69.8.144:admin:dbCjgStA35fYj7M-> oldpass: admin->Linux RT-AX86U-FC60 4.1.52 #2 SMP PREEMPT Thu Jan 6 00:17:19 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+173.89.9.232:admin:pBm058A0BCnO2nk-> oldpass: admin->Linux RT-AC68U-D978 2.6.36.4brcmarm #1 SMP PREEMPT Fri Feb 7 17:36:41 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+74.69.16.190:admin:8e9NE5yvadJFpJh-> oldpass: admin->Linux RT-AC3100-5068 2.6.36.4brcmarm #1 SMP PREEMPT Tue Aug 11 09:23:57 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+117.93.93.136:admin:tCNTIFxwT98H1QQ-> oldpass: admin->Linux K2P 3.4.113 #1 SMP Mon Feb 10 13:47:02 CST 2020 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+159.235.35.89:admin:OReZ5gsEiSY31pr-> oldpass: admin->Linux RT-AX88U 4.1.51 #4 SMP PREEMPT Wed Jun 19 17:57:39 CST 2019 aarch64
+Loaded Bin: arm64cores: 4
+
+166.142.36.20:admin:sHHD0PoNje3ZhzC-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-15 21:36:34]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-15 21:36:37]
+
+78.69.75.137:ubnt:qolSAEEJqnVpxSL-> oldpass: ubnt->Linux USW-16-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+45.48.128.147:admin:2W2Wr2YIQFKaCor-> oldpass: admin->Linux RT-AC86U 4.1.27 #2 SMP PREEMPT Tue Sep 11 20:52:20 CST 2018 aarch64
+Loaded Bin: arm64cores: 2
+
+45.48.128.147:admin:jaQHyq0dJwX3eWj-> oldpass: admin->Linux RT-AC86U 4.1.27 #2 SMP PREEMPT Tue Sep 11 20:52:20 CST 2018 aarch64
+Loaded Bin: arm64cores: 2
+
+95.70.139.242:admin:yE9hAD5dd8auOQF-> oldpass: admin->Linux raspberrypi 5.10.52-v8+ #1441 SMP PREEMPT Tue Aug 3 18:14:03 BST 2021 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 4
+
+118.140.2.254:admin:0jnZD3uqGN2jAXG-> oldpass: admin->Linux RT-AC68U-A7B0 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+115.23.23.89:pi:qIJCFvcYKDAWMdg-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+74.69.16.190:admin:cnyXi2wRb1tAs8d-> oldpass: admin->Linux RT-AC3100-5068 2.6.36.4brcmarm #1 SMP PREEMPT Tue Aug 11 09:23:57 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+99.199.72.134:ubnt:76YCwtYj6Cp3YIa-> oldpass: ubnt->Linux US-8-150W 3.6.5 #0 SMP Thu Aug 30 12:10:54 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+184.83.29.37:ubnt:irOGqKuznTZ3GBg-> oldpass: ubnt->Linux USW-Pro-48-PoE 3.6.5 #0 SMP Thu Aug 30 12:10:54 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+78.131.58.105:admin:aw8wp3aeMIHxnDx-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+76.82.106.218:admin:UUB317bjzPpNdrr-> oldpass: admin->Linux RT-AC87R 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+188.228.113.105:admin:yQ3qwTiBpNNUuuT-> oldpass: admin->Linux RT-AC68U-28B8 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+193.138.187.235:admin:UNQ3sUvDFv3LlS2-> oldpass: admin->Linux RT-AX58U-39A8 4.19.183 #1 SMP PREEMPT Sat Dec 24 22:35:23 CST 2022 armv7l
+Loaded Bin: armcores: 4
+
+185.95.160.11:admin:dlok7u0vaGhNpZ6-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+222.99.237.79:admin:Dqil7mwPIHzxGmj-> oldpass: admin->Linux RT-AX56U-8278 4.1.52 #2 SMP PREEMPT Sat Jun 11 04:36:51 CST 2022 armv7l
+Loaded Bin: armcores: 4
+
+118.241.46.49:admin:AMwnI8DSg3AjtKa-> oldpass: admin->Linux QNAPNAS 3.2.26 #2 SMP Thu Nov 24 05:35:11 CST 2022 armv7l unknown
+Loaded Bin: armcores:       2
+
+213.124.184.6:admin:xNmc6SYck3Ylr4o-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+75.137.61.147:admin:k4NUkBcBzotwsFu-> oldpass: admin->Linux GT-AX11000-8E10 4.1.51 #4 SMP PREEMPT Sun Feb 5 09:24:58 CST 2023 aarch64
+Loaded Bin: arm64cores: 4
+
+121.7.216.207:root:ELhGmVlIqPRHsA0-> oldpass: root->Linux pikvm 6.1.61-1-rpi-ARCH #1 SMP Fri Nov  3 20:48:52 MSK 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+175.120.170.20:pi:bxpm1Oiff5RvBxi-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+172.92.187.116:ubnt:x76mTJqnAGD4IVM-> oldpass: ubnt->Linux U6-Lite 4.4.198 #0 SMP Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+90.146.202.4:admin:s36aDGf7kebd3zE-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+217.21.28.89:admin:h5cTBBWnb8SAjoP-> oldpass: admin->Linux RT-AX56U-8E28 4.1.52 #2 SMP PREEMPT Mon Oct 4 15:32:38 CST 2021 armv7l
+Loaded Bin: armcores: 4
+
+106.55.101.218:root:06aIgUcuyffz5D0-> oldpass: Abc123456->Linux VM-12-8-centos 3.10.0-1160.88.1.el7.x86_64 #1 SMP Tue Mar 7 15:41:52 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+24.202.251.133:admin:4jykvLBZcZ5sVAO-> oldpass: admin->Linux GT-AC5300-D170 4.1.27 #2 SMP PREEMPT Mon Mar 28 10:35:06 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+199.166.248.46:ubnt:TPlISN59enKeuwj-> oldpass: ubnt->Linux USW-Lite-8-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+178.61.49.244:root:1wWg3jQroloh7jY-> oldpass: password->Linux dd-wrt-nxt 3.18.21 #1 SMP Thu Mar 10 17:22:30 CET 2016 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+222.99.237.79:admin:Igh1KufYd10JDGA-> oldpass: admin->Linux RT-AX56U-8278 4.1.52 #2 SMP PREEMPT Sat Jun 11 04:36:51 CST 2022 armv7l
+Loaded Bin: armcores: 4
+
+46.43.8.212:root:tERNEBry2KAe1zx-> oldpass: root->Linux www 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+90.146.202.4:admin:AurfZDVwUi0WBt6-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+216.18.245.217:ubnt:QbZtILF8pe2deVi-> oldpass: ubnt->Linux Alex sc 6/22/23 2.6.32.68 #1 Tue Jun 23 16:48:07 EEST 2020 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+42.185.57.161:admin:dVH6L2MYh2vS7dl-> oldpass: admin->Linux RM2100 4.4.198 #4 SMP Thu Jul 28 17:17:33 HKT 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+36.93.237.219:admin:Ua7c202nUa6mXQ2-> oldpass: admin->Linux SMAKSEMINARISTYOHANESPAULUSIIAP 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+218.203.203.69:user:ujE7XEp5Mvnxo3p-> oldpass: user->Linux host 4.14.53-rt34 #1 SMP PREEMPT RT Thu Apr 13 16:51:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+70.123.156.157:admin:XgPMIqc8tNfJYle-> oldpass: admin->Linux RT-AC3200 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 17:57:40 CST 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+79.135.184.60:admin:qDR8DPEkkYUaQaO-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+78.131.58.105:admin:XCu2Ydle27YBQ0c-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+76.176.130.10:ubnt:O8qMBmOVssCcoMX-> oldpass: ubnt->Linux USW-Enterprise-8-PoE 4.4.52 #0 SMP Thu Aug 30 12:10:54 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+76.176.130.10:ubnt:cmeDpPXaIDXxzVh-> oldpass: ubnt->Linux USW-Enterprise-8-PoE 4.4.52 #0 SMP Thu Aug 30 12:10:54 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+70.188.162.224:admin:clJkoo0YCIigTEx-> oldpass: admin->Linux RT-AC68U-B678 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+36.93.126.12:ubnt:JYsUNll2mQHJbIa-> oldpass: ubnt->Linux AP2UPTPUSKESMASBANDARJAYALAHAT 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+74.196.219.142:admin:k6N9N112Trkt0GC-> oldpass: admin->Linux RT-AC1900P-2D28 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jan 5 17:08:14 CST 2021 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+72.208.39.28:admin:nWdZBRPilJ6f3bG-> oldpass: admin->Linux RT-AC66U_B1-D7C8 2.6.36.4brcmarm #1 SMP PREEMPT Fri Apr 24 10:40:35 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+213.65.128.213:admin:0tn5w6UieHRLfWf-> oldpass: admin->Linux RT-AC66U_B1-4900 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+115.173.99.170:admin:K2403CRJnP1zI7o-> oldpass: admin->Linux RT-AC54U 3.4.113 #2 Mon Sep 23 21:36:28 CST 2019 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+209.146.46.123:ubnt:4YqlueqKiId2zWd-> oldpass: ubnt->Linux APINDOORKANTORDESATANJUNGSETELU 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+155.137.167.159:admin:3vyiSJjo2lIjvlt-> oldpass: admin->Linux RT-AC68U-8C30 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jul 21 14:08:11 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+223.82.203.42:admin:iTimlKS5qexdTQ4-> oldpass: admin->Linux Router 3.10.14 #2 SMP Fri Oct 19 18:02:45 CST 2018 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+97.137.222.146:admin:SalHg98dFIWkahj-> oldpass: admin->Linux Advanced-Modem-INT 3.4.113 #34 SMP Fri Jul 14 17:15:24 CST 2023 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+119.247.53.59:admin:A48yRoNOfVvQni9-> oldpass: admin->Linux RT-AC68U-F450 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jul 21 14:08:11 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+82.30.134.211:admin:iGwiVKzDJu7Gard-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Sat May 1 03:57:40 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+84.219.143.199:ubnt:SpHGKCCvFhi88dQ-> oldpass: ubnt->Linux US-8-60W 3.6.5 #0 SMP Thu Aug 30 12:10:54 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+188.150.3.130:admin:Jv0cnLhFH16MCRB-> oldpass: admin->Linux RT-AX58U-0140 4.19.183 #1 SMP PREEMPT Wed Sep 1 01:14:16 CST 2021 armv7l
+Loaded Bin: armcores: 4
+
+47.92.174.195:root:irN99hsV7Jv3LD3-> oldpass: 1qaz@WSX3edc->Linux iZ8vbg1pc4cchwu86v0evpZ 3.10.0-1160.95.1.el7.x86_64 #1 SMP Mon Jul 24 13:59:37 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+119.247.36.140:admin:vLysyzLJa6cO98S-> oldpass: admin->Linux RT-AC88U-DCF8 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:09:13 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+41.79.157.141:admin:oIXac8g2vNcqXxe-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Wed Jul 1 11:43:04 CST 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+175.209.72.87:admin:ZFuIIbTrGSTtR0X-> oldpass: admin->Linux RT-AC68U 2.6.36.4brcmarm #1 SMP PREEMPT Mon Nov 26 15:15:30 CST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+59.148.144.149:admin:aHvbLD8fQcqrE2K-> oldpass: admin->Linux RT-AC68U-6E20 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+50.228.141.96:pi:ZII4cMib2pLktrB-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+78.131.58.105:admin:W2IxmsP1w8OpuSJ-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+213.114.77.111:admin:JxUZDnIxQHvsQMH-> oldpass: admin->Linux RT-AC88U-1720 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:09:13 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+115.23.23.94:pi:ul2EUPQwWm6Z0f5-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+115.23.23.94:pi:OObmVRqOJTW36Iq-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+191.195.237.15:root:SULuD3zJRkZTFSZ-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+46.43.8.212:root:0Mr4WbnuFASwiTO-> oldpass: root->Linux ftpserver-212 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+98.170.235.92:admin:1pEWeXcEiKXZdVY-> oldpass: admin->Linux RT-AC3100 2.6.36.4brcmarm #1 SMP PREEMPT Tue Sep 11 19:53:36 CST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+77.38.140.166:admin:VG5eOFwlC13WIv9-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+1.230.90.91:admin:1wohRJyzAS8zn4F-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+185.109.66.250:admin:p3fKf6AKg7PdAlg-> oldpass: admin->Linux RT-AC88U-B8F0 2.6.36.4brcmarm #1 SMP PREEMPT Tue Nov 7 11:48:52 CST 2023 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+155.137.167.159:admin:scWZm224HjEREi9-> oldpass: admin->Linux RT-AC68U-8C30 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jul 21 14:08:11 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+198.59.178.16:ubnt:FsAi6l2QwvP9cHx-> oldpass: ubnt->Linux AngelaUphoff 3.14.65 #1 SMP PREEMPT RT Thu Oct 12 15:10:08 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+155.0.194.34:ubnt:Xe5HZ41FR3qlfgV-> oldpass: ubnt->Linux UAP-AC-Mesh-Pro 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+183.178.227.191:admin:ThPPP2qftWIMUeq-> oldpass: admin->Linux RT-AC66U_B1-C7C8 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+177.199.15.101:root:2D5myYuFIxJHrfM-> oldpass: root->Linux Pulpstone 4.9.76 #0 Fri Jan 19 13:06:57 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+83.232.36.152:ubnt:2TiVG180hMWPdvN-> oldpass: ubnt->Linux UBNT 3.6.5 #2 SMP Wed Apr 22 10:09:32 MDT 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+46.43.8.212:root:Y78SjLJU0OWC3aQ-> oldpass: root->Linux www 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+179.91.50.74:admin:L5eHvyZRIbsyhy5-> oldpass: admin->Linux mdm9625 3.4.0+ #1 PREEMPT Thu Nov 5 17:22:55 CST 2015 armv7l GNU/Linux
+Loaded Bin: armcores: 0
+
+223.19.83.178:admin:kMU66OYZyeKUUK8-> oldpass: admin->Linux RT-AC68U-A258 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 12:03:37 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+121.202.192.134:root:e9Wc6Xb6b8cToXJ-> oldpass: root->Linux USR-G809 3.10.14 #57 Thu Jun 10 20:39:06 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+36.92.223.75:ubnt:RHKWjLV08ygg9oQ-> oldpass: ubnt->Linux AP1UPTDPUSKESMASRASABOU 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+50.170.166.226:ubnt:NXGqQTCSpDZ2QsB-> oldpass: ubnt->Linux EdgeRouter-6P 4.9.79-UBNT #1 SMP Thu Jun 30 07:03:20 UTC 2022 mips64 GNU/Linux
+Loaded Bin: mips64cores: 4
+
+68.117.7.244:admin:YfRKuI47Qs3TY3o-> oldpass: admin->Linux RT-AC68P-9D60 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+78.72.169.236:ubnt:hqjFxlG6fBWdZ8z-> oldpass: ubnt->Linux UBNT 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+173.238.10.31:admin:1FkT7M6GnFrdaWq-> oldpass: admin->Linux RT-AX86U-7E70 4.1.52 #2 SMP PREEMPT Tue Dec 13 06:54:38 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+47.206.245.23:admin:A0ZXmYEFCUzUBGh-> oldpass: admin->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+46.43.8.212:root:dpCneXdpgOX04C2-> oldpass: Qwer1234->Linux dbsrv-212 4.4.0-112-generic #135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 4
+
+47.206.245.23:root:MgDHWtcISJkVsHy-> oldpass: Root@123->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.23:root:huY9PqRONzu7M2o-> oldpass: Aa123456@->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.23:root:HcC6R0cgtvWebjJ-> oldpass: 1->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.23:root:XazWAwPF0eqv5by-> oldpass: a1b2c3d4->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+47.206.245.23:root:wzVgxIpGViSHUBZ-> oldpass: ........->Linux nas002 4.4.0-43-generic #129-Ubuntu SMP Thu Mar 17 20:17:14 UTC 2017 x86-64 x86-64 x86-64 GNU/Linux
+Loaded Bin: unknowncores: 
+213.102.66.205:admin:jnADiT0beJSTyIF-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+74.69.16.190:admin:hQ6rlBomlsRAwzx-> oldpass: admin->Linux RT-AC3100-5068 2.6.36.4brcmarm #1 SMP PREEMPT Tue Aug 11 09:23:57 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+93.188.36.32:admin:fulvDXPPIdMq33y-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+82.176.159.203:admin:YG3VT0gabUwgkhX-> oldpass: admin->Linux RT-AC3200 2.6.36.4brcmarm #1 SMP PREEMPT Sat Mar 26 23:50:29 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+72.201.204.202:admin:GQ5ER7BnNkVRr29-> oldpass: admin->Linux RT-AC3200 2.6.36.4brcmarm #1 SMP PREEMPT Sat Mar 26 23:50:29 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+93.177.207.198:admin:X0zmLC4OTD775YS-> oldpass: admin->Linux RT-AX56U-6688 4.1.52 #2 SMP PREEMPT Sat Apr 24 11:04:58 CST 2021 armv7l
+Loaded Bin: armcores: 4
+
+96.51.45.153:admin:p0Y4y1rojIhNlnb-> oldpass: admin->Linux RT-AC3100-E870 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:56:44 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+13.235.91.219:ansible:yRGBzbDf34Cg355-> oldpass: ansible->Linux ip-172-31-3-249.ap-south-1.compute.internal 5.10.205-195.804.amzn2.x86_64 #1 SMP Fri Jan 5 01:22:18 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+72.180.180.21:admin:2URWsGjoTCzWf3s-> oldpass: admin->Linux RT-AC3100-9E30 2.6.36.4brcmarm #1 SMP PREEMPT Tue Nov 7 12:15:44 CST 2023 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+61.239.159.198:admin:WVokg8sOq7g3dhR-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+176.36.158.223:admin:Cc7yjAz0xmLT8hH-> oldpass: admin->Linux RT-AC5300-4420 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+24.53.174.97:ubnt:kuoAgNo3c1YrYxw-> oldpass: ubnt->Linux USW-24-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+76.222.220.135:ubnt:nhFNnkTa4Fynt4L-> oldpass: ubnt->Linux UBNT 2.6.32.33 #1 Mon Oct 27 15:34:21 PDT 2014 mips unknown
+Loaded Bin: mipscores: 1
+
+74.196.219.142:admin:NbjH9y9W0isfm8Y-> oldpass: admin->Linux RT-AC1900P-2D28 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jan 5 17:08:14 CST 2021 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+121.179.93.147:pi:WzZ5r859S2Rgvuy-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+95.111.109.180:admin:8CPqtNHvbsKG0Rt-> oldpass: admin->Linux RT-AC68U-7278 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 12:03:37 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+121.202.200.224:root:YW1Gc0mhCzG6oYT-> oldpass: root->Linux USR-G809 3.10.14 #78 Wed Aug 4 09:46:20 CST 2021 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+92.2.171.137:admin:AvuzfYUqQL2my3f-> oldpass: admin->Linux QT200-EMEASWI-1 2.4.18-ipms-dl #1-QT-200-ppc-021 2014.07.31-10:33:07 ppc GNU/Linux
+Loaded Bin: ppccores: 0
+
+95.128.95.68:ubnt:HEH1OZPVRcEQqOH-> oldpass: ubnt->Linux UBNT 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+114.226.57.75:root:tC7QdPpsOv4wT84-> oldpass: 123456->Linux localhost.localdomain 3.10.0-1127.el7.x86_64 #1 SMP Tue Mar 31 23:36:51 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+24.102.75.14:ubnt:P34MfHPjOUOUM44-> oldpass: ubnt->Linux USW-Lite-8-PoE 3.18.24 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+223.18.98.15:admin:Nbl4YsPjxXDJW7J-> oldpass: admin->Linux TUF-AX3000-B0E0 4.1.52 #2 SMP PREEMPT Sun Jul 24 03:27:40 CST 2022 armv7l
+Loaded Bin: armcores: 3
+
+76.85.80.81:admin:7gVz7U8GWkEeHIh-> oldpass: admin->Linux GT-AX11000-AF90 4.1.51 #6 SMP PREEMPT Tue Jan 14 18:42:53 CST 2020 aarch64
+Loaded Bin: arm64cores: 4
+
+65.186.4.13:admin:Zr08SYEZ15KmaoV-> oldpass: admin->Linux RT-AC1900P-36B0 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+61.246.1.75:admin:M8Ts2f0uFhwiVRE-> oldpass: admin->Linux ApolloPro 4.4.140 #1 SMP Fri Sep 16 16:58:33 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+222.100.59.215:root:Xvhy9L9rNXDEnF5-> oldpass: root->Linux imx7ulpevkhalotactile 5.10.52-lts-5.10.y+ #1 SMP PREEMPT Wed Sep 8 10:41:11 UTC 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+98.167.24.31:admin:C3oz7WVur6XhjRL-> oldpass: admin->Linux RT-AC5300-9500 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+155.137.167.159:admin:e7o19NmHgli0ts2-> oldpass: admin->Linux RT-AC68U-8C30 2.6.36.4brcmarm #1 SMP PREEMPT Tue Jul 21 14:08:11 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+124.223.215.9:root:igc1wjfjXuGVG5B-> oldpass: Qwer1234->Linux VM-16-2-centos 3.10.0-1160.99.1.el7.x86_64 #1 SMP Wed Sep 13 14:19:20 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 2
+
+24.28.104.28:admin:tUfRZGcO4Yvy3Yf-> oldpass: admin->Linux RT-AC86U-ADE0 4.1.27 #2 SMP PREEMPT Sat Aug 8 02:29:24 CST 2020 aarch64
+Loaded Bin: arm64cores: 2
+
+88.29.248.23:admin:92nLpfo730lEDiY-> oldpass: admin->Linux DEVICE-ea4c 4.1.39-rt45-gbd471f8 #1 SMP PREEMPT RT Wed Nov 4 15:41:49 CET 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+88.29.248.23:admin:mF2aCqyWkCovgdl-> oldpass: admin->Linux DEVICE-ea4c 4.1.39-rt45-gbd471f8 #1 SMP PREEMPT RT Wed Nov 4 15:41:49 CET 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+88.29.248.23:admin:WfcnudeQYEWUrvi-> oldpass: admin->Linux DEVICE-ea4c 4.1.39-rt45-gbd471f8 #1 SMP PREEMPT RT Wed Nov 4 15:41:49 CET 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+223.16.83.194:admin:7VEgMhIi7pA5OjB-> oldpass: admin->Linux RT-AC68U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 10 22:16:14 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+88.29.248.23:user:RCKh38dSL9ej41V-> oldpass: user->Linux DEVICE-ea4c 4.1.39-rt45-gbd471f8 #1 SMP PREEMPT RT Wed Nov 4 15:41:49 CET 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+88.29.248.23:user:1MUj14Yrl9zYcdO-> oldpass: user->Linux DEVICE-ea4c 4.1.39-rt45-gbd471f8 #1 SMP PREEMPT RT Wed Nov 4 15:41:49 CET 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+88.29.248.23:user:TtJNucXQBvOMtdy-> oldpass: user->Linux DEVICE-ea4c 4.1.39-rt45-gbd471f8 #1 SMP PREEMPT RT Wed Nov 4 15:41:49 CET 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+223.156.197.173:admin:4xfF9N8LyTqfAN7-> oldpass: admin->Linux RM2100 4.4.198 #1 SMP Fri Feb 25 20:28:41 CST 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+74.73.54.86:admin:s1zckvchRrXstM7-> oldpass: admin->Linux RT-AX3000-78E8 4.1.52 #2 SMP PREEMPT Sat Feb 4 22:05:08 CST 2023 armv7l
+Loaded Bin: armcores: 3
+
+150.221.136.198:admin:f3yphkUw1lxxvjk-> oldpass: admin->Linux RT-AX88U-A4E8 4.1.51 #4 SMP PREEMPT Sun Feb 5 03:28:36 CST 2023 aarch64
+Loaded Bin: arm64cores: 4
+
+76.247.180.153:admin:SXsWRRZlVSXS2OQ-> oldpass: admin->Linux RT-AC87R 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+42.185.57.161:admin:tAKgfEOVuYxCCE0-> oldpass: admin->Linux RM2100 4.4.198 #4 SMP Thu Jul 28 17:17:33 HKT 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+103.124.191.99:ubnt:HRpZ2Dr7A2elLbQ-> oldpass: ubnt->Linux APINDOORSMPN1PULAUTIGABARAT 4.4.153 #0 Thu Aug 30 12:10:54 2018 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+68.52.212.24:ubnt:KBBqC0i8fZ9Q3uT-> oldpass: ubnt->Linux EdgeRouter-4 4.9.79-UBNT #1 SMP Thu Jun 15 11:34:36 UTC 2023 mips64 GNU/Linux
+Loaded Bin: mips64cores: 4
+
+193.181.204.211:admin:9T00et082cx3FH6-> oldpass: admin->Linux RT-AC1300GPLUS 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+192.136.243.127:admin:FsBSO5UCraIAA53-> oldpass: admin->Linux RT-AC5300-F460 2.6.36.4brcmarm #1 SMP PREEMPT Mon Mar 28 09:50:09 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+46.59.103.149:admin:37LDqPxDUux8ahg-> oldpass: admin->Linux RT-AC88U 2.6.36.4brcmarm #1 SMP PREEMPT Thu Sep 19 11:00:46 CST 2019 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+213.64.172.64:admin:D68UZBCeM7Omds7-> oldpass: admin->Linux RT-AC3200 2.6.36.4brcmarm #1 SMP PREEMPT Sat Mar 26 23:50:29 CST 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+116.86.142.115:admin:zKwmhSxohsLflW1-> oldpass: admin->Linux RT-N56U 3.4.110 #2 Sun Jan 31 22:41:50 KRAT 2016 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+74.76.130.242:admin:zUm3Dr6MAucLHmd-> oldpass: admin->Linux RT-AC68U 2.6.36.4brcmarm #1 SMP PREEMPT Fri Jun 22 21:54:51 CST 2018 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+213.124.184.6:admin:TxWmzRt8x5inwOl-> oldpass: admin->Linux RT-AC58U 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+77.71.76.51:admin:upNur8GBTQKAuMX-> oldpass: admin->Linux Mgs 3.4.110.101 #1 Tue Apr 5 00:43:32 EEST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+77.71.76.51:admin:1xVXSGiOZC0PCxJ-> oldpass: admin->Linux Mgs 3.4.110.101 #1 Tue Apr 5 00:43:32 EEST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+77.71.76.51:admin:3YKEW9MlGBLcXT1-> oldpass: admin->Linux Mgs 3.4.110.101 #1 Tue Apr 5 00:43:32 EEST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+73.110.46.95:ubnt:YroDU5dr3MNJmaF-> oldpass: ubnt->Linux U6-Plus 5.4.188 #0 SMP Thu Aug 30 12:10:54 2018 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+89.104.69.195:admin:9QTY0KCr7mgrX1L-> oldpass: admin->Linux cv3515533.novalocal 5.15.0-76-generic #83-Ubuntu SMP Thu Jun 15 19:16:32 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Loaded Bin: x86_64cores: 1
+
+166.139.50.49:admin:JNd8EqzfjnfRRDH-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-16 01:21:05]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-16 01:21:07]
+
+218.150.6.100:pi:yMFl9zd6YNDQF1f-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+218.150.6.100:pi:w1G8aHfIRzXoVtI-> oldpass: pi->Linux NanoPi-NEO-Core 4.14.111 #43 SMP Tue May 25 22:01:30 KST 2021 armv7l armv7l armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+176.107.174.194:admin:H0J617sFy5KyVGT-> oldpass: admin->Linux RT-AC1900U-8688 2.6.36.4brcmarm #1 SMP PREEMPT Tue Oct 20 11:53:01 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+5.26.127.13:user:qgbodbx16D5WEjP-> oldpass: user->Linux CC100-55EF40 5.15.107-rt62-w04.01.11 #1 SMP PREEMPT_RT Thu Jun 22 20:08:03 UTC 2023 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+91.138.45.21:admin:dly9hEXv1Z7hhAS-> oldpass: admin->Linux RT-AC68U-82A0 2.6.36.4brcmarm #1 SMP PREEMPT Mon Aug 10 16:57:54 CST 2020 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+76.174.229.245:admin:yuBOETJjyKBsT96-> oldpass: admin->Linux RT-AX88U-73D8 4.1.51 #4 SMP PREEMPT Sat Jun 26 18:51:55 CST 2021 aarch64
+Loaded Bin: arm64cores: 4
+
+68.3.3.93:admin:HcogN5sJtTU0Obd-> oldpass: admin->Linux RT-AC3100-1C70 2.6.36.4brcmarm #1 SMP PREEMPT Wed Mar 23 10:56:44 CST 2022 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+166.142.36.23:admin:sfzmm0xNtSEEV80-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-16 02:18:43]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-16 02:18:46]
+
+78.188.93.72:user:TPBM6a2IoAVVcBZ-> oldpass: user->Linux VMG1312-B10D 3.4.11 #2 SMP PREEMPT Tue Jul 12 14:48:03 CST 2016 mips GNU/Linux
+Loaded Bin: mipscores: 2
+
+70.69.20.237:admin:a5rOEf5kpbXMIol-> oldpass: admin->Linux GT-AX11000-1870 4.1.51 #4 SMP PREEMPT Mon Jan 10 13:28:40 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+61.138.165.122:user:cxZ8A6DhJLanY9c-> oldpass: user->Linux host 4.14.53-rt34 #1 SMP PREEMPT RT Thu Apr 13 16:51:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+Loaded Bin: arm64cores: 2
+
+114.32.234.157:admin:1TfD4DAqPYWsD4e-> oldpass: admin->Linux RT-AC1300UHP 3.14.77 #1 SMP PREEMPT Wed May 12 12:57:14 CST 2021 armv7l GNU/Linux
+Loaded Bin: armcores: 4
+
+184.59.214.135:admin:z1TJn7vlavNABTI-> oldpass: admin->Linux RT-AC68U-5288 2.6.36.4brcmarm #1 SMP PREEMPT Fri Aug 14 15:20:58 EDT 2020 armv7l ASUSWRT-Merlin
+Loaded Bin: armcores: 2
+
+116.10.65.239:admin:XQ6RIunOaJz0hlP-> oldpass: admin->Linux RT-N14U 3.4.113 #1 Sat Jul 1 18:07:50 CST 2017 mips GNU/Linux
+Loaded Bin: mipscores: 1
+
+191.115.98.182:user:Xy2F6JsRREOQhGC-> oldpass: user->Linux CC100-4EC628 5.15.19-rt29-w04.00.04 #1 SMP PREEMPT_RT Mon Nov 21 16:43:35 UTC 2022 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+24.254.104.100:admin:eBzm7fSlxsBIKvx-> oldpass: admin->Linux RT-AX58U-2020 4.1.52 #2 SMP PREEMPT Mon Dec 23 22:15:30 CST 2019 armv7l
+Loaded Bin: armcores: 3
+
+79.114.160.13:admin:ipPTnwYzppjNFDE-> oldpass: admin->Linux RT-AX88U-1AD0 4.1.51 #4 SMP PREEMPT Tue Dec 17 15:20:39 CST 2019 aarch64
+Loaded Bin: arm64cores: 4
+
+166.142.36.27:admin:enrR6dQHEQng2PH-> oldpass: admin->-----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-16 02:51:58]
+Loaded Bin: unknowncores: -----------------------^
+syntax error: expecting 
+  change-password - Change a user's password
+  clear           - Clear information on the system
+  commit          - Confirm a pending commit
+  configure       - Manipulate software configuration information
+  describe        - Display transparent command  information
+  exit            - Exit the management session
+  help            - Provide help information
+  iperf           - Linux iperf command for performing TCP/UDP throughput measurements.
+  iperf3          - Linux iperf3 command for performing TCP/UDP throughput measurements.
+  netdump         - Monitor and analyze packets on interfaces
+  ping            - Ping an IPv4 host
+  ping6           - Ping an IPv6 host
+  quit            - Exit the management session
+  request         - Make system-level requests
+  script          - Script actions
+  serdump         - Monitor serial data passing through terminal-server or passthrough
+  set             - Set CLI properties
+  set-path        - Set relative show path
+  show            - Show information about the system
+  ssh             - Open a secure shell on another host
+  telnet          - Open a telnet session to another host
+  top             - Exit to top level and optionally run command
+  traceroute      - Trace the route to a remote host using Linux tracepath command.
+  traceroute6     - Trace the route to a remote host using Linux tracepath6 command.
+  up              - Exit one level of configuration
+[error][2024-01-16 02:52:01]
+
+68.169.240.69:admin:3V6OCu7MU8jaeNG-> oldpass: admin->Linux cnPilot-R201P 2.6.36 #1 SMP Mon Aug 2 10:53:14 CST 2021 mips unknown
+Loaded Bin: mipscores: 2
+
+118.241.46.49:admin:zChyNTLS8ZzvLNp-> oldpass: admin->Linux QNAPNAS 3.2.26 #2 SMP Thu Nov 24 05:35:11 CST 2022 armv7l unknown
+Loaded Bin: armcores:       2
+
+118.241.46.49:admin:KQPk9nzZYUAP4JY-> oldpass: admin->Linux QNAPNAS 3.2.26 #2 SMP Thu Nov 24 05:35:11 CST 2022 armv7l unknown
+Loaded Bin: armcores:       2
+
+118.241.46.49:admin:OQ6w4Y8vx2asAKr-> oldpass: admin->Linux QNAPNAS 3.2.26 #2 SMP Thu Nov 24 05:35:11 CST 2022 armv7l unknown
+Loaded Bin: armcores:       2
+
+110.235.32.240:admin:4HunNCpknRc0mEe-> oldpass: admin->Linux RT-AC87U 2.6.36.4brcmarm #1 SMP PREEMPT Fri May 24 17:37:28 CST 2019 armv7l GNU/Linux
+Loaded Bin: armcores: 2
+
+206.51.96.211:ubnt:JrTU9fx0fOODBu7-> oldpass: ubnt->Linux UBNT 3.6.5 #2 SMP Wed Apr 22 10:09:32 MDT 2020 armv7l GNU/Linux
+Loaded Bin: armcores: 1
+
+70.180.156.2:admin:7OOjv3K0ERCI6DW-> oldpass: admin->Linux GT-AC5300-6FE0 4.1.27 #2 SMP PREEMPT Mon Mar 28 10:35:06 CST 2022 aarch64
+Loaded Bin: arm64cores: 4
+
+222.121.103.3:admin:2wdYICEgjXJlxPH-> oldpass: admin->Linux RT-AC68U 2.6.36.4brcmarm #1 SMP PREEMPT Tue Aug 13 17:27:55 CST 2019 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+216.110.234.133:admin:zwKIDEOf9sds6Ab-> oldpass: admin->Linux RT-AC3100-4190 2.6.36.4brcmarm #1 SMP PREEMPT Thu Jan 28 21:12:18 CST 2021 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
+42.185.57.161:admin:WS8Ih60FA9VFRSy-> oldpass: admin->Linux RM2100 4.4.198 #4 SMP Thu Jul 28 17:17:33 HKT 2022 mips GNU/Linux
+Loaded Bin: mipscores: 4
+
+91.159.196.194:root:4gbFp0kiTqc3YvO-> oldpass: 1234->Linux WAP5805 2.6.30 #1 Mon Aug 11 12:58:35 CST 2014 arc GNU/Linux
+Loaded Bin: unknowncores: 0
+
+72.180.180.21:admin:9PnPKbPQ65n6ZM7-> oldpass: admin->Linux RT-AC3100-9E30 2.6.36.4brcmarm #1 SMP PREEMPT Tue Nov 7 12:15:44 CST 2023 armv7l ASUSWRT
+Loaded Bin: armcores: 2
+
