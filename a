@@ -292,6 +292,7 @@ http://103.53.211.118:80/phpMyAdmin/scripts/setup.php
 http://103.56.205.57:80/phpmyadmin/scripts/setup.php
 http://103.56.205.57:80/phpMyAdmin/scripts/setup.php
 http://103.56.205.57:80/PHPMYADMIN/scripts/setup.php
+http://103.58.149.101:80/PHPMYADMIN/scripts/setup.php
 http://103.6.139.22:80/phpMyAdmin/scripts/setup.php
 http://103.6.168.59:80/phpmyadmin/scripts/setup.php
 http://103.6.6.155:80/myadmin/scripts/setup.php
@@ -343,6 +344,7 @@ http://104.131.43.232:80/phpmyadmin/scripts/setup.php
 http://104.131.43.232:80/phpMyAdmin/scripts/setup.php
 http://104.131.67.216:80/_phpMyAdmin/scripts/setup.php
 http://104.156.229.197:80/phpmyadmin/scripts/setup.php
+http://104.168.137.184:80/_phpMyAdmin/scripts/setup.php
 http://104.168.9.117:80/phpMyAdmin/scripts/setup.php
 http://104.168.9.117:80/_phpMyAdmin/scripts/setup.php
 http://104.197.225.230:80/phpMyAdmin/scripts/setup.php
@@ -458,6 +460,8 @@ http://107.189.7.34:80/phpMyAdmin/scripts/setup.php
 http://107.189.7.34:80/_phpMyAdmin/scripts/setup.php
 http://107.22.2.216:80/phpMyAdmin/scripts/setup.php
 http://107.22.2.216:80/_phpMyAdmin/scripts/setup.php
+http://107.23.0.185:80/phpMyAdmin/scripts/setup.php
+http://107.23.0.185:80/_phpMyAdmin/scripts/setup.php
 http://107.23.10.115:80/phpMyAdmin/scripts/setup.php
 http://107.23.10.115:80/_phpMyAdmin/scripts/setup.php
 http://107.23.215.163:80/phpmyadmin/scripts/setup.php
@@ -781,6 +785,9 @@ http://109.169.61.140:8080/phpMyAdmin/scripts/setup.php
 http://109.169.61.140:8081/mysqladmin/scripts/setup.php
 http://109.169.61.140:8081/phpmyadmin/scripts/setup.php
 http://109.169.61.140:8081/phpMyAdmin/scripts/setup.php
+http://109.173.242.48:8080/phpmyadmin/scripts/setup.php
+http://109.173.242.48:8080/phpMyAdmin/scripts/setup.php
+http://109.173.242.48:8080/PHPMYADMIN/scripts/setup.php
 http://109.190.62.203:80/phpMyAdmin/scripts/setup.php
 http://109.195.183.95:8080/phpMyAdmin/scripts/setup.php
 http://109.195.183.95:8080/_phpMyAdmin/scripts/setup.php
@@ -878,6 +885,7 @@ http://110.138.149.184:80/PHPMYADMIN/scripts/setup.php
 http://110.138.195.84:80/phpmyadmin/scripts/setup.php
 http://110.138.195.84:80/phpMyAdmin/scripts/setup.php
 http://110.15.200.41:8080/web/phpMyAdmin/scripts/setup.php
+http://110.159.227.2:80/phpmyadmin/scripts/setup.php
 http://110.159.229.160:80/phpmyadmin/scripts/setup.php
 http://110.159.229.160:80/phpMyAdmin/scripts/setup.php
 http://110.164.147.146:80/phpMyAdmin/scripts/setup.php
@@ -904,6 +912,7 @@ http://110.169.32.27:80/admin/scripts/setup.php
 http://110.169.33.124:80/admin/scripts/setup.php
 http://110.169.33.164:80/admin/scripts/setup.php
 http://110.169.33.96:80/admin/scripts/setup.php
+http://110.169.45.206:80/admin/scripts/setup.php
 http://110.169.45.223:80/admin/scripts/setup.php
 http://110.170.126.10:80/phpmyadmin/scripts/setup.php
 http://110.170.129.86:80/phpmyadmin/scripts/setup.php
@@ -1008,6 +1017,9 @@ http://111.240.215.251:8081/PHPMYADMIN/scripts/setup.php
 http://111.240.216.250:8081/phpmyadmin/scripts/setup.php
 http://111.240.216.250:8081/phpMyAdmin/scripts/setup.php
 http://111.240.216.250:8081/PHPMYADMIN/scripts/setup.php
+http://111.248.223.64:80/phpmyadmin/scripts/setup.php
+http://111.248.223.64:80/phpMyAdmin/scripts/setup.php
+http://111.248.223.64:80/PHPMYADMIN/scripts/setup.php
 http://111.252.239.21:80/phpmyadmin/scripts/setup.php
 http://111.252.239.21:80/phpMyAdmin/scripts/setup.php
 http://111.252.239.21:80/PHPMYADMIN/scripts/setup.php
@@ -1198,6 +1210,7 @@ http://115.71.239.171:80/myadmin/scripts/setup.php
 http://115.71.239.86:80/phpMyAdmin/scripts/setup.php
 http://115.84.105.94:80/phpmyadmin/scripts/setup.php
 http://115.87.216.63:80/admin/scripts/setup.php
+http://115.87.217.134:80/admin/scripts/setup.php
 http://115.87.217.159:80/admin/scripts/setup.php
 http://115.87.222.159:80/admin/scripts/setup.php
 http://115.87.222.192:80/admin/scripts/setup.php
@@ -1262,6 +1275,8 @@ http://1.165.103.33:80/PHPMYADMIN/scripts/setup.php
 http://1.165.110.26:80/phpmyadmin/scripts/setup.php
 http://1.165.110.26:80/phpMyAdmin/scripts/setup.php
 http://1.165.110.26:80/PHPMYADMIN/scripts/setup.php
+http://1.165.112.140:80/phpmyadmin/scripts/setup.php
+http://1.165.112.140:80/PHPMYADMIN/scripts/setup.php
 http://1.165.112.168:80/phpmyadmin/scripts/setup.php
 http://1.165.112.168:80/phpMyAdmin/scripts/setup.php
 http://1.165.112.168:80/PHPMYADMIN/scripts/setup.php
@@ -1325,6 +1340,7 @@ http://117.52.122.6:80/phpMyAdmin/scripts/setup.php
 http://117.52.20.38:80/phpMyAdmin/scripts/setup.php
 http://117.52.20.74:80/db/scripts/setup.php
 http://117.52.20.8:80/pma/scripts/setup.php
+http://117.52.87.223:80/pma/scripts/setup.php
 http://117.52.87.246:80/pma/scripts/setup.php
 http://117.52.89.53:80/phpmyadmin/scripts/setup.php
 http://117.52.98.86:80/mysql/scripts/setup.php
@@ -1738,6 +1754,7 @@ http://121.152.44.183:80/myadmin/scripts/setup.php
 http://121.152.44.185:80/myadmin/scripts/setup.php
 http://121.152.44.186:80/myadmin/scripts/setup.php
 http://121.152.44.188:80/myadmin/scripts/setup.php
+http://121.152.44.189:80/myadmin/scripts/setup.php
 http://121.152.44.195:80/myadmin/scripts/setup.php
 http://121.152.44.196:80/myadmin/scripts/setup.php
 http://121.152.44.206:80/myadmin/scripts/setup.php
@@ -1762,6 +1779,9 @@ http://121.200.62.228:80/phpmyadmin/scripts/setup.php
 http://121.200.62.228:80/phpMyAdmin/scripts/setup.php
 http://121.200.62.229:80/phpmyadmin/scripts/setup.php
 http://121.200.62.229:80/phpMyAdmin/scripts/setup.php
+http://121.200.62.230:80/mysqladmin/scripts/setup.php
+http://121.200.62.230:80/phpmyadmin/scripts/setup.php
+http://121.200.62.230:80/phpMyAdmin/scripts/setup.php
 http://121.242.3.78:80/mysqladmin/scripts/setup.php
 http://121.242.3.78:80/phpmyadmin/scripts/setup.php
 http://121.242.3.78:80/phpMyAdmin/scripts/setup.php
@@ -1873,6 +1893,9 @@ http://122.51.232.107:80/phpmyadmin/scripts/setup.php
 http://122.51.232.107:80/phpMyAdmin/scripts/setup.php
 http://122.51.232.107:80/PHPMYADMIN/scripts/setup.php
 http://122.53.122.198:80/phpmyadmin/scripts/setup.php
+http://1.2.253.170:8080/phpmyadmin/scripts/setup.php
+http://1.2.253.170:8080/phpMyAdmin/scripts/setup.php
+http://1.2.253.170:8080/PHPMYADMIN/scripts/setup.php
 http://123.111.231.32:80/mysql/scripts/setup.php
 http://123.124.57.189:8000/phpmyadmin/scripts/setup.php
 http://123.143.70.245:80/phpMyAdmin/scripts/setup.php
@@ -2029,6 +2052,9 @@ http://125.230.0.174:80/PHPMYADMIN/scripts/setup.php
 http://125.230.1.157:80/phpmyadmin/scripts/setup.php
 http://125.230.1.157:80/phpMyAdmin/scripts/setup.php
 http://125.230.1.157:80/PHPMYADMIN/scripts/setup.php
+http://125.230.12.106:80/phpmyadmin/scripts/setup.php
+http://125.230.12.106:80/phpMyAdmin/scripts/setup.php
+http://125.230.12.106:80/PHPMYADMIN/scripts/setup.php
 http://125.230.20.139:80/phpmyadmin/scripts/setup.php
 http://125.230.20.139:80/phpMyAdmin/scripts/setup.php
 http://125.230.20.139:80/PHPMYADMIN/scripts/setup.php
@@ -2138,6 +2164,9 @@ http://125.26.200.100:80/phpmyadmin/scripts/setup.php
 http://125.26.200.100:80/phpMyAdmin/scripts/setup.php
 http://125.26.200.100:80/PHPMYADMIN/scripts/setup.php
 http://125.26.200.138:80/phpMyAdmin/scripts/setup.php
+http://125.26.200.142:80/phpmyadmin/scripts/setup.php
+http://125.26.200.142:80/phpMyAdmin/scripts/setup.php
+http://125.26.200.142:80/PHPMYADMIN/scripts/setup.php
 http://125.26.200.152:80/phpmyadmin/scripts/setup.php
 http://125.26.200.152:80/phpMyAdmin/scripts/setup.php
 http://125.26.200.152:80/PHPMYADMIN/scripts/setup.php
@@ -2193,6 +2222,7 @@ http://128.199.229.87:80/_phpMyAdmin/scripts/setup.php
 http://128.199.28.2:80/phpmyadmin/scripts/setup.php
 http://128.200.217.98:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://128.200.217.98:80/phpMyAdmin-2.10.2/scripts/setup.php
+http://128.200.217.98:80/phpMyAdmin-2.11.1.2/scripts/setup.php
 http://128.200.217.98:80/phpMyAdmin-2.11.4/scripts/setup.php
 http://128.200.217.98:80/phpMyAdmin-2.5.5-pl1/scripts/setup.php
 http://128.200.217.98:80/phpMyAdmin-2.8.0.2/scripts/setup.php
@@ -2200,6 +2230,7 @@ http://128.200.217.98:80/phpMyAdmin-2/scripts/setup.php
 http://128.200.217.98:80/phpMyAdmin/scripts/setup.php
 http://128.204.213.11:80/phpmyadmin/scripts/setup.php
 http://128.204.213.36:80/phpmyadmin/scripts/setup.php
+http://128.204.213.37:80/phpmyadmin/scripts/setup.php
 http://128.204.213.90:80/phpmyadmin/scripts/setup.php
 http://128.2.220.85:80/_phpMyAdmin/scripts/setup.php
 http://128.40.99.217:80/phpMyAdmin/scripts/setup.php
@@ -2445,6 +2476,8 @@ http://132.248.245.2:80/PHPMYADMIN/scripts/setup.php
 http://132.248.32.10:80/phpmyadmin/scripts/setup.php
 http://132.248.32.27:80/phpmyadmin/scripts/setup.php
 http://132.248.76.20:80/mysqladmin/scripts/setup.php
+http://13.229.167.180:80/phpMyAdmin/scripts/setup.php
+http://13.229.167.180:80/_phpMyAdmin/scripts/setup.php
 http://13.230.145.80:80/db/scripts/setup.php
 http://13.230.150.55:80/_phpMyAdmin/scripts/setup.php
 http://13.230.222.41:80/_phpMyAdmin/scripts/setup.php
@@ -2715,6 +2748,8 @@ http://138.68.188.112:80/phpMyAdmin/scripts/setup.php
 http://138.68.188.112:80/_phpMyAdmin/scripts/setup.php
 http://138.68.188.112:80/web/phpMyAdmin/scripts/setup.php
 http://139.129.232.75:80/phpmyadmin/scripts/setup.php
+http://139.155.242.252:80/phpMyAdmin/scripts/setup.php
+http://139.155.242.252:80/_phpMyAdmin/scripts/setup.php
 http://139.162.11.216:80/_phpMyAdmin/scripts/setup.php
 http://139.162.112.201:80/mysql/scripts/setup.php
 http://139.162.11.246:80/phpMyAdmin-2.10.0.2/scripts/setup.php
@@ -2760,6 +2795,7 @@ http://139.162.39.18:80/phpmyadmin/scripts/setup.php
 http://139.162.48.79:80/phpmyadmin/scripts/setup.php
 http://139.162.74.93:80/phpMyAdmin/scripts/setup.php
 http://139.162.74.93:80/_phpMyAdmin/scripts/setup.php
+http://139.179.89.2:80/phpmyadmin/scripts/setup.php
 http://139.196.104.59:80/phpmyadmin/scripts/setup.php
 http://139.196.104.59:80/phpMyAdmin/scripts/setup.php
 http://139.196.104.59:80/PHPMYADMIN/scripts/setup.php
@@ -2906,6 +2942,7 @@ http://14.207.3.66:8080/phpmyadmin/scripts/setup.php
 http://14.207.3.66:8080/phpMyAdmin/scripts/setup.php
 http://14.207.3.66:8080/PHPMYADMIN/scripts/setup.php
 http://14.207.41.155:80/admin/scripts/setup.php
+http://14.207.41.212:80/admin/scripts/setup.php
 http://14.207.41.84:80/admin/scripts/setup.php
 http://14.207.42.240:80/admin/scripts/setup.php
 http://14.207.42.60:80/admin/scripts/setup.php
@@ -2936,6 +2973,7 @@ http://142.4.50.76:80/PHPMYADMIN/scripts/setup.php
 http://142.93.133.23:8080/phpMyAdmin/scripts/setup.php
 http://142.93.133.23:8080/_phpMyAdmin/scripts/setup.php
 http://142.93.157.110:8080/phpmyadmin/scripts/setup.php
+http://142.93.25.103:80/admin/pma/scripts/setup.php
 http://142.93.25.103:80/admin/scripts/setup.php
 http://142.93.25.103:80/db/scripts/setup.php
 http://142.93.25.103:80/MyAdmin/scripts/setup.php
@@ -3095,6 +3133,7 @@ http://147.210.234.140:80/phpmyadmin/scripts/setup.php
 http://147.210.234.159:80/phpmyadmin/scripts/setup.php
 http://147.210.234.202:80/phpmyadmin/scripts/setup.php
 http://147.210.234.204:80/phpmyadmin/scripts/setup.php
+http://147.229.71.80:80/phpmyadmin/scripts/setup.php
 http://147.229.71.81:80/phpmyadmin/scripts/setup.php
 http://147.229.71.82:80/phpmyadmin/scripts/setup.php
 http://147.229.71.84:80/phpmyadmin/scripts/setup.php
@@ -3106,6 +3145,7 @@ http://147.50.195.48:80/mysqladmin/scripts/setup.php
 http://147.50.195.48:80/phpmyadmin/scripts/setup.php
 http://147.50.195.48:80/phpMyAdmin/scripts/setup.php
 http://147.8.214.57:80/phpMyAdmin2/scripts/setup.php
+http://148.202.143.9:80/phpmyadmin/scripts/setup.php
 http://148.204.98.12:80/phpmyadmin/scripts/setup.php
 http://148.204.98.12:80/phpMyAdmin/scripts/setup.php
 http://148.204.98.12:80/PHPMYADMIN/scripts/setup.php
@@ -3363,6 +3403,7 @@ http://150.60.133.45:80/_phpMyAdmin/scripts/setup.php
 http://150.60.249.212:80/phpMyAdmin/scripts/setup.php
 http://151.200.199.7:80/myadmin/scripts/setup.php
 http://151.200.199.7:80/MyAdmin/scripts/setup.php
+http://151.237.215.5:80/phpmyadmin/scripts/setup.php
 http://151.248.54.152:80/phpmyadmin/scripts/setup.php
 http://15.156.133.35:80/phpMyAdmin/scripts/setup.php
 http://15.156.133.35:80/_phpMyAdmin/scripts/setup.php
@@ -3454,6 +3495,7 @@ http://152.66.224.129:80/phpMyAdmin/scripts/setup.php
 http://152.66.224.129:80/PHPMYADMIN/scripts/setup.php
 http://152.67.35.15:80/phpMyAdmin/scripts/setup.php
 http://152.67.35.15:80/_phpMyAdmin/scripts/setup.php
+http://152.74.16.125:80/phpMyAdmin/scripts/setup.php
 http://152.74.16.53:80/phpMyAdmin/scripts/setup.php
 http://153.120.124.214:80/phpMyAdmin/scripts/setup.php
 http://153.120.167.29:80/mysqladmin/scripts/setup.php
@@ -3624,6 +3666,7 @@ http://157.7.168.101:80/phpMyAdmin/scripts/setup.php
 http://157.7.168.113:80/phpMyAdmin/scripts/setup.php
 http://157.7.168.144:80/phpMyAdmin/scripts/setup.php
 http://157.7.168.151:80/phpMyAdmin/scripts/setup.php
+http://157.7.171.58:80/phpMyAdmin/scripts/setup.php
 http://157.90.146.190:80/phpMyAdmin-2.11.3/scripts/setup.php
 http://157.90.146.190:80/phpMyAdmin-2.8.0.2/scripts/setup.php
 http://157.90.146.190:80/phpMyAdmin/scripts/setup.php
@@ -3643,6 +3686,8 @@ http://158.108.44.236:80/PHPMYADMIN/scripts/setup.php
 http://158.108.55.224:80/phpmyadmin/scripts/setup.php
 http://158.108.55.224:80/phpMyAdmin/scripts/setup.php
 http://158.108.55.224:80/PHPMYADMIN/scripts/setup.php
+http://158.108.78.10:80/phpmyadmin/scripts/setup.php
+http://158.108.78.10:80/PHPMYADMIN/scripts/setup.php
 http://158.132.179.10:80/phpMyAdmin/scripts/setup.php
 http://158.132.179.10:80/PHPMYADMIN/scripts/setup.php
 http://158.160.105.33:80/phpMyAdmin/scripts/setup.php
@@ -4067,6 +4112,7 @@ http://167.99.34.162:8080/phpmyadmin/scripts/setup.php
 http://167.99.90.123:80/phpMyAdmin/scripts/setup.php
 http://167.99.93.250:80/phpmyadmin/scripts/setup.php
 http://168.119.149.109:80/phpMyAdmin/scripts/setup.php
+http://168.119.149.109:80/_phpMyAdmin/scripts/setup.php
 http://168.119.48.45:80/phpMyAdmin/scripts/setup.php
 http://168.119.48.45:80/_phpMyAdmin/scripts/setup.php
 http://168.138.150.112:8080/phpMyAdmin/scripts/setup.php
@@ -4080,6 +4126,8 @@ http://168.61.161.143:80/web/phpMyAdmin/scripts/setup.php
 http://168.90.183.248:8080/phpmyadmin/scripts/setup.php
 http://168.90.183.248:8080/phpMyAdmin/scripts/setup.php
 http://168.90.183.248:8080/PHPMYADMIN/scripts/setup.php
+http://168.90.48.4:80/phpmyadmin/scripts/setup.php
+http://168.90.48.4:80/phpMyAdmin/scripts/setup.php
 http://169.47.69.194:80/_phpMyAdmin/scripts/setup.php
 http://169.55.221.203:80/_phpMyAdmin/scripts/setup.php
 http://170.187.198.43:80/phpmyadmin/scripts/setup.php
@@ -4328,6 +4376,9 @@ http://175.126.232.48:80/phpMyAdmin/scripts/setup.php
 http://175.126.37.107:80/myadmin/scripts/setup.php
 http://175.126.37.165:80/MyAdmin/scripts/setup.php
 http://175.126.37.199:80/_phpMyAdmin/scripts/setup.php
+http://175.126.37.50:80/mysqladmin/scripts/setup.php
+http://175.126.37.50:80/phpmyadmin/scripts/setup.php
+http://175.126.37.50:80/phpMyAdmin/scripts/setup.php
 http://175.126.38.95:80/myadmin/scripts/setup.php
 http://175.126.62.218:80/phpMyAdmin/scripts/setup.php
 http://175.126.73.242:80/mysqladmin/scripts/setup.php
@@ -4355,6 +4406,8 @@ http://176.107.126.123:80/phpmyadmin/scripts/setup.php
 http://176.109.243.129:8080/phpmyadmin/scripts/setup.php
 http://176.109.243.129:8080/phpMyAdmin/scripts/setup.php
 http://176.109.243.129:8080/PHPMYADMIN/scripts/setup.php
+http://176.109.246.189:8080/phpmyadmin/scripts/setup.php
+http://176.109.246.189:8080/phpMyAdmin/scripts/setup.php
 http://176.109.247.36:8080/phpmyadmin/scripts/setup.php
 http://176.109.247.36:8080/phpMyAdmin/scripts/setup.php
 http://176.109.247.36:8080/PHPMYADMIN/scripts/setup.php
@@ -4407,6 +4460,9 @@ http://176.162.167.73:80/webadmin/scripts/setup.php
 http://176.162.167.73:80/webdb/scripts/setup.php
 http://176.162.167.73:80/web/phpMyAdmin/scripts/setup.php
 http://176.162.167.73:80/websql/scripts/setup.php
+http://176.235.91.181:80/mysqladmin/scripts/setup.php
+http://176.235.91.181:80/phpmyadmin/scripts/setup.php
+http://176.235.91.181:80/phpMyAdmin/scripts/setup.php
 http://176.28.15.196:80/phpmyadmin/scripts/setup.php
 http://176.28.18.129:80/phpmyadmin/scripts/setup.php
 http://176.38.45.60:80/phpMyAdmin/scripts/setup.php
@@ -4457,6 +4513,7 @@ http://177.222.49.77:8080/PHPMYADMIN/scripts/setup.php
 http://177.247.4.78:8080/phpmyadmin/scripts/setup.php
 http://177.247.4.78:8080/phpMyAdmin/scripts/setup.php
 http://177.247.4.78:8080/PHPMYADMIN/scripts/setup.php
+http://177.42.44.9:8080/_phpMyAdmin/scripts/setup.php
 http://177.55.161.35:80/phpmyadmin/scripts/setup.php
 http://177.70.99.28:80/mysqladmin/scripts/setup.php
 http://177.70.99.28:80/phpmyadmin/scripts/setup.php
@@ -4484,9 +4541,16 @@ http://178.159.254.16:80/myadmin/scripts/setup.php
 http://178.159.37.2:80/myadmin/scripts/setup.php
 http://178.16.23.33:80/admin/pma/scripts/setup.php
 http://178.16.23.33:80/admin/scripts/setup.php
+http://178.16.23.33:80/dbadmin/scripts/setup.php
+http://178.16.23.33:80/db/scripts/setup.php
 http://178.16.23.33:80/myadmin/scripts/setup.php
 http://178.16.23.33:80/MyAdmin/scripts/setup.php
+http://178.16.23.33:80/mysql-admin/scripts/setup.php
 http://178.16.23.33:80/mysqladmin/scripts/setup.php
+http://178.16.23.33:80/mysqlmanager/scripts/setup.php
+http://178.16.23.33:80/mysql/scripts/setup.php
+http://178.16.23.33:80/phpmanager/scripts/setup.php
+http://178.16.23.33:80/phpma/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin-2.10.2/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin-2.10.3/scripts/setup.php
@@ -4502,14 +4566,23 @@ http://178.16.23.33:80/phpMyAdmin-2.5.5/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin-2.5.7-pl1/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin-2.8.0.2/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin-2/scripts/setup.php
+http://178.16.23.33:80/phpMyAdmin2/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin3/scripts/setup.php
+http://178.16.23.33:80/php-myadmin/scripts/setup.php
+http://178.16.23.33:80/phpmy-admin/scripts/setup.php
 http://178.16.23.33:80/phpmyadmin/scripts/setup.php
 http://178.16.23.33:80/phpMyAdmin/scripts/setup.php
 http://178.16.23.33:80/PHPMYADMIN/scripts/setup.php
+http://178.16.23.33:80/_phpMyAdmin/scripts/setup.php
+http://178.16.23.33:80/php/scripts/setup.php
 http://178.16.23.33:80/pma/scripts/setup.php
+http://178.16.23.33:80/sqlmanager/scripts/setup.php
 http://178.16.23.33:80/SQL/scripts/setup.php
+http://178.16.23.33:80/sqlweb/scripts/setup.php
 http://178.16.23.33:80/webadmin/scripts/setup.php
+http://178.16.23.33:80/webdb/scripts/setup.php
 http://178.16.23.33:80/web/phpMyAdmin/scripts/setup.php
+http://178.16.23.33:80/websql/scripts/setup.php
 http://178.172.41.72:80/phpMyAdmin/scripts/setup.php
 http://178.172.41.72:80/_phpMyAdmin/scripts/setup.php
 http://178.18.137.57:80/phpmyadmin/scripts/setup.php
@@ -4713,6 +4786,7 @@ http://179.61.251.37:8080/phpMyAdmin/scripts/setup.php
 http://179.61.251.37:8080/_phpMyAdmin/scripts/setup.php
 http://179.8.131.152:80/phpmyadmin/scripts/setup.php
 http://179.8.139.143:80/phpmyadmin/scripts/setup.php
+http://179.8.143.19:80/phpmyadmin/scripts/setup.php
 http://179.9.174.30:80/phpmyadmin/scripts/setup.php
 http://179.9.174.30:80/phpMyAdmin/scripts/setup.php
 http://179.9.187.209:80/phpmyadmin/scripts/setup.php
@@ -4931,6 +5005,7 @@ http://18.140.62.113:80/_phpMyAdmin/scripts/setup.php
 http://18.140.70.127:80/phpmyadmin/scripts/setup.php
 http://18.141.62.161:80/phpMyAdmin/scripts/setup.php
 http://18.141.62.161:80/_phpMyAdmin/scripts/setup.php
+http://181.42.146.243:80/phpmyadmin/scripts/setup.php
 http://18.144.86.204:80/phpmyadmin/scripts/setup.php
 http://181.54.247.163:80/phpmyadmin/scripts/setup.php
 http://18.158.96.11:80/_phpMyAdmin/scripts/setup.php
@@ -4965,6 +5040,13 @@ http://18.167.228.134:80/websql/scripts/setup.php
 http://18.169.167.48:80/phpMyAdmin/scripts/setup.php
 http://18.169.167.48:80/_phpMyAdmin/scripts/setup.php
 http://18.169.167.48:80/web/phpMyAdmin/scripts/setup.php
+http://18.169.186.29:8080/phpMyAdmin-2.11.1.2/scripts/setup.php
+http://18.169.186.29:8080/phpMyAdmin-2.11.3/scripts/setup.php
+http://18.169.186.29:8080/phpMyAdmin-2.11.7/scripts/setup.php
+http://18.169.186.29:8080/phpMyAdmin-2.5.7-pl1/scripts/setup.php
+http://18.169.186.29:80/phpMyAdmin-2.10.0.2/scripts/setup.php
+http://18.169.186.29:80/phpMyAdmin-2.10.3/scripts/setup.php
+http://18.169.186.29:80/phpMyAdmin-2.11.0/scripts/setup.php
 http://18.170.172.224:80/phpMyAdmin/scripts/setup.php
 http://18.170.172.224:80/_phpMyAdmin/scripts/setup.php
 http://18.170.172.224:80/web/phpMyAdmin/scripts/setup.php
@@ -4983,6 +5065,7 @@ http://18.180.219.221:80/_phpMyAdmin/scripts/setup.php
 http://18.180.221.74:80/web/phpMyAdmin/scripts/setup.php
 http://18.182.103.176:80/db/scripts/setup.php
 http://18.182.169.102:80/phpmyadmin/scripts/setup.php
+http://18.185.135.175:80/_phpMyAdmin/scripts/setup.php
 http://18.189.55.57:80/phpMyAdmin/scripts/setup.php
 http://18.189.55.57:80/_phpMyAdmin/scripts/setup.php
 http://18.194.78.247:8081/phpmyadmin/scripts/setup.php
@@ -5084,6 +5167,7 @@ http://18.231.109.208:80/_phpMyAdmin/scripts/setup.php
 http://18.231.158.178:80/phpmyadmin/scripts/setup.php
 http://18.231.35.226:80/_phpMyAdmin/scripts/setup.php
 http://18.235.70.187:80/phpmyadmin/scripts/setup.php
+http://18.236.143.44:80/phpmyadmin/scripts/setup.php
 http://182.48.40.149:80/phpmyadmin/scripts/setup.php
 http://182.48.52.55:80/phpmyadmin/scripts/setup.php
 http://182.52.100.222:8080/phpmyadmin/scripts/setup.php
@@ -5106,6 +5190,9 @@ http://182.53.18.218:80/phpMyAdmin/scripts/setup.php
 http://182.53.18.218:80/PHPMYADMIN/scripts/setup.php
 http://182.53.250.9:8080/phpmyadmin/scripts/setup.php
 http://182.53.250.9:8080/phpMyAdmin/scripts/setup.php
+http://182.53.27.38:80/phpmyadmin/scripts/setup.php
+http://182.53.27.38:80/phpMyAdmin/scripts/setup.php
+http://182.53.27.38:80/PHPMYADMIN/scripts/setup.php
 http://182.53.52.10:8080/phpmyadmin/scripts/setup.php
 http://182.53.52.10:8080/phpMyAdmin/scripts/setup.php
 http://182.54.236.28:80/phpmyadmin/scripts/setup.php
@@ -5182,6 +5269,9 @@ http://183.88.54.64:80/mysql/scripts/setup.php
 http://183.88.57.68:80/mysql/scripts/setup.php
 http://183.88.59.234:80/admin/scripts/setup.php
 http://183.88.60.184:80/admin/scripts/setup.php
+http://183.88.65.201:8080/phpmyadmin/scripts/setup.php
+http://183.88.65.201:8080/phpMyAdmin/scripts/setup.php
+http://183.88.65.201:8080/PHPMYADMIN/scripts/setup.php
 http://183.88.81.205:80/admin/scripts/setup.php
 http://183.88.86.187:80/admin/scripts/setup.php
 http://183.88.90.236:80/admin/scripts/setup.php
@@ -5200,6 +5290,7 @@ http://183.89.158.81:8080/PHPMYADMIN/scripts/setup.php
 http://183.89.249.72:8080/phpmyadmin/scripts/setup.php
 http://183.89.249.72:8080/phpMyAdmin/scripts/setup.php
 http://183.89.249.72:8080/PHPMYADMIN/scripts/setup.php
+http://183.89.56.183:80/admin/scripts/setup.php
 http://183.89.58.132:80/admin/scripts/setup.php
 http://183.89.70.1:80/mysql/scripts/setup.php
 http://183.89.71.174:80/phpmyadmin/scripts/setup.php
@@ -5224,10 +5315,13 @@ http://184.106.197.42:80/phpMyAdmin/scripts/setup.php
 http://184.106.64.119:80/phpmyadmin/scripts/setup.php
 http://184.106.64.119:80/phpMyAdmin/scripts/setup.php
 http://184.106.65.203:80/phpmyadmin/scripts/setup.php
+http://184.106.65.203:80/phpMyAdmin/scripts/setup.php
 http://184.106.81.198:80/phpmyadmin/scripts/setup.php
 http://184.106.81.198:80/phpMyAdmin/scripts/setup.php
 http://184.107.33.70:80/_phpMyAdmin/scripts/setup.php
 http://184.154.194.174:80/myadmin/scripts/setup.php
+http://184.22.133.185:8081/phpmyadmin/scripts/setup.php
+http://184.22.133.185:8081/phpMyAdmin/scripts/setup.php
 http://184.22.134.219:8081/phpmyadmin/scripts/setup.php
 http://184.22.134.219:8081/phpMyAdmin/scripts/setup.php
 http://184.22.134.219:8081/PHPMYADMIN/scripts/setup.php
@@ -5289,6 +5383,9 @@ http://185.153.92.251:80/phpmyadmin/scripts/setup.php
 http://185.153.92.254:80/phpmyadmin/scripts/setup.php
 http://185.155.99.94:80/myadmin/scripts/setup.php
 http://185.157.135.139:80/phpmyadmin/scripts/setup.php
+http://185.157.80.227:80/mysqladmin/scripts/setup.php
+http://185.157.80.227:80/phpmyadmin/scripts/setup.php
+http://185.157.80.227:80/phpMyAdmin/scripts/setup.php
 http://185.158.113.36:80/phpMyAdmin/scripts/setup.php
 http://185.158.113.36:80/web/phpMyAdmin/scripts/setup.php
 http://185.160.110.9:80/myadmin/scripts/setup.php
@@ -5337,6 +5434,7 @@ http://185.205.246.251:8081/_phpMyAdmin/scripts/setup.php
 http://185.206.94.208:80/phpmyadmin/scripts/setup.php
 http://185.206.94.208:80/pma/scripts/setup.php
 http://185.214.121.66:80/phpmyadmin/scripts/setup.php
+http://185.216.116.244:80/phpmyadmin/scripts/setup.php
 http://185.226.62.76:80/phpmyadmin/scripts/setup.php
 http://185.226.62.77:80/phpmyadmin/scripts/setup.php
 http://185.23.16.7:80/myadmin/scripts/setup.php
@@ -5720,6 +5818,7 @@ http://188.210.223.218:80/_phpMyAdmin/scripts/setup.php
 http://188.225.33.6:80/myadmin/scripts/setup.php
 http://188.225.79.54:80/_phpMyAdmin/scripts/setup.php
 http://188.226.167.174:80/phpmyadmin/scripts/setup.php
+http://188.239.179.228:80/_phpMyAdmin/scripts/setup.php
 http://188.3.33.121:80/web/phpMyAdmin/scripts/setup.php
 http://188.34.188.97:80/phpMyAdmin/scripts/setup.php
 http://188.34.188.97:80/_phpMyAdmin/scripts/setup.php
@@ -5782,6 +5881,9 @@ http://189.120.234.172:8080/phpmyadmin/scripts/setup.php
 http://189.126.8.189:80/db/scripts/setup.php
 http://189.129.70.81:80/phpmyadmin/scripts/setup.php
 http://189.129.70.81:80/phpMyAdmin/scripts/setup.php
+http://189.130.73.64:80/phpmyadmin/scripts/setup.php
+http://189.130.73.64:80/phpMyAdmin/scripts/setup.php
+http://189.130.73.64:80/PHPMYADMIN/scripts/setup.php
 http://189.134.26.187:8080/phpMyAdmin/scripts/setup.php
 http://189.134.26.187:8080/PHPMYADMIN/scripts/setup.php
 http://189.136.251.204:80/phpmyadmin/scripts/setup.php
@@ -5792,6 +5894,7 @@ http://189.146.209.12:80/phpMyAdmin/scripts/setup.php
 http://189.148.211.170:80/phpmyadmin/scripts/setup.php
 http://189.148.211.170:80/phpMyAdmin/scripts/setup.php
 http://189.148.211.170:80/PHPMYADMIN/scripts/setup.php
+http://189.15.184.181:80/phpmyadmin/scripts/setup.php
 http://189.15.191.184:80/phpmyadmin/scripts/setup.php
 http://189.152.17.60:80/phpmyadmin/scripts/setup.php
 http://189.152.17.60:80/phpMyAdmin/scripts/setup.php
@@ -5821,6 +5924,7 @@ http://189.175.120.124:80/phpMyAdmin/scripts/setup.php
 http://189.182.48.58:80/phpmyadmin/scripts/setup.php
 http://189.182.48.58:80/phpMyAdmin/scripts/setup.php
 http://189.182.48.58:80/PHPMYADMIN/scripts/setup.php
+http://189.183.77.203:80/phpmyadmin/scripts/setup.php
 http://189.204.49.116:80/phpmyadmin/scripts/setup.php
 http://189.204.49.116:80/phpMyAdmin/scripts/setup.php
 http://189.204.49.116:80/PHPMYADMIN/scripts/setup.php
@@ -5891,6 +5995,9 @@ http://190.114.196.8:8080/phpmyadmin/scripts/setup.php
 http://190.114.196.9:8080/phpmyadmin/scripts/setup.php
 http://190.119.147.155:80/phpmyadmin/scripts/setup.php
 http://190.119.147.156:80/phpmyadmin/scripts/setup.php
+http://190.119.240.3:80/phpmyadmin/scripts/setup.php
+http://190.119.240.3:80/phpMyAdmin/scripts/setup.php
+http://190.119.240.3:80/PHPMYADMIN/scripts/setup.php
 http://190.122.236.10:80/phpmyadmin/scripts/setup.php
 http://190.122.236.236:80/phpmyadmin/scripts/setup.php
 http://190.122.238.154:80/phpmyadmin/scripts/setup.php
@@ -5941,6 +6048,7 @@ http://190.15.208.208:8080/phpmyadmin/scripts/setup.php
 http://190.15.208.208:8081/phpmyadmin/scripts/setup.php
 http://190.153.173.185:80/phpmyadmin/scripts/setup.php
 http://190.153.173.185:80/phpMyAdmin/scripts/setup.php
+http://190.153.190.34:8000/db/scripts/setup.php
 http://190.153.217.125:80/phpmyadmin/scripts/setup.php
 http://190.167.132.153:80/phpmyadmin/scripts/setup.php
 http://190.167.132.153:80/phpMyAdmin/scripts/setup.php
@@ -6060,6 +6168,8 @@ http://191.36.28.48:80/phpMyAdmin/scripts/setup.php
 http://191.36.28.48:80/_phpMyAdmin/scripts/setup.php
 http://191.55.123.189:80/phpmyadmin/scripts/setup.php
 http://191.55.124.220:80/phpmyadmin/scripts/setup.php
+http://191.81.170.23:8080/phpmyadmin/scripts/setup.php
+http://191.81.170.23:8081/phpmyadmin/scripts/setup.php
 http://191.83.165.245:80/phpmyadmin/scripts/setup.php
 http://191.83.165.245:80/phpMyAdmin/scripts/setup.php
 http://191.83.165.245:80/PHPMYADMIN/scripts/setup.php
@@ -6238,6 +6348,7 @@ http://193.137.5.43:8080/phpMyAdmin/scripts/setup.php
 http://193.137.5.43:80/mysqladmin/scripts/setup.php
 http://193.137.5.43:80/phpmyadmin/scripts/setup.php
 http://193.137.5.43:80/phpMyAdmin/scripts/setup.php
+http://193.142.59.123:8081/_phpMyAdmin/scripts/setup.php
 http://193.145.205.197:80/phpMyAdmin/scripts/setup.php
 http://193.146.64.65:80/phpMyAdmin/scripts/setup.php
 http://193.151.35.102:80/phpmyadmin/scripts/setup.php
@@ -6265,6 +6376,7 @@ http://193.178.211.173:80/phpmyadmin/scripts/setup.php
 http://193.178.211.41:80/phpmyadmin/scripts/setup.php
 http://193.188.130.50:80/phpmyadmin/scripts/setup.php
 http://193.188.141.85:80/phpmyadmin/scripts/setup.php
+http://193.190.223.47:80/phpmyadmin/scripts/setup.php
 http://193.19.211.12:80/phpmyadmin/scripts/setup.php
 http://193.192.54.121:80/phpmyadmin/scripts/setup.php
 http://193.192.54.121:80/phpMyAdmin/scripts/setup.php
@@ -6274,6 +6386,7 @@ http://193.197.172.166:80/phpmyadmin/scripts/setup.php
 http://193.19.77.231:80/phpmyadmin/scripts/setup.php
 http://193.19.77.49:80/phpMyAdmin/scripts/setup.php
 http://193.200.17.106:80/phpMyAdmin-2.11.9.2/scripts/setup.php
+http://193.200.17.106:80/phpMyAdmin-2.5.7-pl1/scripts/setup.php
 http://193.200.17.106:80/phpMyAdmin-2/scripts/setup.php
 http://193.200.178.104:80/phpmyadmin/scripts/setup.php
 http://193.200.178.12:80/phpmyadmin/scripts/setup.php
@@ -6343,6 +6456,7 @@ http://193.33.86.23:80/phpMyAdmin-2/scripts/setup.php
 http://193.33.86.23:80/phpMyAdmin2/scripts/setup.php
 http://193.33.86.23:80/phpMyAdmin3/scripts/setup.php
 http://193.33.86.23:80/phpMyAdmin/scripts/setup.php
+http://193.40.56.22:8080/phpmyadmin/scripts/setup.php
 http://193.41.118.31:80/phpmyadmin/scripts/setup.php
 http://193.41.222.142:80/phpmyadmin/scripts/setup.php
 http://193.42.39.14:80/phpMyAdmin/scripts/setup.php
@@ -6483,6 +6597,27 @@ http://194.147.154.15:80/_phpMyAdmin/scripts/setup.php
 http://194.147.154.15:80/web/phpMyAdmin/scripts/setup.php
 http://194.147.154.161:80/phpmyadmin/scripts/setup.php
 http://194.147.154.161:80/phpMyAdmin/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.10.0.2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.10.2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.10.3/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.11.0/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.11.1.2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.11.3/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.11.4/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.11.7/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.11.9.2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.5.4/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.5.5-pl1/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.5.5/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.5.7-pl1/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2.8.0.2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin-2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin2/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin3/scripts/setup.php
+http://194.147.154.162:80/phpmyadmin/scripts/setup.php
+http://194.147.154.162:80/phpMyAdmin/scripts/setup.php
+http://194.147.154.162:80/_phpMyAdmin/scripts/setup.php
+http://194.147.154.162:80/web/phpMyAdmin/scripts/setup.php
 http://194.147.154.163:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://194.147.154.163:80/phpMyAdmin-2.10.2/scripts/setup.php
 http://194.147.154.163:80/phpMyAdmin-2.10.3/scripts/setup.php
@@ -6588,6 +6723,27 @@ http://194.147.154.179:80/phpmyadmin/scripts/setup.php
 http://194.147.154.179:80/phpMyAdmin/scripts/setup.php
 http://194.147.154.179:80/_phpMyAdmin/scripts/setup.php
 http://194.147.154.179:80/web/phpMyAdmin/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.10.0.2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.10.2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.10.3/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.11.0/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.11.1.2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.11.3/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.11.4/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.11.7/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.11.9.2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.5.4/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.5.5-pl1/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.5.5/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.5.7-pl1/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2.8.0.2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin-2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin2/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin3/scripts/setup.php
+http://194.147.154.191:80/phpmyadmin/scripts/setup.php
+http://194.147.154.191:80/phpMyAdmin/scripts/setup.php
+http://194.147.154.191:80/_phpMyAdmin/scripts/setup.php
+http://194.147.154.191:80/web/phpMyAdmin/scripts/setup.php
 http://194.147.154.192:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://194.147.154.192:80/phpMyAdmin-2.10.2/scripts/setup.php
 http://194.147.154.192:80/phpMyAdmin-2.10.3/scripts/setup.php
@@ -6890,6 +7046,7 @@ http://194.184.71.7:80/phpmyadmin/scripts/setup.php
 http://194.184.71.7:80/phpMyAdmin/scripts/setup.php
 http://194.190.169.58:80/myadmin/scripts/setup.php
 http://194.213.104.202:80/phpmyadmin/scripts/setup.php
+http://194.213.124.4:80/phpmyadmin/scripts/setup.php
 http://194.233.66.186:80/phpmyadmin/scripts/setup.php
 http://194.24.161.205:80/phpMyAdmin/scripts/setup.php
 http://194.24.161.205:80/_phpMyAdmin/scripts/setup.php
@@ -6958,6 +7115,7 @@ http://194.71.98.86:80/myadmin/scripts/setup.php
 http://194.79.31.142:80/mysqladmin/scripts/setup.php
 http://194.79.31.142:80/phpmyadmin/scripts/setup.php
 http://194.79.31.142:80/phpMyAdmin/scripts/setup.php
+http://195.101.253.233:80/phpmyadmin/scripts/setup.php
 http://195.110.34.15:8081/phpmyadmin/scripts/setup.php
 http://195.110.34.15:80/phpmyadmin/scripts/setup.php
 http://195.110.34.226:8081/phpmyadmin/scripts/setup.php
@@ -7246,6 +7404,9 @@ http://195.94.254.197:80/phpMyAdmin/scripts/setup.php
 http://195.94.254.197:80/pma/scripts/setup.php
 http://195.96.202.143:80/phpmyadmin/scripts/setup.php
 http://195.96.231.204:80/phpmyadmin/scripts/setup.php
+http://195.96.251.10:8081/phpmyadmin/scripts/setup.php
+http://195.96.251.10:8081/phpMyAdmin/scripts/setup.php
+http://195.96.251.10:80/mysqladmin/scripts/setup.php
 http://195.96.251.10:80/phpmyadmin/scripts/setup.php
 http://195.96.251.10:80/phpMyAdmin/scripts/setup.php
 http://196.115.136.168:80/phpmyadmin/scripts/setup.php
@@ -7289,6 +7450,8 @@ http://197.205.139.57:8080/PHPMYADMIN/scripts/setup.php
 http://197.205.159.108:8080/phpmyadmin/scripts/setup.php
 http://197.205.159.108:8080/phpMyAdmin/scripts/setup.php
 http://197.205.159.108:8080/PHPMYADMIN/scripts/setup.php
+http://197.207.107.47:8080/phpmyadmin/scripts/setup.php
+http://197.207.107.47:8080/phpMyAdmin/scripts/setup.php
 http://197.242.146.197:8081/phpmyadmin/scripts/setup.php
 http://197.40.184.65:80/phpmyadmin/scripts/setup.php
 http://197.40.184.65:80/phpMyAdmin/scripts/setup.php
@@ -7328,6 +7491,9 @@ http://198.37.113.75:80/myadmin/scripts/setup.php
 http://198.37.113.76:80/myadmin/scripts/setup.php
 http://198.37.120.52:80/phpMyAdmin/scripts/setup.php
 http://198.37.120.52:80/web/phpMyAdmin/scripts/setup.php
+http://198.50.139.39:80/phpmyadmin/scripts/setup.php
+http://198.50.139.39:80/phpMyAdmin/scripts/setup.php
+http://198.50.139.39:80/PHPMYADMIN/scripts/setup.php
 http://198.53.190.227:8081/phpMyAdmin/scripts/setup.php
 http://198.53.190.227:8081/_phpMyAdmin/scripts/setup.php
 http://198.61.228.243:80/mysqladmin/scripts/setup.php
@@ -7347,14 +7513,17 @@ http://199.101.219.127:8081/mysqladmin/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.10.2/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.10.3/scripts/setup.php
+http://199.101.219.127:8081/phpMyAdmin-2.11.0/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.11.1.2/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.11.3/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.11.4/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.11.7/scripts/setup.php
+http://199.101.219.127:8081/phpMyAdmin-2.11.9.2/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.5.4/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.5.5-pl1/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.5.5/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2.5.7-pl1/scripts/setup.php
+http://199.101.219.127:8081/phpMyAdmin-2.8.0.2/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin-2/scripts/setup.php
 http://199.101.219.127:8081/phpMyAdmin3/scripts/setup.php
 http://199.101.219.127:8081/phpmyadmin/scripts/setup.php
@@ -7454,6 +7623,8 @@ http://200.187.80.30:80/phpmyadmin/scripts/setup.php
 http://200.19.185.21:80/phpmyadmin/scripts/setup.php
 http://200.194.103.172:80/phpmyadmin/scripts/setup.php
 http://200.195.132.114:80/phpmyadmin/scripts/setup.php
+http://200.195.206.164:80/phpmyadmin/scripts/setup.php
+http://200.195.206.164:80/phpMyAdmin/scripts/setup.php
 http://200.198.28.140:80/mysqladmin/scripts/setup.php
 http://200.198.28.140:80/phpmyadmin/scripts/setup.php
 http://200.198.28.140:80/phpMyAdmin/scripts/setup.php
@@ -7519,6 +7690,7 @@ http://200.68.105.61:80/phpmyadmin/scripts/setup.php
 http://200.68.105.62:8081/phpmyadmin/scripts/setup.php
 http://200.68.105.62:80/phpmyadmin/scripts/setup.php
 http://200.68.105.64:8081/phpmyadmin/scripts/setup.php
+http://200.68.105.66:80/phpmyadmin/scripts/setup.php
 http://200.68.105.78:8081/phpmyadmin/scripts/setup.php
 http://200.68.105.78:80/phpmyadmin/scripts/setup.php
 http://200.68.105.86:8081/phpmyadmin/scripts/setup.php
@@ -7557,6 +7729,7 @@ http://200.93.248.52:80/phpmyadmin/scripts/setup.php
 http://20.102.26.100:8080/phpMyAdmin/scripts/setup.php
 http://20.102.26.100:8080/_phpMyAdmin/scripts/setup.php
 http://201.103.4.79:80/phpMyAdmin/scripts/setup.php
+http://201.124.108.182:80/phpMyAdmin/scripts/setup.php
 http://201.124.41.228:8081/phpMyAdmin/scripts/setup.php
 http://201.124.41.228:8081/_phpMyAdmin/scripts/setup.php
 http://201.124.41.228:8081/web/phpMyAdmin/scripts/setup.php
@@ -7992,6 +8165,9 @@ http://202.29.172.220:80/phpMyAdmin/scripts/setup.php
 http://202.29.172.246:80/mysqladmin/scripts/setup.php
 http://202.29.172.246:80/phpmyadmin/scripts/setup.php
 http://202.29.172.246:80/phpMyAdmin/scripts/setup.php
+http://202.29.213.219:80/phpmyadmin/scripts/setup.php
+http://202.29.213.219:80/phpMyAdmin/scripts/setup.php
+http://202.29.213.219:80/PHPMYADMIN/scripts/setup.php
 http://202.29.214.225:80/phpmyadmin/scripts/setup.php
 http://202.29.214.225:80/phpMyAdmin/scripts/setup.php
 http://202.29.214.225:80/PHPMYADMIN/scripts/setup.php
@@ -8092,6 +8268,7 @@ http://202.84.36.147:8000/phpMyAdmin/scripts/setup.php
 http://202.84.36.149:8000/phpMyAdmin/scripts/setup.php
 http://202.84.36.151:8000/phpMyAdmin/scripts/setup.php
 http://202.85.192.43:80/phpmyadmin/scripts/setup.php
+http://202.87.224.75:80/phpMyAdmin/scripts/setup.php
 http://202.87.226.124:80/phpMyAdmin/scripts/setup.php
 http://202.91.10.50:80/phpmyadmin/scripts/setup.php
 http://202.94.245.232:80/phpmyadmin/scripts/setup.php
@@ -8171,6 +8348,9 @@ http://203.147.24.31:8080/phpMyAdmin/scripts/setup.php
 http://203.147.24.31:80/mysqladmin/scripts/setup.php
 http://203.147.24.31:80/phpmyadmin/scripts/setup.php
 http://203.147.24.31:80/phpMyAdmin/scripts/setup.php
+http://203.147.45.7:80/phpmyadmin/scripts/setup.php
+http://203.147.45.7:80/phpMyAdmin/scripts/setup.php
+http://203.147.45.7:80/PHPMYADMIN/scripts/setup.php
 http://203.150.102.240:80/phpmyadmin/scripts/setup.php
 http://203.150.102.240:80/phpMyAdmin/scripts/setup.php
 http://203.150.102.240:80/PHPMYADMIN/scripts/setup.php
@@ -8338,6 +8518,7 @@ http://203.72.59.4:80/PHPMYADMIN/scripts/setup.php
 http://203.74.114.158:80/phpMyAdmin/scripts/setup.php
 http://203.78.103.101:80/phpmyadmin/scripts/setup.php
 http://203.78.103.101:80/phpMyAdmin/scripts/setup.php
+http://203.78.238.64:80/phpMyAdmin/scripts/setup.php
 http://203.83.164.182:8000/phpMyAdmin/scripts/setup.php
 http://203.83.22.228:8081/mysqladmin/scripts/setup.php
 http://203.83.22.228:8081/phpmyadmin/scripts/setup.php
@@ -8384,6 +8565,7 @@ http://205.164.104.195:8000/phpMyAdmin/scripts/setup.php
 http://205.173.252.101:80/phpmyadmin/scripts/setup.php
 http://205.173.252.74:80/phpmyadmin/scripts/setup.php
 http://205.186.131.21:80/_phpMyAdmin/scripts/setup.php
+http://205.186.140.113:80/_phpMyAdmin/scripts/setup.php
 http://205.186.141.153:80/_phpMyAdmin/scripts/setup.php
 http://205.186.141.194:80/_phpMyAdmin/scripts/setup.php
 http://205.186.146.91:80/phpmyadmin/scripts/setup.php
@@ -8411,6 +8593,7 @@ http://206.189.38.217:80/_phpMyAdmin/scripts/setup.php
 http://206.189.45.11:80/phpmyadmin/scripts/setup.php
 http://206.190.142.47:80/pma/scripts/setup.php
 http://206.196.111.196:80/phpmyadmin/scripts/setup.php
+http://206.214.218.236:80/_phpMyAdmin/scripts/setup.php
 http://206.217.141.92:8000/admin/pma/scripts/setup.php
 http://206.217.141.92:8000/admin/scripts/setup.php
 http://206.217.141.92:8000/dbadmin/scripts/setup.php
@@ -8825,6 +9008,7 @@ http://209.13.183.86:80/phpMyAdmin/scripts/setup.php
 http://209.13.183.86:80/PHPMYADMIN/scripts/setup.php
 http://209.134.152.20:80/web/phpMyAdmin/scripts/setup.php
 http://209.141.35.52:80/web/phpMyAdmin/scripts/setup.php
+http://209.141.7.199:80/phpMyAdmin/scripts/setup.php
 http://209.150.102.1:80/phpMyAdmin2/scripts/setup.php
 http://209.150.96.60:80/phpMyAdmin2/scripts/setup.php
 http://209.150.96.75:80/phpMyAdmin2/scripts/setup.php
@@ -9049,6 +9233,7 @@ http://211.202.2.120:80/phpmyadmin/scripts/setup.php
 http://211.202.2.122:80/phpMyAdmin/scripts/setup.php
 http://211.202.2.14:80/phpmyadmin/scripts/setup.php
 http://211.202.2.165:80/phpmyadmin/scripts/setup.php
+http://211.202.2.16:80/phpmyadmin/scripts/setup.php
 http://211.202.2.183:80/phpmyadmin/scripts/setup.php
 http://211.202.2.18:80/phpmyadmin/scripts/setup.php
 http://211.202.2.20:80/phpmyadmin/scripts/setup.php
@@ -9079,6 +9264,7 @@ http://211.23.203.193:80/phpMyAdmin/scripts/setup.php
 http://211.23.203.193:80/PHPMYADMIN/scripts/setup.php
 http://211.23.233.85:80/phpMyAdmin/scripts/setup.php
 http://211.233.11.177:80/phpMyAdmin/scripts/setup.php
+http://211.233.11.190:80/phpMyAdmin/scripts/setup.php
 http://211.233.11.85:80/phpmyadmin/scripts/setup.php
 http://211.233.11.85:80/phpMyAdmin/scripts/setup.php
 http://211.233.11.86:80/phpmyadmin/scripts/setup.php
@@ -9119,6 +9305,7 @@ http://211.75.90.17:80/phpMyAdmin/scripts/setup.php
 http://211.75.90.17:80/PHPMYADMIN/scripts/setup.php
 http://211.76.87.101:80/phpMyAdmin/scripts/setup.php
 http://211.82.93.16:80/phpMyAdmin/scripts/setup.php
+http://211.8.81.227:80/phpmyadmin/scripts/setup.php
 http://212.0.67.3:80/phpmyadmin/scripts/setup.php
 http://212.101.210.110:80/phpmyadmin/scripts/setup.php
 http://212.101.210.111:80/phpmyadmin/scripts/setup.php
@@ -9267,6 +9454,7 @@ http://212.92.54.68:80/phpMyAdmin/scripts/setup.php
 http://212.92.58.15:80/mysqladmin/scripts/setup.php
 http://212.92.58.15:80/phpmyadmin/scripts/setup.php
 http://212.92.58.15:80/phpMyAdmin/scripts/setup.php
+http://212.92.6.109:80/myadmin/scripts/setup.php
 http://212.95.67.49:80/pma/scripts/setup.php
 http://212.98.132.242:8080/phpmyadmin/scripts/setup.php
 http://212.98.132.253:80/phpmyadmin/scripts/setup.php
@@ -9318,6 +9506,7 @@ http://213.168.176.4:80/phpMyAdmin/scripts/setup.php
 http://213.171.48.102:80/phpMyAdmin/scripts/setup.php
 http://213.178.164.196:80/phpmyadmin/scripts/setup.php
 http://213.178.164.210:80/phpmyadmin/scripts/setup.php
+http://213.178.54.253:80/phpmyadmin/scripts/setup.php
 http://213.179.64.11:80/phpmyadmin/scripts/setup.php
 http://213.179.64.12:80/phpmyadmin/scripts/setup.php
 http://213.179.64.7:80/phpmyadmin/scripts/setup.php
@@ -9431,6 +9620,7 @@ http://216.118.100.103:80/mysql-admin/scripts/setup.php
 http://216.118.100.105:80/mysql-admin/scripts/setup.php
 http://216.118.100.106:80/mysql-admin/scripts/setup.php
 http://216.118.100.10:80/mysql-admin/scripts/setup.php
+http://216.118.100.109:80/mysql-admin/scripts/setup.php
 http://216.118.100.111:80/mysql-admin/scripts/setup.php
 http://216.118.100.113:80/mysql-admin/scripts/setup.php
 http://216.118.100.114:80/mysql-admin/scripts/setup.php
@@ -9486,6 +9676,7 @@ http://216.118.100.196:80/mysql-admin/scripts/setup.php
 http://216.118.100.197:80/mysql-admin/scripts/setup.php
 http://216.118.100.198:80/mysql-admin/scripts/setup.php
 http://216.118.100.199:80/mysql-admin/scripts/setup.php
+http://216.118.100.200:80/mysql-admin/scripts/setup.php
 http://216.118.100.202:80/mysql-admin/scripts/setup.php
 http://216.118.100.203:80/mysql-admin/scripts/setup.php
 http://216.118.100.204:80/mysql-admin/scripts/setup.php
@@ -9524,6 +9715,7 @@ http://216.118.100.35:80/mysql-admin/scripts/setup.php
 http://216.118.100.36:80/mysql-admin/scripts/setup.php
 http://216.118.100.3:80/mysql-admin/scripts/setup.php
 http://216.118.100.38:80/mysql-admin/scripts/setup.php
+http://216.118.100.39:80/mysql-admin/scripts/setup.php
 http://216.118.100.40:80/mysql-admin/scripts/setup.php
 http://216.118.100.41:80/mysql-admin/scripts/setup.php
 http://216.118.100.45:80/mysql-admin/scripts/setup.php
@@ -9715,6 +9907,7 @@ http://216.118.102.131:80/mysql-admin/scripts/setup.php
 http://216.118.102.134:80/mysql-admin/scripts/setup.php
 http://216.118.102.135:80/mysql-admin/scripts/setup.php
 http://216.118.102.136:80/mysql-admin/scripts/setup.php
+http://216.118.102.138:80/mysql-admin/scripts/setup.php
 http://216.118.102.140:80/mysql-admin/scripts/setup.php
 http://216.118.102.144:80/mysql-admin/scripts/setup.php
 http://216.118.102.145:80/mysql-admin/scripts/setup.php
@@ -9765,12 +9958,14 @@ http://216.118.102.21:80/mysql-admin/scripts/setup.php
 http://216.118.102.218:80/mysql-admin/scripts/setup.php
 http://216.118.102.219:80/mysql-admin/scripts/setup.php
 http://216.118.102.220:80/mysql-admin/scripts/setup.php
+http://216.118.102.226:80/mysql-admin/scripts/setup.php
 http://216.118.102.227:80/mysql-admin/scripts/setup.php
 http://216.118.102.229:80/mysql-admin/scripts/setup.php
 http://216.118.102.230:80/mysql-admin/scripts/setup.php
 http://216.118.102.231:80/mysql-admin/scripts/setup.php
 http://216.118.102.232:80/mysql-admin/scripts/setup.php
 http://216.118.102.233:80/mysql-admin/scripts/setup.php
+http://216.118.102.234:80/mysql-admin/scripts/setup.php
 http://216.118.102.238:80/mysql-admin/scripts/setup.php
 http://216.118.102.240:80/mysql-admin/scripts/setup.php
 http://216.118.102.241:80/mysql-admin/scripts/setup.php
@@ -9802,9 +9997,11 @@ http://216.118.102.53:80/mysql-admin/scripts/setup.php
 http://216.118.102.54:80/mysql-admin/scripts/setup.php
 http://216.118.102.55:80/mysql-admin/scripts/setup.php
 http://216.118.102.57:80/mysql-admin/scripts/setup.php
+http://216.118.102.58:80/mysql-admin/scripts/setup.php
 http://216.118.102.59:80/mysql-admin/scripts/setup.php
 http://216.118.102.60:80/mysql-admin/scripts/setup.php
 http://216.118.102.63:80/mysql-admin/scripts/setup.php
+http://216.118.102.66:80/mysql-admin/scripts/setup.php
 http://216.118.102.6:80/mysql-admin/scripts/setup.php
 http://216.118.102.68:80/mysql-admin/scripts/setup.php
 http://216.118.102.70:80/mysql-admin/scripts/setup.php
@@ -9900,6 +10097,7 @@ http://216.118.103.210:80/mysql-admin/scripts/setup.php
 http://216.118.103.211:80/mysql-admin/scripts/setup.php
 http://216.118.103.212:80/mysql-admin/scripts/setup.php
 http://216.118.103.215:80/mysql-admin/scripts/setup.php
+http://216.118.103.21:80/mysql-admin/scripts/setup.php
 http://216.118.103.218:80/mysql-admin/scripts/setup.php
 http://216.118.103.219:80/mysql-admin/scripts/setup.php
 http://216.118.103.220:80/mysql-admin/scripts/setup.php
@@ -9953,11 +10151,13 @@ http://216.118.103.6:80/mysql-admin/scripts/setup.php
 http://216.118.103.68:80/mysql-admin/scripts/setup.php
 http://216.118.103.69:80/mysql-admin/scripts/setup.php
 http://216.118.103.70:80/mysql-admin/scripts/setup.php
+http://216.118.103.71:80/mysql-admin/scripts/setup.php
 http://216.118.103.72:80/mysql-admin/scripts/setup.php
 http://216.118.103.73:80/mysql-admin/scripts/setup.php
 http://216.118.103.75:80/mysql-admin/scripts/setup.php
 http://216.118.103.79:80/mysql-admin/scripts/setup.php
 http://216.118.103.80:80/mysql-admin/scripts/setup.php
+http://216.118.103.81:80/mysql-admin/scripts/setup.php
 http://216.118.103.82:80/mysql-admin/scripts/setup.php
 http://216.118.103.84:80/mysql-admin/scripts/setup.php
 http://216.118.103.85:80/mysql-admin/scripts/setup.php
@@ -9986,6 +10186,8 @@ http://216.119.75.94:80/PHPMYADMIN/scripts/setup.php
 http://216.126.220.4:80/phpmyadmin/scripts/setup.php
 http://216.144.230.162:8081/phpmyadmin/scripts/setup.php
 http://216.144.230.162:8081/phpMyAdmin/scripts/setup.php
+http://216.144.230.162:80/phpmyadmin/scripts/setup.php
+http://216.144.230.162:80/phpMyAdmin/scripts/setup.php
 http://216.158.88.86:80/phpmyadmin/scripts/setup.php
 http://216.158.88.86:80/phpMyAdmin/scripts/setup.php
 http://216.158.88.86:80/PHPMYADMIN/scripts/setup.php
@@ -10075,6 +10277,7 @@ http://216.8.196.28:80/phpMyAdmin/scripts/setup.php
 http://216.8.196.88:80/phpMyAdmin/scripts/setup.php
 http://216.92.117.59:80/phpMyAdmin/scripts/setup.php
 http://216.92.151.120:80/phpMyAdmin/scripts/setup.php
+http://216.92.163.229:80/phpMyAdmin/scripts/setup.php
 http://216.92.175.127:80/phpMyAdmin/scripts/setup.php
 http://216.92.19.151:80/_phpMyAdmin/scripts/setup.php
 http://216.92.204.94:80/phpMyAdmin/scripts/setup.php
@@ -10176,6 +10379,8 @@ http://217.24.242.231:80/phpmyadmin/scripts/setup.php
 http://217.245.130.57:80/phpMyAdmin/scripts/setup.php
 http://217.249.66.91:80/phpMyAdmin/scripts/setup.php
 http://217.25.194.241:80/phpMyAdmin/scripts/setup.php
+http://217.254.157.237:80/phpmyadmin/scripts/setup.php
+http://217.254.157.237:80/phpMyAdmin/scripts/setup.php
 http://217.28.145.21:8080/phpMyAdmin/scripts/setup.php
 http://217.30.240.20:80/phpmyadmin/scripts/setup.php
 http://217.5.169.100:80/phpmyadmin/scripts/setup.php
@@ -10343,6 +10548,7 @@ http://220.135.131.130:80/PHPMYADMIN/scripts/setup.php
 http://220.135.254.166:80/phpmyadmin/scripts/setup.php
 http://220.135.254.166:80/phpMyAdmin/scripts/setup.php
 http://220.135.254.166:80/PHPMYADMIN/scripts/setup.php
+http://220.136.209.106:8000/phpmyadmin/scripts/setup.php
 http://220.136.209.106:8000/phpMyAdmin/scripts/setup.php
 http://220.136.209.106:8000/PHPMYADMIN/scripts/setup.php
 http://220.142.193.62:80/phpMyAdmin/scripts/setup.php
@@ -10412,6 +10618,7 @@ http://221.247.59.74:80/phpmyadmin/scripts/setup.php
 http://222.103.108.14:80/mysql/scripts/setup.php
 http://222.112.144.52:80/phpMyAdmin/scripts/setup.php
 http://222.112.144.52:80/_phpMyAdmin/scripts/setup.php
+http://222.112.212.238:80/phpmyadmin/scripts/setup.php
 http://222.121.58.180:8080/phpMyAdmin/scripts/setup.php
 http://222.122.158.106:80/phpmyadmin/scripts/setup.php
 http://222.122.203.195:80/myadmin/scripts/setup.php
@@ -10450,6 +10657,8 @@ http://223.27.246.212:80/phpMyAdmin/scripts/setup.php
 http://223.27.246.212:80/PHPMYADMIN/scripts/setup.php
 http://23.102.6.150:80/phpmyadmin/scripts/setup.php
 http://23.20.199.220:8080/phpMyAdmin/scripts/setup.php
+http://23.22.40.138:80/phpMyAdmin/scripts/setup.php
+http://23.22.40.138:80/_phpMyAdmin/scripts/setup.php
 http://23.23.250.168:80/phpMyAdmin/scripts/setup.php
 http://23.235.229.101:80/mysqladmin/scripts/setup.php
 http://23.235.229.101:80/phpmyadmin/scripts/setup.php
@@ -10819,6 +11028,7 @@ http://3.220.250.232:80/_phpMyAdmin/scripts/setup.php
 http://3.221.189.52:80/_phpMyAdmin/scripts/setup.php
 http://3.221.57.247:80/phpMyAdmin/scripts/setup.php
 http://3.221.57.247:80/_phpMyAdmin/scripts/setup.php
+http://3.222.16.135:80/phpMyAdmin/scripts/setup.php
 http://3.222.16.135:80/_phpMyAdmin/scripts/setup.php
 http://3.22.37.61:80/phpMyAdmin/scripts/setup.php
 http://3.224.227.249:80/phpMyAdmin/scripts/setup.php
@@ -11053,6 +11263,8 @@ http://34.235.205.50:80/phpMyAdmin/scripts/setup.php
 http://34.235.205.50:80/_phpMyAdmin/scripts/setup.php
 http://34.236.240.240:80/phpMyAdmin/scripts/setup.php
 http://34.236.240.240:80/_phpMyAdmin/scripts/setup.php
+http://34.237.167.45:80/phpMyAdmin/scripts/setup.php
+http://34.237.167.45:80/_phpMyAdmin/scripts/setup.php
 http://34.238.21.212:80/phpMyAdmin/scripts/setup.php
 http://34.238.21.212:80/_phpMyAdmin/scripts/setup.php
 http://34.238.229.233:80/phpMyAdmin-2.10.0.2/scripts/setup.php
@@ -11124,6 +11336,8 @@ http://34.96.86.113:80/_phpMyAdmin/scripts/setup.php
 http://35.153.110.152:80/mysqladmin/scripts/setup.php
 http://35.153.110.152:80/phpmyadmin/scripts/setup.php
 http://35.153.110.152:80/phpMyAdmin/scripts/setup.php
+http://35.154.39.9:80/phpMyAdmin/scripts/setup.php
+http://35.154.39.9:80/_phpMyAdmin/scripts/setup.php
 http://35.156.19.157:80/phpmyadmin/scripts/setup.php
 http://35.160.0.215:80/phpMyAdmin/scripts/setup.php
 http://35.160.0.215:80/_phpMyAdmin/scripts/setup.php
@@ -11257,6 +11471,7 @@ http://35.242.188.79:80/phpMyAdmin/scripts/setup.php
 http://35.242.188.79:80/_phpMyAdmin/scripts/setup.php
 http://35.242.188.79:80/web/phpMyAdmin/scripts/setup.php
 http://35.243.71.250:80/_phpMyAdmin/scripts/setup.php
+http://35.243.80.176:80/_phpMyAdmin/scripts/setup.php
 http://35.244.17.202:80/pma/scripts/setup.php
 http://35.72.49.185:80/web/phpMyAdmin/scripts/setup.php
 http://35.72.75.238:80/web/phpMyAdmin/scripts/setup.php
@@ -11348,6 +11563,7 @@ http://3.67.189.52:80/web/phpMyAdmin/scripts/setup.php
 http://3.67.199.5:80/_phpMyAdmin/scripts/setup.php
 http://36.73.232.148:80/phpmyadmin/scripts/setup.php
 http://36.74.145.92:80/phpmyadmin/scripts/setup.php
+http://36.77.160.149:8080/phpmyadmin/scripts/setup.php
 http://36.78.139.223:80/phpmyadmin/scripts/setup.php
 http://36.79.141.253:80/pma/scripts/setup.php
 http://36.81.124.244:8080/phpmyadmin/scripts/setup.php
@@ -11372,6 +11588,9 @@ http://36.90.148.118:8080/pma/scripts/setup.php
 http://36.90.148.118:8081/pma/scripts/setup.php
 http://36.90.148.126:80/phpmyadmin/scripts/setup.php
 http://36.90.148.126:80/phpMyAdmin/scripts/setup.php
+http://36.90.148.129:80/phpmyadmin/scripts/setup.php
+http://36.90.148.129:80/phpMyAdmin/scripts/setup.php
+http://36.90.148.129:80/PHPMYADMIN/scripts/setup.php
 http://36.90.148.205:80/phpmyadmin/scripts/setup.php
 http://36.90.148.205:80/phpMyAdmin/scripts/setup.php
 http://36.90.148.205:80/PHPMYADMIN/scripts/setup.php
@@ -11436,6 +11655,7 @@ http://37.1.194.131:8080/myadmin/scripts/setup.php
 http://37.1.194.131:80/myadmin/scripts/setup.php
 http://37.1.196.129:8080/myadmin/scripts/setup.php
 http://37.1.196.129:80/myadmin/scripts/setup.php
+http://37.1.199.39:80/myadmin/scripts/setup.php
 http://37.120.164.80:80/phpmyadmin/scripts/setup.php
 http://37.128.146.95:8081/mysqladmin/scripts/setup.php
 http://37.128.146.95:8081/phpmyadmin/scripts/setup.php
@@ -11455,6 +11675,7 @@ http://37.128.172.5:80/PHPMYADMIN/scripts/setup.php
 http://37.128.172.6:80/phpmyadmin/scripts/setup.php
 http://37.128.172.6:80/phpMyAdmin/scripts/setup.php
 http://37.128.172.6:80/PHPMYADMIN/scripts/setup.php
+http://37.13.106.12:80/phpmyadmin/scripts/setup.php
 http://37.13.110.33:80/phpmyadmin/scripts/setup.php
 http://37.139.127.13:8080/phpmyadmin/scripts/setup.php
 http://37.139.127.13:8080/phpMyAdmin/scripts/setup.php
@@ -11515,6 +11736,7 @@ http://37.187.73.115:80/phpMyAdmin/scripts/setup.php
 http://37.191.42.129:8080/phpmyadmin/scripts/setup.php
 http://37.220.11.117:80/myadmin/scripts/setup.php
 http://37.220.1.119:80/myadmin/scripts/setup.php
+http://37.220.1.88:80/myadmin/scripts/setup.php
 http://37.220.1.93:80/mysqladmin/scripts/setup.php
 http://37.220.1.93:80/phpmyadmin/scripts/setup.php
 http://37.220.1.93:80/phpMyAdmin/scripts/setup.php
@@ -11574,6 +11796,7 @@ http://37.230.116.203:80/websql/scripts/setup.php
 http://37.235.0.200:80/phpMyAdmin/scripts/setup.php
 http://37.24.120.37:80/phpmyadmin/scripts/setup.php
 http://37.244.190.56:80/admin/pma/scripts/setup.php
+http://37.244.190.56:80/admin/scripts/setup.php
 http://37.244.190.56:80/dbadmin/scripts/setup.php
 http://37.244.190.56:80/db/scripts/setup.php
 http://37.244.190.56:80/myadmin/scripts/setup.php
@@ -11595,6 +11818,8 @@ http://37.244.190.56:80/phpMyAdmin-2.11.7/scripts/setup.php
 http://37.244.190.56:80/phpMyAdmin-2.11.9.2/scripts/setup.php
 http://37.244.190.56:80/phpMyAdmin-2.5.4/scripts/setup.php
 http://37.244.190.56:80/phpMyAdmin-2.5.5-pl1/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.5.5/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.5.7-pl1/scripts/setup.php
 http://37.244.190.56:80/phpMyAdmin-2.8.0.2/scripts/setup.php
 http://37.244.190.56:80/phpMyAdmin-2/scripts/setup.php
 http://37.244.190.56:80/phpMyAdmin2/scripts/setup.php
@@ -11880,6 +12105,9 @@ http://42.2.176.125:80/phpMyAdmin/scripts/setup.php
 http://42.3.105.129:80/phpmyadmin/scripts/setup.php
 http://42.3.105.129:80/phpMyAdmin/scripts/setup.php
 http://42.3.105.129:80/PHPMYADMIN/scripts/setup.php
+http://4.232.161.28:80/phpmyadmin/scripts/setup.php
+http://4.232.161.28:80/phpMyAdmin/scripts/setup.php
+http://4.232.161.28:80/PHPMYADMIN/scripts/setup.php
 http://42.51.60.87:80/phpmyadmin/scripts/setup.php
 http://42.51.60.87:80/phpMyAdmin/scripts/setup.php
 http://43.134.152.115:80/phpMyAdmin/scripts/setup.php
@@ -11966,6 +12194,8 @@ http://44.198.151.66:80/phpMyAdmin/scripts/setup.php
 http://44.198.151.66:80/_phpMyAdmin/scripts/setup.php
 http://44.198.166.78:80/phpMyAdmin/scripts/setup.php
 http://44.198.166.78:80/_phpMyAdmin/scripts/setup.php
+http://44.198.207.97:80/phpMyAdmin/scripts/setup.php
+http://44.198.207.97:80/_phpMyAdmin/scripts/setup.php
 http://44.198.79.90:80/web/phpMyAdmin/scripts/setup.php
 http://44.199.252.177:80/web/phpMyAdmin/scripts/setup.php
 http://44.201.13.178:80/phpMyAdmin/scripts/setup.php
@@ -12099,6 +12329,9 @@ http://45.201.198.102:8081/phpMyAdmin/scripts/setup.php
 http://45.201.204.16:8081/phpmyadmin/scripts/setup.php
 http://45.201.204.16:8081/phpMyAdmin/scripts/setup.php
 http://45.201.204.16:8081/PHPMYADMIN/scripts/setup.php
+http://45.201.204.197:8081/phpmyadmin/scripts/setup.php
+http://45.201.204.197:8081/phpMyAdmin/scripts/setup.php
+http://45.201.204.197:8081/PHPMYADMIN/scripts/setup.php
 http://45.201.205.37:8081/phpmyadmin/scripts/setup.php
 http://45.201.205.37:8081/phpMyAdmin/scripts/setup.php
 http://45.201.205.37:8081/PHPMYADMIN/scripts/setup.php
@@ -12355,6 +12588,7 @@ http://46.33.119.231:80/myadmin/scripts/setup.php
 http://46.41.151.101:8000/phpmyadmin/scripts/setup.php
 http://46.41.151.101:8080/phpmyadmin/scripts/setup.php
 http://46.41.151.101:80/phpmyadmin/scripts/setup.php
+http://46.4.116.177:80/phpmyadmin/scripts/setup.php
 http://46.4.129.201:80/phpmyadmin/scripts/setup.php
 http://46.4.129.202:80/phpmyadmin/scripts/setup.php
 http://46.43.20.39:80/phpMyAdmin/scripts/setup.php
@@ -12539,6 +12773,7 @@ http://49.13.83.234:80/_phpMyAdmin/scripts/setup.php
 http://49.146.181.215:8081/phpmyadmin/scripts/setup.php
 http://49.146.181.215:8081/phpMyAdmin/scripts/setup.php
 http://49.151.221.7:8080/phpmyadmin/scripts/setup.php
+http://49.151.228.179:8080/phpmyadmin/scripts/setup.php
 http://49.151.238.235:8080/phpmyadmin/scripts/setup.php
 http://49.151.252.16:8080/phpmyadmin/scripts/setup.php
 http://49.156.37.5:80/phpmyadmin/scripts/setup.php
@@ -12576,6 +12811,7 @@ http://49.212.46.243:80/phpmyadmin/scripts/setup.php
 http://49.212.46.57:80/mysqladmin/scripts/setup.php
 http://49.212.46.57:80/phpmyadmin/scripts/setup.php
 http://49.212.46.57:80/phpMyAdmin/scripts/setup.php
+http://49.212.4.86:80/mysqladmin/scripts/setup.php
 http://49.212.48.73:80/phpmyadmin/scripts/setup.php
 http://49.212.56.204:80/mysqladmin/scripts/setup.php
 http://49.212.57.168:80/mysqladmin/scripts/setup.php
@@ -12673,6 +12909,7 @@ http://50.56.104.87:80/phpmyadmin/scripts/setup.php
 http://50.56.104.87:80/phpMyAdmin/scripts/setup.php
 http://50.56.84.192:80/phpmyadmin/scripts/setup.php
 http://50.56.84.192:80/phpMyAdmin/scripts/setup.php
+http://50.56.91.221:80/MyAdmin/scripts/setup.php
 http://50.57.110.129:80/phpmyadmin/scripts/setup.php
 http://50.57.119.51:80/phpmyadmin/scripts/setup.php
 http://50.57.132.225:80/phpmyadmin/scripts/setup.php
@@ -12759,6 +12996,7 @@ http://5.135.32.119:80/phpmyadmin/scripts/setup.php
 http://5.135.79.2:80/phpmyadmin/scripts/setup.php
 http://5.135.79.3:80/phpmyadmin/scripts/setup.php
 http://51.38.128.88:80/phpmyadmin/scripts/setup.php
+http://51.38.148.129:80/phpmyadmin/scripts/setup.php
 http://51.38.152.201:80/phpMyAdmin/scripts/setup.php
 http://51.38.152.201:80/PHPMYADMIN/scripts/setup.php
 http://51.38.184.25:80/admin/pma/scripts/setup.php
@@ -12806,6 +13044,7 @@ http://51.38.184.25:80/webdb/scripts/setup.php
 http://51.38.184.25:80/web/phpMyAdmin/scripts/setup.php
 http://51.38.184.25:80/websql/scripts/setup.php
 http://51.38.190.200:80/phpmyadmin/scripts/setup.php
+http://51.38.231.193:8080/phpMyAdmin/scripts/setup.php
 http://51.38.231.193:8080/_phpMyAdmin/scripts/setup.php
 http://51.38.235.226:80/phpmyadmin/scripts/setup.php
 http://51.38.27.143:80/phpmyadmin/scripts/setup.php
@@ -12987,6 +13226,7 @@ http://51.91.125.35:80/phpmyadmin/scripts/setup.php
 http://51.91.158.185:80/phpmyadmin/scripts/setup.php
 http://51.91.184.151:80/phpmyadmin/scripts/setup.php
 http://51.91.219.9:80/_phpMyAdmin/scripts/setup.php
+http://51.91.56.38:80/phpmyadmin/scripts/setup.php
 http://51.91.59.246:80/phpmyadmin/scripts/setup.php
 http://51.91.67.126:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://51.91.67.126:80/phpMyAdmin-2.10.2/scripts/setup.php
@@ -13122,6 +13362,7 @@ http://52.201.85.92:80/_phpMyAdmin/scripts/setup.php
 http://52.202.40.243:80/phpMyAdmin/scripts/setup.php
 http://52.20.248.214:8080/phpMyAdmin/scripts/setup.php
 http://52.20.248.214:8080/_phpMyAdmin/scripts/setup.php
+http://5.2.202.69:80/phpMyAdmin-2.5.5/scripts/setup.php
 http://52.202.93.127:80/_phpMyAdmin/scripts/setup.php
 http://52.205.124.161:80/phpMyAdmin-2.10.3/scripts/setup.php
 http://52.205.124.161:80/phpMyAdmin-2/scripts/setup.php
@@ -13181,6 +13422,14 @@ http://52.25.74.28:80/mysqladmin/scripts/setup.php
 http://52.25.74.28:80/phpmyadmin/scripts/setup.php
 http://52.25.74.28:80/phpMyAdmin/scripts/setup.php
 http://52.26.118.135:80/phpMyAdmin/scripts/setup.php
+http://52.27.249.173:80/phpMyAdmin-2.11.0/scripts/setup.php
+http://52.27.249.173:80/phpMyAdmin-2.11.1.2/scripts/setup.php
+http://52.27.249.173:80/phpMyAdmin-2.11.3/scripts/setup.php
+http://52.27.249.173:80/phpMyAdmin-2.11.4/scripts/setup.php
+http://52.27.249.173:80/phpMyAdmin-2.11.7/scripts/setup.php
+http://52.27.249.173:80/phpMyAdmin-2.5.4/scripts/setup.php
+http://52.27.249.173:80/_phpMyAdmin/scripts/setup.php
+http://52.27.249.173:80/web/phpMyAdmin/scripts/setup.php
 http://5.231.239.93:8081/mysqladmin/scripts/setup.php
 http://5.231.239.93:8081/phpmyadmin/scripts/setup.php
 http://5.231.239.93:8081/phpMyAdmin/scripts/setup.php
@@ -13246,6 +13495,7 @@ http://52.4.46.127:80/phpmyadmin/scripts/setup.php
 http://52.45.180.49:80/phpmyadmin/scripts/setup.php
 http://52.45.89.198:80/phpMyAdmin/scripts/setup.php
 http://52.45.89.198:80/_phpMyAdmin/scripts/setup.php
+http://52.4.69.71:80/web/phpMyAdmin/scripts/setup.php
 http://5.249.136.15:8081/mysqladmin/scripts/setup.php
 http://5.249.136.15:8081/phpmyadmin/scripts/setup.php
 http://5.249.136.15:8081/phpMyAdmin/scripts/setup.php
@@ -13295,6 +13545,7 @@ http://52.62.228.33:80/phpMyAdmin/scripts/setup.php
 http://52.62.228.33:80/_phpMyAdmin/scripts/setup.php
 http://52.62.242.92:80/phpMyAdmin/scripts/setup.php
 http://52.62.242.92:80/_phpMyAdmin/scripts/setup.php
+http://52.62.62.137:80/phpMyAdmin/scripts/setup.php
 http://52.64.233.147:80/web/phpMyAdmin/scripts/setup.php
 http://52.64.94.241:80/mysqladmin/scripts/setup.php
 http://52.64.94.241:80/phpmyadmin/scripts/setup.php
@@ -13396,6 +13647,8 @@ http://52.83.141.25:80/phpMyAdmin/scripts/setup.php
 http://52.83.141.25:80/_phpMyAdmin/scripts/setup.php
 http://52.83.56.67:80/phpMyAdmin/scripts/setup.php
 http://52.83.56.67:80/_phpMyAdmin/scripts/setup.php
+http://52.83.81.87:80/phpMyAdmin/scripts/setup.php
+http://52.83.81.87:80/_phpMyAdmin/scripts/setup.php
 http://52.86.108.223:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://52.86.108.223:80/phpMyAdmin-2.10.2/scripts/setup.php
 http://52.86.108.223:80/phpMyAdmin-2.10.3/scripts/setup.php
@@ -13490,6 +13743,8 @@ http://5.39.61.97:80/websql/scripts/setup.php
 http://54.147.174.53:80/phpMyAdmin/scripts/setup.php
 http://54.147.174.53:80/_phpMyAdmin/scripts/setup.php
 http://54.148.0.253:80/phpMyAdmin/scripts/setup.php
+http://54.148.20.140:80/phpMyAdmin/scripts/setup.php
+http://54.148.20.140:80/_phpMyAdmin/scripts/setup.php
 http://54.148.237.32:80/phpmyadmin/scripts/setup.php
 http://54.149.133.151:8080/phpMyAdmin-2.10.3/scripts/setup.php
 http://54.149.133.151:8080/web/phpMyAdmin/scripts/setup.php
@@ -13602,6 +13857,9 @@ http://54.180.191.159:80/web/phpMyAdmin/scripts/setup.php
 http://54.180.90.110:80/phpMyAdmin/scripts/setup.php
 http://54.183.159.163:80/_phpMyAdmin/scripts/setup.php
 http://54.186.0.180:80/phpmyadmin/scripts/setup.php
+http://54.187.141.244:80/phpmyadmin/scripts/setup.php
+http://54.187.141.244:80/phpMyAdmin/scripts/setup.php
+http://54.187.141.244:80/PHPMYADMIN/scripts/setup.php
 http://54.187.41.103:80/phpMyAdmin/scripts/setup.php
 http://54.187.41.103:80/_phpMyAdmin/scripts/setup.php
 http://54.187.41.103:80/web/phpMyAdmin/scripts/setup.php
@@ -13858,6 +14116,7 @@ http://54.69.234.107:80/web/phpMyAdmin/scripts/setup.php
 http://54.69.61.146:80/mysqladmin/scripts/setup.php
 http://54.69.61.146:80/phpmyadmin/scripts/setup.php
 http://54.69.61.146:80/phpMyAdmin/scripts/setup.php
+http://54.70.141.189:80/phpmyadmin/scripts/setup.php
 http://54.70.252.122:80/phpMyAdmin/scripts/setup.php
 http://54.72.39.64:80/phpMyAdmin/scripts/setup.php
 http://54.73.10.92:80/phpmyadmin/scripts/setup.php
@@ -13963,6 +14222,9 @@ http://58.120.226.121:80/phpmyadmin/scripts/setup.php
 http://58.121.89.7:80/mysqladmin/scripts/setup.php
 http://58.121.89.7:80/phpmyadmin/scripts/setup.php
 http://58.121.89.7:80/phpMyAdmin/scripts/setup.php
+http://58.136.222.225:8080/phpmyadmin/scripts/setup.php
+http://58.136.222.225:8080/phpMyAdmin/scripts/setup.php
+http://58.136.222.225:8080/PHPMYADMIN/scripts/setup.php
 http://58.136.223.79:8080/phpmyadmin/scripts/setup.php
 http://58.136.223.79:8080/phpMyAdmin/scripts/setup.php
 http://58.136.223.79:8080/PHPMYADMIN/scripts/setup.php
@@ -14120,6 +14382,8 @@ http://59.17.23.91:80/mysql/scripts/setup.php
 http://59.188.14.77:80/phpmyadmin/scripts/setup.php
 http://59.188.14.77:80/phpMyAdmin/scripts/setup.php
 http://59.188.14.77:80/PHPMYADMIN/scripts/setup.php
+http://59.188.16.17:80/phpmyadmin/scripts/setup.php
+http://59.188.16.17:80/phpMyAdmin/scripts/setup.php
 http://59.188.17.36:80/phpmyadmin/scripts/setup.php
 http://59.190.51.76:80/phpmyadmin/scripts/setup.php
 http://59.2.113.70:8080/phpMyAdmin/scripts/setup.php
@@ -14205,7 +14469,13 @@ http://61.114.238.55:80/phpMyAdmin/scripts/setup.php
 http://61.115.234.50:80/pma/scripts/setup.php
 http://61.14.209.177:80/phpMyAdmin/scripts/setup.php
 http://61.14.211.120:80/phpmyadmin/scripts/setup.php
+http://61.142.246.202:8080/phpmyadmin/scripts/setup.php
+http://61.142.246.202:8080/phpMyAdmin/scripts/setup.php
+http://61.142.246.202:8080/PHPMYADMIN/scripts/setup.php
 http://61.164.246.66:80/pma/scripts/setup.php
+http://61.19.104.81:80/phpmyadmin/scripts/setup.php
+http://61.19.104.81:80/phpMyAdmin/scripts/setup.php
+http://61.19.104.81:80/PHPMYADMIN/scripts/setup.php
 http://61.19.146.146:80/phpMyAdmin/scripts/setup.php
 http://61.19.146.26:80/phpmyadmin/scripts/setup.php
 http://61.19.146.26:80/phpMyAdmin/scripts/setup.php
@@ -14457,6 +14727,7 @@ http://64.247.40.105:80/mysql-admin/scripts/setup.php
 http://64.247.40.10:80/mysql-admin/scripts/setup.php
 http://64.247.40.108:80/mysql-admin/scripts/setup.php
 http://64.247.40.109:80/mysql-admin/scripts/setup.php
+http://64.247.40.110:80/mysql-admin/scripts/setup.php
 http://64.247.40.111:80/mysql-admin/scripts/setup.php
 http://64.247.40.113:80/mysql-admin/scripts/setup.php
 http://64.247.40.114:80/mysql-admin/scripts/setup.php
@@ -14548,6 +14819,7 @@ http://64.247.40.246:80/mysql-admin/scripts/setup.php
 http://64.247.40.24:80/mysql-admin/scripts/setup.php
 http://64.247.40.249:80/mysql-admin/scripts/setup.php
 http://64.247.40.253:80/mysql-admin/scripts/setup.php
+http://64.247.40.254:80/mysql-admin/scripts/setup.php
 http://64.247.40.25:80/mysql-admin/scripts/setup.php
 http://64.247.40.28:80/mysql-admin/scripts/setup.php
 http://64.247.40.29:80/mysql-admin/scripts/setup.php
@@ -14561,6 +14833,7 @@ http://64.247.40.40:80/mysql-admin/scripts/setup.php
 http://64.247.40.41:80/mysql-admin/scripts/setup.php
 http://64.247.40.44:80/mysql-admin/scripts/setup.php
 http://64.247.40.45:80/mysql-admin/scripts/setup.php
+http://64.247.40.46:80/mysql-admin/scripts/setup.php
 http://64.247.40.47:80/mysql-admin/scripts/setup.php
 http://64.247.40.4:80/mysql-admin/scripts/setup.php
 http://64.247.40.52:80/mysql-admin/scripts/setup.php
@@ -14759,6 +15032,7 @@ http://66.84.33.99:80/phpmyadmin/scripts/setup.php
 http://66.84.34.158:80/phpmyadmin/scripts/setup.php
 http://66.84.34.166:80/phpmyadmin/scripts/setup.php
 http://66.84.35.121:80/phpmyadmin/scripts/setup.php
+http://66.84.35.123:80/phpmyadmin/scripts/setup.php
 http://66.84.35.151:80/phpmyadmin/scripts/setup.php
 http://66.84.35.161:80/phpmyadmin/scripts/setup.php
 http://66.84.35.1:80/phpmyadmin/scripts/setup.php
@@ -14820,6 +15094,7 @@ http://66.84.39.41:80/webadmin/scripts/setup.php
 http://66.84.39.41:80/webdb/scripts/setup.php
 http://66.84.39.41:80/web/phpMyAdmin/scripts/setup.php
 http://66.84.39.41:80/websql/scripts/setup.php
+http://66.84.40.113:80/phpmyadmin/scripts/setup.php
 http://66.84.40.151:80/phpmyadmin/scripts/setup.php
 http://66.84.41.106:80/phpmyadmin/scripts/setup.php
 http://66.84.41.114:80/phpmyadmin/scripts/setup.php
@@ -15019,6 +15294,8 @@ http://66.94.122.175:80/websql/scripts/setup.php
 http://66.97.36.124:8080/_phpMyAdmin/scripts/setup.php
 http://67.199.19.45:80/php/scripts/setup.php
 http://67.202.46.157:8081/_phpMyAdmin/scripts/setup.php
+http://67.205.174.222:80/phpMyAdmin/scripts/setup.php
+http://67.205.174.222:80/_phpMyAdmin/scripts/setup.php
 http://67.205.191.10:80/phpmyadmin/scripts/setup.php
 http://67.205.80.132:80/phpmyadmin/scripts/setup.php
 http://67.207.138.210:80/phpmyadmin/scripts/setup.php
@@ -15415,6 +15692,7 @@ http://77.37.28.246:80/phpmyadmin/scripts/setup.php
 http://77.40.48.193:8080/phpMyAdmin/scripts/setup.php
 http://77.41.165.210:8080/phpmyadmin/scripts/setup.php
 http://77.43.79.150:80/phpmyadmin/scripts/setup.php
+http://77.62.129.170:8081/phpmyadmin/scripts/setup.php
 http://77.72.131.69:80/myadmin/scripts/setup.php
 http://77.72.82.81:80/phpMyAdmin-2.10.0.2/scripts/setup.php
 http://77.77.150.176:8080/mysqladmin/scripts/setup.php
@@ -15471,6 +15749,7 @@ http://78.36.4.16:80/phpmyadmin/scripts/setup.php
 http://78.40.35.194:80/pma/scripts/setup.php
 http://78.40.35.195:80/pma/scripts/setup.php
 http://78.41.19.227:80/phpmyadmin/scripts/setup.php
+http://78.41.19.242:80/phpmyadmin/scripts/setup.php
 http://78.46.103.85:80/phpmyadmin/scripts/setup.php
 http://78.46.18.91:80/phpmyadmin/scripts/setup.php
 http://78.46.199.97:80/phpmyadmin/scripts/setup.php
@@ -15498,6 +15777,7 @@ http://78.47.97.237:80/phpmyadmin/scripts/setup.php
 http://78.85.13.110:80/mysqladmin/scripts/setup.php
 http://79.10.245.252:80/phpmyadmin/scripts/setup.php
 http://79.10.245.252:80/phpMyAdmin/scripts/setup.php
+http://79.10.247.239:80/phpmyadmin/scripts/setup.php
 http://79.104.48.38:80/phpmyadmin/scripts/setup.php
 http://79.108.200.42:80/phpMyAdmin/scripts/setup.php
 http://79.129.112.231:80/phpmyadmin/scripts/setup.php
@@ -15631,6 +15911,7 @@ http://80.74.241.131:80/phpmyadmin/scripts/setup.php
 http://80.74.241.132:80/phpmyadmin/scripts/setup.php
 http://80.74.249.120:80/phpmyadmin/scripts/setup.php
 http://80.74.64.15:80/phpmyadmin/scripts/setup.php
+http://80.74.64.199:80/phpmyadmin/scripts/setup.php
 http://80.74.64.27:80/phpmyadmin/scripts/setup.php
 http://80.74.68.62:80/phpmyadmin/scripts/setup.php
 http://80.77.123.201:80/phpmyadmin/scripts/setup.php
@@ -15776,6 +16057,9 @@ http://81.24.32.239:80/phpMyAdmin/scripts/setup.php
 http://81.24.32.241:80/mysqladmin/scripts/setup.php
 http://81.24.32.241:80/phpmyadmin/scripts/setup.php
 http://81.24.32.241:80/phpMyAdmin/scripts/setup.php
+http://81.24.32.247:8080/mysqladmin/scripts/setup.php
+http://81.24.32.247:8080/phpmyadmin/scripts/setup.php
+http://81.24.32.247:8080/phpMyAdmin/scripts/setup.php
 http://81.24.32.247:80/phpmyadmin/scripts/setup.php
 http://81.24.32.247:80/phpMyAdmin/scripts/setup.php
 http://81.252.220.73:80/mysqladmin/scripts/setup.php
@@ -15956,6 +16240,7 @@ http://83.138.65.175:80/phpMyAdmin/scripts/setup.php
 http://83.138.65.208:80/phpMyAdmin/scripts/setup.php
 http://83.138.65.224:80/phpMyAdmin/scripts/setup.php
 http://83.138.65.7:80/phpMyAdmin/scripts/setup.php
+http://83.138.65.78:80/phpMyAdmin/scripts/setup.php
 http://83.138.66.10:80/phpMyAdmin/scripts/setup.php
 http://83.138.66.179:80/phpMyAdmin/scripts/setup.php
 http://83.138.66.54:80/phpMyAdmin/scripts/setup.php
@@ -16160,6 +16445,8 @@ http://84.241.170.17:80/phpmyadmin/scripts/setup.php
 http://84.241.170.17:80/phpMyAdmin/scripts/setup.php
 http://84.245.137.48:80/phpmyadmin/scripts/setup.php
 http://84.246.245.69:80/phpmyadmin/scripts/setup.php
+http://84.247.168.13:80/phpmyadmin/scripts/setup.php
+http://84.247.168.13:80/phpMyAdmin/scripts/setup.php
 http://84.247.193.148:80/phpmyadmin/scripts/setup.php
 http://84.247.193.166:80/phpmyadmin/scripts/setup.php
 http://84.247.193.193:80/phpmyadmin/scripts/setup.php
@@ -16224,6 +16511,7 @@ http://85.134.59.237:80/MyAdmin/scripts/setup.php
 http://85.14.138.101:80/phpmyadmin/scripts/setup.php
 http://85.14.138.113:80/phpmyadmin/scripts/setup.php
 http://85.143.161.206:80/phpmyadmin/scripts/setup.php
+http://85.143.219.155:80/myadmin/scripts/setup.php
 http://85.15.179.171:8080/phpmyadmin/scripts/setup.php
 http://85.15.210.7:80/phpmyadmin/scripts/setup.php
 http://85.159.147.142:80/phpmyadmin/scripts/setup.php
@@ -16247,6 +16535,7 @@ http://85.186.157.82:8081/phpMyAdmin/scripts/setup.php
 http://85.186.157.83:8081/mysqladmin/scripts/setup.php
 http://85.186.157.83:8081/phpmyadmin/scripts/setup.php
 http://85.186.157.83:8081/phpMyAdmin/scripts/setup.php
+http://85.186.157.84:8081/mysqladmin/scripts/setup.php
 http://85.186.157.84:8081/phpmyadmin/scripts/setup.php
 http://85.186.157.84:8081/phpMyAdmin/scripts/setup.php
 http://85.186.157.85:8081/mysqladmin/scripts/setup.php
@@ -16670,6 +16959,7 @@ http://89.246.211.97:80/phpmyadmin/scripts/setup.php
 http://89.249.21.37:80/mysqladmin/scripts/setup.php
 http://89.249.21.37:80/phpmyadmin/scripts/setup.php
 http://89.249.21.37:80/phpMyAdmin/scripts/setup.php
+http://89.249.28.45:80/phpMyAdmin/scripts/setup.php
 http://89.250.240.134:80/phpMyAdmin/scripts/setup.php
 http://89.250.243.232:80/phpmyadmin/scripts/setup.php
 http://89.250.243.232:80/phpMyAdmin/scripts/setup.php
@@ -16745,6 +17035,7 @@ http://89.42.231.83:80/phpMyAdmin/scripts/setup.php
 http://89.42.231.87:80/mysqladmin/scripts/setup.php
 http://89.42.231.87:80/phpmyadmin/scripts/setup.php
 http://89.42.231.87:80/phpMyAdmin/scripts/setup.php
+http://89.42.231.88:80/mysqladmin/scripts/setup.php
 http://89.42.231.88:80/phpmyadmin/scripts/setup.php
 http://89.42.231.88:80/phpMyAdmin/scripts/setup.php
 http://89.42.231.89:80/phpmyadmin/scripts/setup.php
@@ -16914,6 +17205,8 @@ http://91.200.184.87:80/phpmyadmin/scripts/setup.php
 http://91.200.184.87:80/phpMyAdmin/scripts/setup.php
 http://91.200.184.89:80/phpmyadmin/scripts/setup.php
 http://91.200.184.89:80/phpMyAdmin/scripts/setup.php
+http://91.200.184.90:80/phpmyadmin/scripts/setup.php
+http://91.200.184.90:80/phpMyAdmin/scripts/setup.php
 http://91.200.184.92:80/phpmyadmin/scripts/setup.php
 http://91.200.184.92:80/phpMyAdmin/scripts/setup.php
 http://91.200.184.94:80/phpmyadmin/scripts/setup.php
@@ -16995,6 +17288,9 @@ http://91.218.114.17:80/myadmin/scripts/setup.php
 http://91.218.180.8:80/phpmyadmin/scripts/setup.php
 http://91.218.180.9:8081/phpmyadmin/scripts/setup.php
 http://91.218.180.9:80/phpmyadmin/scripts/setup.php
+http://91.218.212.245:80/mysqladmin/scripts/setup.php
+http://91.218.212.245:80/phpmyadmin/scripts/setup.php
+http://91.218.212.245:80/phpMyAdmin/scripts/setup.php
 http://91.218.230.189:80/myadmin/scripts/setup.php
 http://91.218.231.16:80/myadmin/scripts/setup.php
 http://91.219.5.11:80/phpmyadmin/scripts/setup.php
@@ -17088,6 +17384,8 @@ http://91.228.197.79:80/phpmyadmin/scripts/setup.php
 http://91.230.231.21:80/mysqladmin/scripts/setup.php
 http://91.230.231.28:80/phpmyadmin/scripts/setup.php
 http://91.230.44.232:80/phpmyadmin/scripts/setup.php
+http://91.230.54.10:8081/myadmin/scripts/setup.php
+http://91.230.54.10:80/myadmin/scripts/setup.php
 http://91.230.54.18:8081/myadmin/scripts/setup.php
 http://91.230.54.83:8081/myadmin/scripts/setup.php
 http://91.230.60.33:80/myadmin/scripts/setup.php
@@ -17152,6 +17450,7 @@ http://92.243.12.191:80/phpmyadmin/scripts/setup.php
 http://92.243.1.233:80/phpmyadmin/scripts/setup.php
 http://92.243.12.66:80/phpmyadmin/scripts/setup.php
 http://92.243.13.102:80/phpmyadmin/scripts/setup.php
+http://92.243.14.134:80/phpmyadmin/scripts/setup.php
 http://92.243.14.240:80/phpmyadmin/scripts/setup.php
 http://92.243.14.49:80/phpmyadmin/scripts/setup.php
 http://92.243.15.113:80/phpmyadmin/scripts/setup.php
@@ -17273,6 +17572,7 @@ http://93.180.157.91:80/phpMyAdmin/scripts/setup.php
 http://93.180.157.91:80/_phpMyAdmin/scripts/setup.php
 http://93.180.157.91:80/web/phpMyAdmin/scripts/setup.php
 http://93.188.45.208:80/phpMyAdmin2/scripts/setup.php
+http://93.189.113.37:80/phpmyadmin/scripts/setup.php
 http://93.189.147.206:80/myadmin/scripts/setup.php
 http://93.190.205.170:80/phpmyadmin/scripts/setup.php
 http://93.190.205.170:80/phpMyAdmin/scripts/setup.php
@@ -17284,6 +17584,7 @@ http://93.191.153.100:80/mysqladmin/scripts/setup.php
 http://93.191.153.100:80/phpmyadmin/scripts/setup.php
 http://93.191.153.100:80/phpMyAdmin/scripts/setup.php
 http://93.191.40.203:8080/phpmyadmin/scripts/setup.php
+http://93.195.144.51:80/phpmyadmin/scripts/setup.php
 http://93.208.111.148:80/phpMyAdmin/scripts/setup.php
 http://93.208.118.189:80/phpMyAdmin/scripts/setup.php
 http://93.241.34.82:80/phpmyadmin/scripts/setup.php
@@ -17367,6 +17668,7 @@ http://94.159.18.174:8080/PHPMYADMIN/scripts/setup.php
 http://94.16.117.88:80/phpmyadmin/scripts/setup.php
 http://94.176.2.199:80/myadmin/scripts/setup.php
 http://94.185.68.106:80/phpmyadmin/scripts/setup.php
+http://94.199.183.29:80/phpmyadmin/scripts/setup.php
 http://94.22.220.138:80/phpMyAdmin/scripts/setup.php
 http://94.22.220.138:80/_phpMyAdmin/scripts/setup.php
 http://94.228.121.198:8081/phpMyAdmin/scripts/setup.php
@@ -17414,6 +17716,7 @@ http://94.23.87.80:8080/phpMyAdmin/scripts/setup.php
 http://94.23.87.80:80/mysqladmin/scripts/setup.php
 http://94.23.87.80:80/phpmyadmin/scripts/setup.php
 http://94.23.87.80:80/phpMyAdmin/scripts/setup.php
+http://94.247.168.216:80/phpmyadmin/scripts/setup.php
 http://94.247.168.54:80/phpmyadmin/scripts/setup.php
 http://94.247.200.21:80/phpMyAdmin-2.10.2/scripts/setup.php
 http://94.247.200.21:80/phpMyAdmin-2.5.5-pl1/scripts/setup.php
@@ -17423,6 +17726,7 @@ http://94.250.252.11:80/_phpMyAdmin/scripts/setup.php
 http://94.32.66.67:80/phpmyadmin/scripts/setup.php
 http://94.41.116.34:80/phpmyadmin/scripts/setup.php
 http://94.41.116.34:80/phpMyAdmin/scripts/setup.php
+http://94.45.208.113:8080/php/scripts/setup.php
 http://94.45.208.116:8080/php/scripts/setup.php
 http://94.45.208.147:8080/php/scripts/setup.php
 http://94.45.208.149:8080/php/scripts/setup.php
@@ -19296,6 +19600,7 @@ http://113.23.215.29:80/phpmyadmin/scripts/setup.php
 http://113.23.215.29:80/phpMyAdmin/scripts/setup.php
 http://113.28.139.215:80/phpmyadmin/scripts/setup.php
 http://113.28.139.215:80/phpMyAdmin/scripts/setup.php
+http://113.28.139.215:80/PHPMYADMIN/scripts/setup.php
 http://113.37.253.108:80/phpMyAdmin/scripts/setup.php
 http://113.42.230.144:80/mysqladmin/scripts/setup.php
 http://113.42.230.144:80/phpmyadmin/scripts/setup.php
@@ -20171,6 +20476,9 @@ http://119.207.79.77:80/phpMyAdmin/scripts/setup.php
 http://119.207.79.78:80/phpMyAdmin/scripts/setup.php
 http://119.23.219.108:80/_phpMyAdmin/scripts/setup.php
 http://119.23.228.110:80/phpmyadmin/scripts/setup.php
+http://119.237.152.141:80/phpmyadmin/scripts/setup.php
+http://119.237.152.141:80/phpMyAdmin/scripts/setup.php
+http://119.237.152.141:80/PHPMYADMIN/scripts/setup.php
 http://119.245.150.235:80/phpMyAdmin/scripts/setup.php
 http://119.245.177.109:80/_phpMyAdmin/scripts/setup.php
 http://119.245.209.118:80/admin/pma/scripts/setup.php
@@ -20356,6 +20664,7 @@ http://120.24.214.11:8080/phpmyadmin/scripts/setup.php
 http://120.24.229.42:80/mysqladmin/scripts/setup.php
 http://120.24.229.42:80/phpmyadmin/scripts/setup.php
 http://120.24.229.42:80/phpMyAdmin/scripts/setup.php
+http://120.24.245.250:80/phpMyAdmin/scripts/setup.php
 http://120.24.97.155:80/phpMyAdmin/scripts/setup.php
 http://120.24.97.155:80/_phpMyAdmin/scripts/setup.php
 http://120.25.205.114:8081/phpMyAdmin/scripts/setup.php
@@ -20486,6 +20795,7 @@ http://121.152.44.182:80/myadmin/scripts/setup.php
 http://121.152.44.183:80/myadmin/scripts/setup.php
 http://121.152.44.184:80/myadmin/scripts/setup.php
 http://121.152.44.185:80/myadmin/scripts/setup.php
+http://121.152.44.186:80/myadmin/scripts/setup.php
 http://121.152.44.188:80/myadmin/scripts/setup.php
 http://121.152.44.189:80/myadmin/scripts/setup.php
 http://121.152.44.191:80/myadmin/scripts/setup.php
@@ -20713,6 +21023,7 @@ http://122.201.236.122:8080/mysql/scripts/setup.php
 http://122.21.104.213:8080/phpMyAdmin/scripts/setup.php
 http://122.220.194.204:80/phpmyadmin/scripts/setup.php
 http://122.228.152.134:80/phpmyadmin/scripts/setup.php
+http://1.222.30.43:8080/db/scripts/setup.php
 http://122.252.178.202:8081/phpmyadmin/scripts/setup.php
 http://122.252.178.202:8081/phpMyAdmin/scripts/setup.php
 http://122.252.178.202:8081/PHPMYADMIN/scripts/setup.php
@@ -20833,6 +21144,7 @@ http://124.120.128.169:80/admin/scripts/setup.php
 http://124.120.128.82:80/admin/scripts/setup.php
 http://124.120.129.209:80/admin/scripts/setup.php
 http://124.120.131.111:80/admin/scripts/setup.php
+http://124.120.131.240:80/admin/scripts/setup.php
 http://124.120.232.124:80/admin/scripts/setup.php
 http://124.120.232.191:80/admin/scripts/setup.php
 http://124.121.124.150:80/mysql/scripts/setup.php
@@ -21144,6 +21456,9 @@ http://125.230.42.138:80/PHPMYADMIN/scripts/setup.php
 http://125.230.42.16:80/phpmyadmin/scripts/setup.php
 http://125.230.42.16:80/phpMyAdmin/scripts/setup.php
 http://125.230.42.16:80/PHPMYADMIN/scripts/setup.php
+http://125.230.43.237:80/phpmyadmin/scripts/setup.php
+http://125.230.43.237:80/phpMyAdmin/scripts/setup.php
+http://125.230.43.237:80/PHPMYADMIN/scripts/setup.php
 http://125.230.44.79:80/phpmyadmin/scripts/setup.php
 http://125.230.44.79:80/phpMyAdmin/scripts/setup.php
 http://125.230.46.117:80/phpmyadmin/scripts/setup.php
@@ -22761,6 +23076,7 @@ http://14.200.188.179:80/phpMyAdmin/scripts/setup.php
 http://14.200.188.179:80/PHPMYADMIN/scripts/setup.php
 http://14.207.0.159:80/admin/scripts/setup.php
 http://14.207.10.132:80/admin/scripts/setup.php
+http://14.207.11.127:80/admin/scripts/setup.php
 http://14.207.11.62:80/admin/scripts/setup.php
 http://14.207.1.249:80/admin/scripts/setup.php
 http://14.207.13.101:80/admin/scripts/setup.php
@@ -22814,6 +23130,7 @@ http://14.207.3.66:8080/phpmyadmin/scripts/setup.php
 http://14.207.3.66:8080/phpMyAdmin/scripts/setup.php
 http://14.207.3.66:8080/PHPMYADMIN/scripts/setup.php
 http://14.207.41.155:80/admin/scripts/setup.php
+http://14.207.41.84:80/admin/scripts/setup.php
 http://14.207.42.215:80/admin/scripts/setup.php
 http://14.207.42.240:80/admin/scripts/setup.php
 http://14.207.42.60:80/admin/scripts/setup.php
@@ -23466,6 +23783,8 @@ http://149.56.143.141:80/webadmin/scripts/setup.php
 http://149.56.143.141:80/webdb/scripts/setup.php
 http://149.56.143.141:80/web/phpMyAdmin/scripts/setup.php
 http://149.56.143.141:80/websql/scripts/setup.php
+http://149.56.143.84:80/phpmyadmin/scripts/setup.php
+http://149.56.143.84:80/PHPMYADMIN/scripts/setup.php
 http://149.56.167.86:80/phpmyadmin/scripts/setup.php
 http://149.56.176.59:80/phpMyAdmin/scripts/setup.php
 http://149.56.176.59:80/_phpMyAdmin/scripts/setup.php
@@ -23642,6 +23961,8 @@ http://15.229.111.45:80/web/phpMyAdmin/scripts/setup.php
 http://15.229.111.45:80/websql/scripts/setup.php
 http://15.235.144.231:80/phpmyadmin/scripts/setup.php
 http://15.235.162.166:80/_phpMyAdmin/scripts/setup.php
+http://15.235.182.107:80/phpMyAdmin/scripts/setup.php
+http://15.235.182.107:80/_phpMyAdmin/scripts/setup.php
 http://15.235.197.19:80/phpMyAdmin/scripts/setup.php
 http://15.235.197.19:80/_phpMyAdmin/scripts/setup.php
 http://15.236.139.196:80/phpmyadmin/scripts/setup.php
@@ -23955,6 +24276,9 @@ http://154.87.99.42:80/myadmin/scripts/setup.php
 http://154.90.37.125:8080/phpmyadmin/scripts/setup.php
 http://154.90.37.125:8080/phpMyAdmin/scripts/setup.php
 http://154.90.37.125:8080/PHPMYADMIN/scripts/setup.php
+http://154.90.37.125:80/phpmyadmin/scripts/setup.php
+http://154.90.37.125:80/phpMyAdmin/scripts/setup.php
+http://154.90.37.125:80/PHPMYADMIN/scripts/setup.php
 http://155.133.129.145:80/phpmyadmin/scripts/setup.php
 http://155.137.196.184:8080/phpMyAdmin/scripts/setup.php
 http://155.138.164.120:8081/phpMyAdmin/scripts/setup.php
@@ -24948,8 +25272,10 @@ http://171.100.219.59:81/mysql/scripts/setup.php
 http://171.100.219.81:80/admin/scripts/setup.php
 http://171.100.22.112:80/admin/scripts/setup.php
 http://171.100.221.148:80/admin/scripts/setup.php
+http://171.100.221.169:80/admin/scripts/setup.php
 http://171.100.22.129:80/admin/scripts/setup.php
 http://171.100.22.134:80/admin/scripts/setup.php
+http://171.100.22.151:80/admin/scripts/setup.php
 http://171.100.22.155:80/admin/scripts/setup.php
 http://171.100.22.19:80/admin/scripts/setup.php
 http://171.100.22.235:80/admin/scripts/setup.php
@@ -24976,6 +25302,7 @@ http://171.101.119.242:8080/phpmyadmin/scripts/setup.php
 http://171.101.119.242:8080/PHPMYADMIN/scripts/setup.php
 http://171.101.119.63:80/admin/scripts/setup.php
 http://171.101.120.140:80/admin/scripts/setup.php
+http://171.101.120.179:80/admin/scripts/setup.php
 http://171.101.120.225:80/admin/scripts/setup.php
 http://171.101.120.245:8080/phpmyadmin/scripts/setup.php
 http://171.101.120.245:8080/phpMyAdmin/scripts/setup.php
@@ -25065,6 +25392,7 @@ http://171.7.32.70:80/admin/scripts/setup.php
 http://171.7.33.150:80/admin/scripts/setup.php
 http://171.7.34.11:80/admin/scripts/setup.php
 http://171.7.34.154:80/admin/scripts/setup.php
+http://171.7.34.47:80/admin/scripts/setup.php
 http://171.7.35.145:80/admin/scripts/setup.php
 http://171.7.35.224:80/admin/scripts/setup.php
 http://171.7.35.48:80/admin/scripts/setup.php
@@ -25136,6 +25464,7 @@ http://171.97.170.54:80/admin/scripts/setup.php
 http://171.97.200.223:80/admin/scripts/setup.php
 http://171.97.200.44:80/admin/scripts/setup.php
 http://171.97.200.59:80/admin/scripts/setup.php
+http://171.97.200.88:80/admin/scripts/setup.php
 http://171.97.201.188:80/admin/scripts/setup.php
 http://171.97.202.192:80/admin/scripts/setup.php
 http://171.97.202.253:80/admin/scripts/setup.php
@@ -25454,6 +25783,9 @@ http://176.109.231.67:8081/PHPMYADMIN/scripts/setup.php
 http://176.109.240.189:8081/phpmyadmin/scripts/setup.php
 http://176.109.240.189:8081/phpMyAdmin/scripts/setup.php
 http://176.109.240.189:8081/PHPMYADMIN/scripts/setup.php
+http://176.109.243.129:8080/phpmyadmin/scripts/setup.php
+http://176.109.243.129:8080/phpMyAdmin/scripts/setup.php
+http://176.109.243.129:8080/PHPMYADMIN/scripts/setup.php
 http://176.109.244.91:8081/phpmyadmin/scripts/setup.php
 http://176.109.244.91:8081/phpMyAdmin/scripts/setup.php
 http://176.109.244.91:8081/PHPMYADMIN/scripts/setup.php
@@ -26142,6 +26474,9 @@ http://180.179.160.227:80/phpMyAdmin-2/scripts/setup.php
 http://180.180.153.113:8080/phpmyadmin/scripts/setup.php
 http://180.180.153.113:8080/phpMyAdmin/scripts/setup.php
 http://180.180.153.113:8080/PHPMYADMIN/scripts/setup.php
+http://180.180.208.194:8080/phpmyadmin/scripts/setup.php
+http://180.180.208.194:8080/phpMyAdmin/scripts/setup.php
+http://180.180.208.194:8080/PHPMYADMIN/scripts/setup.php
 http://180.180.216.191:80/phpmyadmin/scripts/setup.php
 http://180.180.216.191:80/phpMyAdmin/scripts/setup.php
 http://180.180.216.191:80/PHPMYADMIN/scripts/setup.php
@@ -26278,6 +26613,9 @@ http://180.243.77.251:80/PHPMYADMIN/scripts/setup.php
 http://180.243.77.78:80/phpmyadmin/scripts/setup.php
 http://180.243.77.78:80/phpMyAdmin/scripts/setup.php
 http://180.243.77.78:80/PHPMYADMIN/scripts/setup.php
+http://180.243.86.93:80/phpmyadmin/scripts/setup.php
+http://180.243.86.93:80/phpMyAdmin/scripts/setup.php
+http://180.243.86.93:80/PHPMYADMIN/scripts/setup.php
 http://180.244.212.83:80/phpMyAdmin/scripts/setup.php
 http://180.244.212.83:80/PHPMYADMIN/scripts/setup.php
 http://180.244.214.194:80/phpmyadmin/scripts/setup.php
@@ -26370,6 +26708,7 @@ http://18.116.223.59:80/phpMyAdmin/scripts/setup.php
 http://181.162.31.248:80/phpmyadmin/scripts/setup.php
 http://181.162.31.29:80/phpmyadmin/scripts/setup.php
 http://181.162.53.194:80/phpmyadmin/scripts/setup.php
+http://181.162.5.73:80/phpmyadmin/scripts/setup.php
 http://181.162.63.59:80/phpmyadmin/scripts/setup.php
 http://181.162.8.235:80/phpmyadmin/scripts/setup.php
 http://181.162.9.227:80/phpmyadmin/scripts/setup.php
@@ -26627,6 +26966,7 @@ http://18.208.87.156:80/_phpMyAdmin/scripts/setup.php
 http://18.209.64.102:80/phpMyAdmin/scripts/setup.php
 http://18.209.64.102:80/_phpMyAdmin/scripts/setup.php
 http://18.210.219.252:80/phpMyAdmin-2.10.3/scripts/setup.php
+http://18.210.219.252:80/phpMyAdmin-2.11.3/scripts/setup.php
 http://18.210.219.252:80/phpMyAdmin-2.11.9.2/scripts/setup.php
 http://18.210.219.252:80/phpMyAdmin-2/scripts/setup.php
 http://18.210.55.65:80/phpMyAdmin/scripts/setup.php
@@ -26864,6 +27204,9 @@ http://183.88.154.80:8080/PHPMYADMIN/scripts/setup.php
 http://183.88.159.166:8080/phpmyadmin/scripts/setup.php
 http://183.88.159.166:8080/phpMyAdmin/scripts/setup.php
 http://183.88.159.166:8080/PHPMYADMIN/scripts/setup.php
+http://183.88.159.197:8080/phpmyadmin/scripts/setup.php
+http://183.88.159.197:8080/phpMyAdmin/scripts/setup.php
+http://183.88.159.197:8080/PHPMYADMIN/scripts/setup.php
 http://183.88.159.94:8080/phpmyadmin/scripts/setup.php
 http://183.88.159.94:8080/phpMyAdmin/scripts/setup.php
 http://183.88.159.94:8080/PHPMYADMIN/scripts/setup.php
@@ -26975,6 +27318,7 @@ http://183.89.250.135:80/phpmyadmin/scripts/setup.php
 http://183.89.58.132:80/admin/scripts/setup.php
 http://183.89.61.140:80/admin/scripts/setup.php
 http://183.89.69.95:80/mysql/scripts/setup.php
+http://183.89.70.1:80/mysql/scripts/setup.php
 http://183.89.71.174:80/phpmyadmin/scripts/setup.php
 http://183.89.71.174:80/phpMyAdmin/scripts/setup.php
 http://183.89.71.174:80/PHPMYADMIN/scripts/setup.php
@@ -27169,6 +27513,7 @@ http://185.194.239.9:80/phpmyadmin/scripts/setup.php
 http://185.195.27.60:80/phpMyAdmin/scripts/setup.php
 http://185.195.27.60:80/_phpMyAdmin/scripts/setup.php
 http://185.198.164.143:80/myadmin/scripts/setup.php
+http://185.198.164.178:80/_phpMyAdmin/scripts/setup.php
 http://185.198.164.185:80/myadmin/scripts/setup.php
 http://185.198.165.14:80/myadmin/scripts/setup.php
 http://185.198.165.14:81/myadmin/scripts/setup.php
@@ -27442,6 +27787,9 @@ http://186.129.118.205:80/PHPMYADMIN/scripts/setup.php
 http://186.129.119.139:80/phpmyadmin/scripts/setup.php
 http://186.129.119.139:80/phpMyAdmin/scripts/setup.php
 http://186.129.119.139:80/PHPMYADMIN/scripts/setup.php
+http://186.129.65.251:80/phpmyadmin/scripts/setup.php
+http://186.129.65.251:80/phpMyAdmin/scripts/setup.php
+http://186.129.65.251:80/PHPMYADMIN/scripts/setup.php
 http://186.129.67.149:80/phpmyadmin/scripts/setup.php
 http://186.129.67.149:80/phpMyAdmin/scripts/setup.php
 http://186.129.67.149:80/PHPMYADMIN/scripts/setup.php
@@ -28422,6 +28770,9 @@ http://190.198.74.69:8080/phpmyadmin/scripts/setup.php
 http://190.198.74.69:8080/phpMyAdmin/scripts/setup.php
 http://190.198.74.69:8080/PHPMYADMIN/scripts/setup.php
 http://190.202.89.153:80/phpmyadmin/scripts/setup.php
+http://190.203.15.202:8080/phpmyadmin/scripts/setup.php
+http://190.203.15.202:8080/phpMyAdmin/scripts/setup.php
+http://190.203.15.202:8080/PHPMYADMIN/scripts/setup.php
 http://190.210.132.11:80/pma/scripts/setup.php
 http://190.210.176.100:80/phpmyadmin/scripts/setup.php
 http://190.210.222.112:80/phpmyadmin/scripts/setup.php
@@ -28594,6 +28945,7 @@ http://191.83.163.35:80/phpMyAdmin/scripts/setup.php
 http://191.83.163.35:80/PHPMYADMIN/scripts/setup.php
 http://191.83.165.245:80/phpmyadmin/scripts/setup.php
 http://191.83.165.245:80/phpMyAdmin/scripts/setup.php
+http://191.83.165.245:80/PHPMYADMIN/scripts/setup.php
 http://191.83.169.123:80/phpmyadmin/scripts/setup.php
 http://191.83.169.123:80/phpMyAdmin/scripts/setup.php
 http://191.83.169.123:80/PHPMYADMIN/scripts/setup.php
@@ -30074,6 +30426,7 @@ http://195.191.252.60:80/pma/scripts/setup.php
 http://195.191.83.182:80/mysqladmin/scripts/setup.php
 http://195.191.83.182:80/phpmyadmin/scripts/setup.php
 http://195.191.83.182:80/phpMyAdmin/scripts/setup.php
+http://195.19.40.194:80/pma/scripts/setup.php
 http://195.19.50.140:80/phpMyAdmin/scripts/setup.php
 http://195.19.50.140:80/_phpMyAdmin/scripts/setup.php
 http://195.19.50.41:80/phpmyadmin/scripts/setup.php
@@ -33008,6 +33361,7 @@ http://211.23.170.179:80/phpMyAdmin/scripts/setup.php
 http://211.23.170.179:80/PHPMYADMIN/scripts/setup.php
 http://211.23.203.193:80/phpmyadmin/scripts/setup.php
 http://211.23.203.193:80/phpMyAdmin/scripts/setup.php
+http://211.23.203.193:80/PHPMYADMIN/scripts/setup.php
 http://211.23.233.85:80/phpMyAdmin/scripts/setup.php
 http://211.233.11.177:80/phpMyAdmin/scripts/setup.php
 http://211.233.11.85:80/phpmyadmin/scripts/setup.php
@@ -33700,6 +34054,7 @@ http://216.118.100.162:80/mysql-admin/scripts/setup.php
 http://216.118.100.164:80/mysql-admin/scripts/setup.php
 http://216.118.100.166:80/mysql-admin/scripts/setup.php
 http://216.118.100.167:80/mysql-admin/scripts/setup.php
+http://216.118.100.168:80/mysql-admin/scripts/setup.php
 http://216.118.100.171:80/mysql-admin/scripts/setup.php
 http://216.118.100.172:80/mysql-admin/scripts/setup.php
 http://216.118.100.173:80/mysql-admin/scripts/setup.php
@@ -33730,6 +34085,7 @@ http://216.118.100.198:80/mysql-admin/scripts/setup.php
 http://216.118.100.199:80/mysql-admin/scripts/setup.php
 http://216.118.100.200:80/mysql-admin/scripts/setup.php
 http://216.118.100.201:80/mysql-admin/scripts/setup.php
+http://216.118.100.202:80/mysql-admin/scripts/setup.php
 http://216.118.100.203:80/mysql-admin/scripts/setup.php
 http://216.118.100.204:80/mysql-admin/scripts/setup.php
 http://216.118.100.205:80/mysql-admin/scripts/setup.php
@@ -33745,6 +34101,7 @@ http://216.118.100.215:80/mysql-admin/scripts/setup.php
 http://216.118.100.216:80/mysql-admin/scripts/setup.php
 http://216.118.100.21:80/mysql-admin/scripts/setup.php
 http://216.118.100.218:80/mysql-admin/scripts/setup.php
+http://216.118.100.219:80/mysql-admin/scripts/setup.php
 http://216.118.100.220:80/mysql-admin/scripts/setup.php
 http://216.118.100.221:80/mysql-admin/scripts/setup.php
 http://216.118.100.223:80/mysql-admin/scripts/setup.php
@@ -33810,6 +34167,7 @@ http://216.118.100.60:80/mysql-admin/scripts/setup.php
 http://216.118.100.61:80/mysql-admin/scripts/setup.php
 http://216.118.100.62:80/mysql-admin/scripts/setup.php
 http://216.118.100.63:80/mysql-admin/scripts/setup.php
+http://216.118.100.64:80/mysql-admin/scripts/setup.php
 http://216.118.100.65:80/mysql-admin/scripts/setup.php
 http://216.118.100.66:80/mysql-admin/scripts/setup.php
 http://216.118.100.67:80/mysql-admin/scripts/setup.php
@@ -34871,6 +35229,7 @@ http://217.254.147.168:80/PHPMYADMIN/scripts/setup.php
 http://217.27.159.203:80/phpma/scripts/setup.php
 http://217.27.211.73:80/phpmyadmin/scripts/setup.php
 http://217.28.113.129:80/pma/scripts/setup.php
+http://217.28.145.21:8080/phpMyAdmin/scripts/setup.php
 http://217.28.159.52:80/phpmyadmin/scripts/setup.php
 http://217.30.240.20:80/phpmyadmin/scripts/setup.php
 http://217.5.169.100:80/phpmyadmin/scripts/setup.php
@@ -35094,6 +35453,8 @@ http://220.135.131.130:80/PHPMYADMIN/scripts/setup.php
 http://220.135.254.166:80/phpmyadmin/scripts/setup.php
 http://220.135.254.166:80/phpMyAdmin/scripts/setup.php
 http://220.135.254.166:80/PHPMYADMIN/scripts/setup.php
+http://220.136.209.106:8000/phpMyAdmin/scripts/setup.php
+http://220.136.209.106:8000/PHPMYADMIN/scripts/setup.php
 http://220.142.193.62:80/phpMyAdmin/scripts/setup.php
 http://220.143.130.240:80/phpmyadmin/scripts/setup.php
 http://220.143.130.240:80/phpMyAdmin/scripts/setup.php
@@ -35987,6 +36348,7 @@ http://3.221.46.246:80/_phpMyAdmin/scripts/setup.php
 http://3.221.57.247:80/phpMyAdmin/scripts/setup.php
 http://3.221.57.247:80/_phpMyAdmin/scripts/setup.php
 http://3.222.149.73:80/_phpMyAdmin/scripts/setup.php
+http://3.222.16.135:80/_phpMyAdmin/scripts/setup.php
 http://3.222.206.91:80/phpMyAdmin/scripts/setup.php
 http://3.222.206.91:80/_phpMyAdmin/scripts/setup.php
 http://3.222.243.111:80/_phpMyAdmin/scripts/setup.php
@@ -37075,6 +37437,7 @@ http://36.77.71.216:80/phpmyadmin/scripts/setup.php
 http://36.78.121.36:80/phpmyadmin/scripts/setup.php
 http://36.78.136.84:80/phpmyadmin/scripts/setup.php
 http://36.78.139.223:80/phpmyadmin/scripts/setup.php
+http://36.79.141.253:80/pma/scripts/setup.php
 http://36.79.215.106:80/phpmyadmin/scripts/setup.php
 http://36.79.215.106:80/phpMyAdmin/scripts/setup.php
 http://36.79.215.106:80/PHPMYADMIN/scripts/setup.php
@@ -37192,6 +37555,7 @@ http://36.90.15.144:80/phpmyadmin/scripts/setup.php
 http://36.90.15.144:80/phpMyAdmin/scripts/setup.php
 http://36.90.15.144:80/PHPMYADMIN/scripts/setup.php
 http://36.90.160.179:8080/phpmyadmin/scripts/setup.php
+http://36.90.160.223:8080/phpmyadmin/scripts/setup.php
 http://36.90.161.184:8080/phpmyadmin/scripts/setup.php
 http://36.90.161.221:8080/phpmyadmin/scripts/setup.php
 http://36.90.161.81:8080/phpmyadmin/scripts/setup.php
@@ -37458,6 +37822,47 @@ http://37.235.0.200:80/phpMyAdmin/scripts/setup.php
 http://37.235.92.145:80/phpmyadmin/scripts/setup.php
 http://37.235.92.145:80/phpMyAdmin/scripts/setup.php
 http://37.24.120.37:80/phpmyadmin/scripts/setup.php
+http://37.244.190.56:80/admin/pma/scripts/setup.php
+http://37.244.190.56:80/dbadmin/scripts/setup.php
+http://37.244.190.56:80/db/scripts/setup.php
+http://37.244.190.56:80/myadmin/scripts/setup.php
+http://37.244.190.56:80/MyAdmin/scripts/setup.php
+http://37.244.190.56:80/mysql-admin/scripts/setup.php
+http://37.244.190.56:80/mysqladmin/scripts/setup.php
+http://37.244.190.56:80/mysqlmanager/scripts/setup.php
+http://37.244.190.56:80/mysql/scripts/setup.php
+http://37.244.190.56:80/phpmanager/scripts/setup.php
+http://37.244.190.56:80/phpma/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.10.0.2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.10.2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.10.3/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.11.0/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.11.1.2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.11.3/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.11.4/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.11.7/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.11.9.2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.5.4/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.5.5-pl1/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2.8.0.2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin-2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin2/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin3/scripts/setup.php
+http://37.244.190.56:80/php-myadmin/scripts/setup.php
+http://37.244.190.56:80/phpmy-admin/scripts/setup.php
+http://37.244.190.56:80/phpmyadmin/scripts/setup.php
+http://37.244.190.56:80/phpMyAdmin/scripts/setup.php
+http://37.244.190.56:80/PHPMYADMIN/scripts/setup.php
+http://37.244.190.56:80/_phpMyAdmin/scripts/setup.php
+http://37.244.190.56:80/php/scripts/setup.php
+http://37.244.190.56:80/pma/scripts/setup.php
+http://37.244.190.56:80/sqlmanager/scripts/setup.php
+http://37.244.190.56:80/SQL/scripts/setup.php
+http://37.244.190.56:80/sqlweb/scripts/setup.php
+http://37.244.190.56:80/webadmin/scripts/setup.php
+http://37.244.190.56:80/webdb/scripts/setup.php
+http://37.244.190.56:80/web/phpMyAdmin/scripts/setup.php
+http://37.244.190.56:80/websql/scripts/setup.php
 http://37.247.108.88:8080/phpMyAdmin/scripts/setup.php
 http://37.247.108.88:8080/_phpMyAdmin/scripts/setup.php
 http://37.247.54.29:80/phpmyadmin/scripts/setup.php
@@ -37466,6 +37871,9 @@ http://37.251.153.99:80/phpMyAdmin/scripts/setup.php
 http://37.252.123.89:80/phpMyAdmin/scripts/setup.php
 http://37.252.123.89:80/_phpMyAdmin/scripts/setup.php
 http://37.252.15.236:80/_phpMyAdmin/scripts/setup.php
+http://37.27.7.51:80/phpmyadmin/scripts/setup.php
+http://37.27.7.51:80/phpMyAdmin/scripts/setup.php
+http://37.27.7.51:80/PHPMYADMIN/scripts/setup.php
 http://3.73.124.106:80/_phpMyAdmin/scripts/setup.php
 http://3.73.133.249:80/_phpMyAdmin/scripts/setup.php
 http://3.73.58.90:80/_phpMyAdmin/scripts/setup.php
@@ -37477,9 +37885,11 @@ http://37.44.215.155:8081/_phpMyAdmin/scripts/setup.php
 http://37.46.83.180:80/phpmyadmin/scripts/setup.php
 http://37.46.83.180:80/phpMyAdmin/scripts/setup.php
 http://37.48.102.131:80/myadmin/scripts/setup.php
+http://37.48.73.222:80/phpMyAdmin/scripts/setup.php
 http://3.7.51.193:80/phpMyAdmin/scripts/setup.php
 http://3.75.165.236:80/phpmyadmin/scripts/setup.php
 http://3.75.184.151:80/_phpMyAdmin/scripts/setup.php
+http://3.75.224.143:80/_phpMyAdmin/scripts/setup.php
 http://37.59.102.58:80/phpmyadmin/scripts/setup.php
 http://37.59.108.250:8081/phpmyadmin/scripts/setup.php
 http://37.59.126.53:80/phpmyadmin/scripts/setup.php
@@ -38150,6 +38560,8 @@ http://44.217.42.116:80/_phpMyAdmin/scripts/setup.php
 http://44.217.7.162:80/phpMyAdmin/scripts/setup.php
 http://44.217.7.162:80/_phpMyAdmin/scripts/setup.php
 http://44.219.0.231:80/phpMyAdmin/scripts/setup.php
+http://44.220.127.218:80/phpMyAdmin/scripts/setup.php
+http://44.220.127.218:80/_phpMyAdmin/scripts/setup.php
 http://44.224.103.13:80/phpMyAdmin/scripts/setup.php
 http://44.224.103.13:80/_phpMyAdmin/scripts/setup.php
 http://44.224.103.13:80/web/phpMyAdmin/scripts/setup.php
@@ -38957,6 +39369,7 @@ http://47.98.198.118:80/phpMyAdmin/scripts/setup.php
 http://47.98.198.118:80/_phpMyAdmin/scripts/setup.php
 http://47.98.210.201:8081/phpmyadmin/scripts/setup.php
 http://47.98.210.201:8081/phpMyAdmin/scripts/setup.php
+http://47.98.210.201:8081/PHPMYADMIN/scripts/setup.php
 http://47.98.223.83:80/phpmyadmin/scripts/setup.php
 http://49.0.80.62:80/phpmyadmin/scripts/setup.php
 http://49.0.80.62:80/phpMyAdmin/scripts/setup.php
@@ -39141,6 +39554,7 @@ http://49.49.138.126:80/phpMyAdmin/scripts/setup.php
 http://49.49.138.126:80/PHPMYADMIN/scripts/setup.php
 http://49.49.140.228:80/phpmyadmin/scripts/setup.php
 http://49.49.140.228:80/phpMyAdmin/scripts/setup.php
+http://49.49.15.133:80/phpmyadmin/scripts/setup.php
 http://49.49.21.107:80/phpmyadmin/scripts/setup.php
 http://49.49.5.169:80/phpmyadmin/scripts/setup.php
 http://49.50.173.136:80/phpMyAdmin/scripts/setup.php
@@ -39621,6 +40035,27 @@ http://51.75.163.240:8000/phpMyAdmin/scripts/setup.php
 http://51.75.163.240:8000/PHPMYADMIN/scripts/setup.php
 http://51.75.163.240:8000/pma/scripts/setup.php
 http://51.75.163.240:8000/SQL/scripts/setup.php
+http://51.75.163.240:8080/admin/pma/scripts/setup.php
+http://51.75.163.240:8080/admin/scripts/setup.php
+http://51.75.163.240:8080/dbadmin/scripts/setup.php
+http://51.75.163.240:8080/MyAdmin/scripts/setup.php
+http://51.75.163.240:8080/mysqlmanager/scripts/setup.php
+http://51.75.163.240:8080/mysql/scripts/setup.php
+http://51.75.163.240:8080/phpmanager/scripts/setup.php
+http://51.75.163.240:8080/phpma/scripts/setup.php
+http://51.75.163.240:8080/phpMyAdmin-2.11.3/scripts/setup.php
+http://51.75.163.240:8080/phpMyAdmin-2.5.7-pl1/scripts/setup.php
+http://51.75.163.240:8080/phpMyAdmin-2/scripts/setup.php
+http://51.75.163.240:8080/phpMyAdmin2/scripts/setup.php
+http://51.75.163.240:8080/php-myadmin/scripts/setup.php
+http://51.75.163.240:8080/phpmy-admin/scripts/setup.php
+http://51.75.163.240:8080/_phpMyAdmin/scripts/setup.php
+http://51.75.163.240:8080/php/scripts/setup.php
+http://51.75.163.240:8080/sqlweb/scripts/setup.php
+http://51.75.163.240:8080/webadmin/scripts/setup.php
+http://51.75.163.240:8080/webdb/scripts/setup.php
+http://51.75.163.240:8080/web/phpMyAdmin/scripts/setup.php
+http://51.75.163.240:8080/websql/scripts/setup.php
 http://51.75.163.240:80/admin/pma/scripts/setup.php
 http://51.75.163.240:80/admin/scripts/setup.php
 http://51.75.163.240:80/dbadmin/scripts/setup.php
@@ -39797,6 +40232,8 @@ http://5.196.239.127:80/MyAdmin/scripts/setup.php
 http://5.196.79.147:80/phpmyadmin/scripts/setup.php
 http://52.0.104.8:80/phpMyAdmin/scripts/setup.php
 http://52.0.104.8:80/_phpMyAdmin/scripts/setup.php
+http://52.0.120.197:80/phpMyAdmin/scripts/setup.php
+http://52.0.120.197:80/_phpMyAdmin/scripts/setup.php
 http://52.0.12.138:80/_phpMyAdmin/scripts/setup.php
 http://52.0.13.104:80/phpMyAdmin/scripts/setup.php
 http://52.10.178.103:80/mysqladmin/scripts/setup.php
@@ -40570,6 +41007,7 @@ http://52.76.221.125:80/_phpMyAdmin/scripts/setup.php
 http://52.76.248.59:80/_phpMyAdmin/scripts/setup.php
 http://52.77.150.170:80/_phpMyAdmin/scripts/setup.php
 http://52.77.232.39:80/phpMyAdmin/scripts/setup.php
+http://52.77.232.39:80/_phpMyAdmin/scripts/setup.php
 http://52.77.42.185:80/mysqladmin/scripts/setup.php
 http://52.77.42.185:80/phpmyadmin/scripts/setup.php
 http://52.77.42.185:80/phpMyAdmin/scripts/setup.php
@@ -41287,6 +41725,7 @@ http://54.221.73.137:80/_phpMyAdmin/scripts/setup.php
 http://54.221.73.137:80/web/phpMyAdmin/scripts/setup.php
 http://54.222.141.32:80/phpMyAdmin/scripts/setup.php
 http://54.222.141.32:80/_phpMyAdmin/scripts/setup.php
+http://54.222.150.221:80/phpMyAdmin/scripts/setup.php
 http://54.222.237.33:80/phpMyAdmin/scripts/setup.php
 http://54.222.237.33:80/_phpMyAdmin/scripts/setup.php
 http://54.223.118.57:80/phpMyAdmin/scripts/setup.php
@@ -41669,6 +42108,8 @@ http://54.84.147.13:80/_phpMyAdmin/scripts/setup.php
 http://54.84.249.219:80/phpMyAdmin/scripts/setup.php
 http://54.85.135.150:80/phpMyAdmin/scripts/setup.php
 http://54.85.135.150:80/_phpMyAdmin/scripts/setup.php
+http://54.85.157.254:80/phpMyAdmin/scripts/setup.php
+http://54.85.157.254:80/_phpMyAdmin/scripts/setup.php
 http://54.85.16.42:80/phpMyAdmin/scripts/setup.php
 http://54.85.16.42:80/_phpMyAdmin/scripts/setup.php
 http://54.85.173.203:80/phpMyAdmin/scripts/setup.php
@@ -41841,6 +42282,9 @@ http://58.136.236.174:8081/PHPMYADMIN/scripts/setup.php
 http://58.136.236.174:80/phpmyadmin/scripts/setup.php
 http://58.136.236.174:80/phpMyAdmin/scripts/setup.php
 http://58.136.236.174:80/PHPMYADMIN/scripts/setup.php
+http://58.136.237.127:80/phpmyadmin/scripts/setup.php
+http://58.136.237.127:80/phpMyAdmin/scripts/setup.php
+http://58.136.237.127:80/PHPMYADMIN/scripts/setup.php
 http://58.136.237.213:80/phpmyadmin/scripts/setup.php
 http://58.136.237.213:80/phpMyAdmin/scripts/setup.php
 http://58.136.237.213:80/PHPMYADMIN/scripts/setup.php
@@ -44321,6 +44765,7 @@ http://78.108.183.221:8080/myadmin/scripts/setup.php
 http://78.108.183.221:80/myadmin/scripts/setup.php
 http://78.108.184.185:8080/myadmin/scripts/setup.php
 http://78.108.184.185:80/myadmin/scripts/setup.php
+http://78.108.82.218:80/myadmin/scripts/setup.php
 http://78.108.88.174:80/myadmin/scripts/setup.php
 http://78.108.91.214:80/myadmin/scripts/setup.php
 http://78.108.94.228:80/myadmin/scripts/setup.php
@@ -44373,6 +44818,7 @@ http://78.46.199.97:80/phpmyadmin/scripts/setup.php
 http://78.46.199.99:80/phpmyadmin/scripts/setup.php
 http://78.46.21.252:80/phpmyadmin/scripts/setup.php
 http://78.46.241.10:80/phpmyadmin/scripts/setup.php
+http://78.46.70.55:8080/phpmyadmin/scripts/setup.php
 http://78.46.70.55:8081/phpmyadmin/scripts/setup.php
 http://78.46.70.55:80/phpmyadmin/scripts/setup.php
 http://78.46.78.82:8081/mysqladmin/scripts/setup.php
@@ -45393,6 +45839,7 @@ http://84.131.143.73:80/phpmyadmin/scripts/setup.php
 http://84.1.32.230:80/phpMyAdmin/scripts/setup.php
 http://84.137.177.41:80/phpmyadmin/scripts/setup.php
 http://84.137.183.243:80/phpmyadmin/scripts/setup.php
+http://84.137.185.158:80/phpmyadmin/scripts/setup.php
 http://84.146.126.227:80/phpmyadmin/scripts/setup.php
 http://84.146.17.25:80/phpmyadmin/scripts/setup.php
 http://84.146.17.25:80/phpMyAdmin/scripts/setup.php
@@ -45555,6 +46002,7 @@ http://85.163.87.32:80/phpMyAdmin/scripts/setup.php
 http://85.163.87.32:80/PHPMYADMIN/scripts/setup.php
 http://85.163.87.32:80/_phpMyAdmin/scripts/setup.php
 http://85.16.48.145:80/phpmyadmin/scripts/setup.php
+http://85.16.48.8:80/phpmyadmin/scripts/setup.php
 http://85.169.87.234:80/phpmyadmin/scripts/setup.php
 http://85.17.131.172:80/mysqladmin/scripts/setup.php
 http://85.17.131.172:80/phpmyadmin/scripts/setup.php
