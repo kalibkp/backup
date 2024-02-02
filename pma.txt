@@ -26941,6 +26941,7 @@ http://64.247.40.249:80/mysql-admin/scripts/setup.php
 http://64.247.40.253:80/mysql-admin/scripts/setup.php
 http://64.247.40.254:80/mysql-admin/scripts/setup.php
 http://64.247.40.25:80/mysql-admin/scripts/setup.php
+http://64.247.40.27:80/mysql-admin/scripts/setup.php
 http://64.247.40.2:80/mysql-admin/scripts/setup.php
 http://64.247.40.28:80/mysql-admin/scripts/setup.php
 http://64.247.40.29:80/mysql-admin/scripts/setup.php
@@ -31657,6 +31658,7 @@ http://94.181.180.223:80/phpMyAdmin/scripts/setup.php
 http://94.185.68.106:80/phpmyadmin/scripts/setup.php
 http://94.199.183.29:80/phpmyadmin/scripts/setup.php
 http://94.199.60.71:80/phpMyAdmin/scripts/setup.php
+http://94.199.60.71:80/_phpMyAdmin/scripts/setup.php
 http://94.199.60.71:80/web/phpMyAdmin/scripts/setup.php
 http://94.22.220.138:80/phpMyAdmin/scripts/setup.php
 http://94.22.220.138:80/_phpMyAdmin/scripts/setup.php
