@@ -1,5 +1,9 @@
 cp /root/hrv/ssh.txt ssh.txt
 ./makelist.sh
+cat list.txt sshfull.txt |sort |uniq > s
+rm -rf sshfull.txt
+shuf s > sshfull.txt
+rm -rf s
 cat /root/hrv/pma.txt |sort |uniq > a
 cat pma.txt |sort |uniq >> a
 cat a |sort |uniq > pma.txt
